@@ -1,0 +1,368 @@
+TCunddHTTPServer
+v7
+r0
+t304959311.669779
+cCheck dependencies
+cSymLink /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/Current A
+cSymLink /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Resources Versions/Current/Resources
+cSymLink /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/CunddHTTPServer Versions/Current/CunddHTTPServer
+cProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/A/Resources/Info.plist Info.plist
+cCopyStringsFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddHTTPServer_Prefix-fbdgnfjgnzkyjphjxrpgqrbzcfhf/CunddHTTPServer_Prefix.pch.gch CunddHTTPServer_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/Objects-normal/x86_64/CunddHTTPConnection.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPConnection.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/Objects-normal/x86_64/CunddHTTPServer.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPServer.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/A/CunddHTTPServer normal x86_64
+cPhaseScriptExecution "Run Script" /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/Script-6592C1CA122D4C580094DF39.sh
+cTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C2098C000000000000000EE
+t1277204672
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddHTTPConnection.h
+c000000004C7D0FBA0000000000000805
+t1283264442
+s2053
+i<Cocoa/Cocoa.h>
+i"CunddHTTPHandlerProtocol.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddHTTPHandlerProtocol.h
+c000000004C7D0EF000000000000001C1
+t1283264240
+s449
+i<Cocoa/Cocoa.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddHTTPServer.h
+c000000004C7D11050000000000000461
+t1283264773
+s1121
+i<Cocoa/Cocoa.h>
+i<CunddCore/Cundd.h>
+i"CunddHTTPConnection.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Release/CunddCore.framework/CunddCore
+c000000004C7BC09C000000000004B0D4
+t1283178652
+s307412
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Release/CunddCore.framework/Headers/Cundd.h
+c000000004C615B3700000000000004F1
+t1281448759
+s1265
+i"CunddObject.h"
+i"CunddView.h"
+i"CunddViewController.h"
+i"CunddColorConverter.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Release/CunddCore.framework/Headers/CunddColorConverter.h
+c000000004C615B3700000000000002BD
+t1281448759
+s701
+i<Cocoa/Cocoa.h>
+i"CunddObject.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Release/CunddCore.framework/Headers/CunddConfig.h
+c000000004C615B370000000000000679
+t1281448759
+s1657
+i<Cocoa/Cocoa.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Release/CunddCore.framework/Headers/CunddObject.h
+c000000004C615B37000000000000099D
+t1281448759
+s2461
+i<Cocoa/Cocoa.h>
+i"CunddConfig.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Release/CunddCore.framework/Headers/CunddView.h
+c000000004C615B3700000000000008FF
+t1281448759
+s2303
+i<Cocoa/Cocoa.h>
+i"CunddConfig.h"
+i"/usr/include/objc/runtime.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Release/CunddCore.framework/Headers/CunddViewController.h
+c000000004C615B370000000000000288
+t1281448759
+s648
+i<Cocoa/Cocoa.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/../../CunddHTTPConnection.m
+c000000004C7D0FC60000000000001190
+t1283264454
+s4496
+i"CunddHTTPConnection.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/../../CunddHTTPServer.m
+c000000004C7D144A00000000000009F5
+t1283265610
+s2549
+i"CunddHTTPServer.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPConnection.h
+c000000004C7D0FBA0000000000000805
+t1283264442
+s2053
+i<Cocoa/Cocoa.h>
+i"CunddHTTPHandlerProtocol.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPConnection.m
+c000000004C7D0FC60000000000001190
+t1283264454
+s4496
+i"CunddHTTPConnection.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPHandlerProtocol.h
+c000000004C7D0EF000000000000001C1
+t1283264240
+s449
+i<Cocoa/Cocoa.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPServer-Info.plist
+c000000004C7B7E9500000000000002BC
+t1283161749
+s700
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPServer.h
+c000000004C7D11050000000000000461
+t1283264773
+s1121
+i<Cocoa/Cocoa.h>
+i<CunddCore/Cundd.h>
+i"CunddHTTPConnection.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPServer.m
+c000000004C7D144A00000000000009F5
+t1283265610
+s2549
+i"CunddHTTPServer.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPServer_Prefix.pch
+c000000004C7D147800000000000000A2
+t1283265656
+s162
+i<Cocoa/Cocoa.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/English.lproj/InfoPlist.strings
+c000000004C7D14780000000000000030
+t1283265656
+s48
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/Objects-normal/x86_64/CunddHTTPConnection.o
+t1283266180
+s25916
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/Objects-normal/x86_64/CunddHTTPServer.LinkFileList
+c000000004C7D15F4000000000000015E
+t1283266036
+s350
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/Objects-normal/x86_64/CunddHTTPServer.o
+t1283266180
+s21488
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/Script-6592C1CA122D4C580094DF39.sh
+c000000004C7D17CF0000000000000124
+t1283266511
+s292
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework
+t1283266180
+s170
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/CunddHTTPServer
+t3
+s32
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Resources
+t3
+s26
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/A/CunddHTTPServer
+t1283266180
+s25560
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/A/Resources/CunddHTTPServer-Info.plist
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+t1283266036
+s92
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/A/Resources/Info.plist
+t1283266036
+s732
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/Current
+t3
+s1
+
+N/usr/include/objc/runtime.h
+c000000004B90C7FE000000000000530A
+t1267779582
+s21258
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddHTTPServer_Prefix-eudobeoltavvvjfrebhckdiualjr/CunddHTTPServer_Prefix.pch.gch
+t1283266041
+s54265616
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddHTTPServer_Prefix-fbdgnfjgnzkyjphjxrpgqrbzcfhf/CunddHTTPServer_Prefix.pch.gch
+t1283266178
+s54265616
+
+NInfo.plist
+c000000004C7D14B60000000000000351
+t1283265718
+s849
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304959311#304959311#0(0"0(0#1#0"8643708480#0"0#
+
+CCompileC build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/Objects-normal/x86_64/CunddHTTPConnection.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/../../CunddHTTPConnection.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/Objects-normal/x86_64/CunddHTTPConnection.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPConnection.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s304958979.148809
+e304958980.297868
+r1
+xCompileC
+xbuild/CunddHTTPServer.build/Debug/CunddHTTPServer.build/Objects-normal/x86_64/CunddHTTPConnection.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPConnection.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPConnection.m304958979#304958980#0(0"0(0#0#98"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPConnection.m8604387552#2157"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/CunddHTTPServer-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/CunddHTTPServer-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/CunddHTTPServer-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/CunddHTTPServer-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/../../build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddHTTPServer_Prefix-fbdgnfjgnzkyjphjxrpgqrbzcfhf/CunddHTTPServer_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPConnection.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/Objects-normal/x86_64/CunddHTTPConnection.o0#
+
+CCompileC build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/Objects-normal/x86_64/CunddHTTPServer.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/../../CunddHTTPServer.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/Objects-normal/x86_64/CunddHTTPServer.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPServer.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s304958979.201575
+e304958980.290512
+r1
+xCompileC
+xbuild/CunddHTTPServer.build/Debug/CunddHTTPServer.build/Objects-normal/x86_64/CunddHTTPServer.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPServer.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPServer.m304958979#304958980#0(0"0(0#0#94"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPServer.m8631390752#2149"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/CunddHTTPServer-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/CunddHTTPServer-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/CunddHTTPServer-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/CunddHTTPServer-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/../../build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddHTTPServer_Prefix-fbdgnfjgnzkyjphjxrpgqrbzcfhf/CunddHTTPServer_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPServer.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/Objects-normal/x86_64/CunddHTTPServer.o0#
+
+CCopyPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/A/Resources/CunddHTTPServer-Info.plist CunddHTTPServer-Info.plist
+r0
+
+CCopyStringsFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s304958836.411787
+e304958836.756790
+r1
+xCopyStringsFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings304958836#304958836#0(0"0(0#0#108"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/English.lproj/InfoPlist.strings8638981696#457"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/A/Resources/English.lproj0#
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/A/CunddHTTPServer normal x86_64
+s304958980.297957
+e304958980.865396
+r1
+xLd
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/A/CunddHTTPServer
+xnormal
+xx86_64
+lSLF07#2@146"Link /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/A/CunddHTTPServer304958980#304958980#0(0"0(0#0#0"8625923456#1065"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -dynamiclib -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/../../build/Release -filelist /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/Objects-normal/x86_64/CunddHTTPServer.LinkFileList -install_name /Users/daniel/Library/Frameworks/CunddHTTPServer.framework/Versions/A/CunddHTTPServer -mmacosx-version-min=10.6 -framework Cocoa -framework CunddCore -single_module -compatibility_version 1 -current_version 1 -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/A/CunddHTTPServer0#
+
+CPhaseScriptExecution "Run Script" /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/Script-6592C1CA122D4C580094DF39.sh
+s304959311.631207
+e304959311.669657
+r0
+xPhaseScriptExecution
+xRun Script
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/Script-6592C1CA122D4C580094DF39.sh
+ols: /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Release/CunddHTTPServer.framework/: No such file or directory
+lSLF07#2@36"Run custom shell script 'Run Script'304959311#304959311#0(149"ls: /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Release/CunddHTTPServer.framework/: No such file or directory1(4@148"Ls: /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Release/CunddHTTPServer.framework/: No such file or directory304959311#0#149#0(1@0"0(0#0#0"8624076544#18866"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER daniel    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS x86_64    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386 ppc"    setenv ARCHS_STANDARD_32_BIT "i386 ppc"    setenv ARCHS_STANDARD_64_BIT x86_64    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build    setenv BUILD_ROOT /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug    setenv CACHE_ROOT /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/A    setenv CODE_SIGNING_ALLOWED YES    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug    setenv CONFIGURATION_TEMP_DIR /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug    setenv CONTENTS_FOLDER_PATH CunddHTTPServer.framework/Versions/A    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH x86_64    setenv CURRENT_VARIANT normal    setenv CURRENT_VERSION Current    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH CunddHTTPServer.framework/Versions/A/Resources/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/CunddHTTPServer.dst    setenv DWARF_DSYM_FILE_NAME CunddHTTPServer.framework.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug    setenv DYLIB_COMPATIBILITY_VERSION 1    setenv DYLIB_CURRENT_VERSION 1    setenv DYLIB_INSTALL_NAME_BASE /Users/daniel/Library/Frameworks    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH CunddHTTPServer.framework/Versions/A/Resources/English.lproj    setenv EXECUTABLE_FOLDER_PATH CunddHTTPServer.framework/Versions/A    setenv EXECUTABLE_NAME CunddHTTPServer    setenv EXECUTABLE_PATH CunddHTTPServer.framework/Versions/A/CunddHTTPServer    setenv FILE_LIST /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH CunddHTTPServer.framework/Versions/A/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug\"  \"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/../../build/Release\""    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME CunddHTTPServer.framework    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD gnu99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_FIX_AND_CONTINUE YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_MODEL_TUNING G5    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER CunddHTTPServer_Prefix.pch    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLISTSTRINGS_PATH CunddHTTPServer.framework/Versions/A/Resources/English.lproj/InfoPlist.strings    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Info.plist    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PATH CunddHTTPServer.framework/Versions/A/Resources/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INSTALL_DIR /tmp/CunddHTTPServer.dst/Users/daniel/Library/Frameworks    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER daniel    setenv INSTALL_PATH /Users/daniel/Library/Frameworks    setenv INSTALL_ROOT /tmp/CunddHTTPServer.dst    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH CunddHTTPServer.framework/Versions/A/Resources/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_DYLIB_INSTALL_NAME /Users/daniel/Library/Frameworks/CunddHTTPServer.framework/Versions/A/CunddHTTPServer    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/CunddHTTPServer-LinkMap-normal-x86_64.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_x86_64 /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/Objects-normal/x86_64/CunddHTTPServer.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH CunddHTTPServer.framework/Versions/A/Resources/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_dylib    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1064    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0604    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/Objects-normal    setenv OBJROOT /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build    setenv ONLY_ACTIVE_ARCH YES    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv PACKAGE_TYPE com.apple.package-type.wrapper.framework    setenv PASCAL_STRINGS YES    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH CunddHTTPServer.framework/Versions/A/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/PkgInfo    setenv PKGINFO_PATH CunddHTTPServer.framework/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/usr    setenv PLATFORM_NAME macosx    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PLUGINS_FOLDER_PATH CunddHTTPServer.framework/Versions/A/Resources    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH CunddHTTPServer.framework/Versions/A/PrivateHeaders    setenv PRODUCT_NAME CunddHTTPServer    setenv PRODUCT_SETTINGS_PATH /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/Info.plist    setenv PRODUCT_TYPE com.apple.product-type.framework    setenv PROFILING_CODE NO    setenv PROJECT CunddHTTPServer    setenv PROJECT_DERIVED_FILE_DIR /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/DerivedSources    setenv PROJECT_DIR /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer    setenv PROJECT_FILE_PATH /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPServer.xcodeproj    setenv PROJECT_NAME CunddHTTPServer    setenv PROJECT_TEMP_DIR /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build    setenv PUBLIC_HEADERS_FOLDER_PATH CunddHTTPServer.framework/Versions/A/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH CunddHTTPServer.framework/Versions/A/Resources/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/SDKs/MacOSX10.6.sdk    setenv SDK_DIR /Developer/SDKs/MacOSX10.6.sdk    setenv SDK_NAME macosx10.6    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH CunddHTTPServer.framework/Versions/A/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH CunddHTTPServer.framework/Versions/A/Resources    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer    setenv SRCROOT /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE debugging    setenv SYMBOL_REPOSITORY_DIR /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/SymbolRepositories    setenv SYMROOT /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME CunddHTTPServer    setenv TARGET_BUILD_DIR /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug    setenv TARGET_NAME CunddHTTPServer    setenv TARGET_TEMP_DIR /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build    setenv TEMP_DIR /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build    setenv TEMP_FILES_DIR /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build    setenv TEMP_FILE_DIR /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build    setenv TEMP_ROOT /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH CunddHTTPServer.framework/Versions/A/Resources    setenv UNSTRIPPED_PRODUCT NO    setenv USER daniel    setenv USER_APPS_DIR /Users/daniel/Applications    setenv USER_LIBRARY_DIR /Users/daniel/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 ppc ppc64 ppc7400 ppc970 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH CunddHTTPServer.framework/Versions/A/Resources/version.plist    setenv VERSIONS_FOLDER_PATH CunddHTTPServer.framework/Versions    setenv VERSION_INFO_BUILDER daniel    setenv VERSION_INFO_FILE CunddHTTPServer_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:CunddHTTPServer  PROJECT:CunddHTTPServer-\""    setenv WRAPPER_EXTENSION framework    setenv WRAPPER_NAME CunddHTTPServer.framework    setenv WRAPPER_SUFFIX .framework    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0323    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/Script-6592C1CA122D4C580094DF39.sh1#
+
+CProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/A/Resources/Info.plist Info.plist
+s304958836.407158
+e304958836.411703
+r1
+xProcessInfoPlistFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/A/Resources/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist304958836#304958836#0(0"0(0#0#87"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/Info.plist8639989664#312"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/A/Resources/Info.plist0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddHTTPServer_Prefix-eudobeoltavvvjfrebhckdiualjr/CunddHTTPServer_Prefix.pch.gch CunddHTTPServer_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s304958836.757028
+e304958841.557653
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddHTTPServer_Prefix-eudobeoltavvvjfrebhckdiualjr/CunddHTTPServer_Prefix.pch.gch
+xCunddHTTPServer_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile CunddHTTPServer_Prefix.pch304958836#304958841#0(0"0(0#0#103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPServer_Prefix.pch8749594336#1888"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/CunddHTTPServer-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/CunddHTTPServer-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/CunddHTTPServer-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/CunddHTTPServer-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPServer_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddHTTPServer_Prefix-eudobeoltavvvjfrebhckdiualjr/CunddHTTPServer_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddHTTPServer_Prefix-fbdgnfjgnzkyjphjxrpgqrbzcfhf/CunddHTTPServer_Prefix.pch.gch CunddHTTPServer_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s304958967.916142
+e304958979.148625
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddHTTPServer_Prefix-fbdgnfjgnzkyjphjxrpgqrbzcfhf/CunddHTTPServer_Prefix.pch.gch
+xCunddHTTPServer_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile CunddHTTPServer_Prefix.pch304958967#304958979#0(0"0(0#0#103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPServer_Prefix.pch8631382080#1987"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/CunddHTTPServer-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/CunddHTTPServer-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/CunddHTTPServer-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/CunddHTTPServer-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/../../build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/CunddHTTPServer.build/Debug/CunddHTTPServer.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/CunddHTTPServer_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddHTTPServer_Prefix-fbdgnfjgnzkyjphjxrpgqrbzcfhf/CunddHTTPServer_Prefix.pch.gch0#
+
+CSymLink /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/CunddHTTPServer Versions/Current/CunddHTTPServer
+s304958836.403376
+e304958836.407083
+r1
+xSymLink
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/CunddHTTPServer
+xVersions/Current/CunddHTTPServer
+lSLF07#2@138"Process /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/CunddHTTPServer304958836#304958836#0(0"0(0#0#0"8640639904#264"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer    /bin/ln -sf Versions/Current/CunddHTTPServer /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/CunddHTTPServer0#
+
+CSymLink /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Resources Versions/Current/Resources
+s304958836.377813
+e304958836.405075
+r1
+xSymLink
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Resources
+xVersions/Current/Resources
+lSLF07#2@132"Process /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Resources304958836#304958836#0(0"0(0#0#0"8644633472#252"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer    /bin/ln -sf Versions/Current/Resources /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Resources0#
+
+CSymLink /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/Current A
+s304958836.375985
+e304958836.403241
+r1
+xSymLink
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/Current
+xA
+lSLF07#2@139"Process /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/Current304958836#304958836#0(0"0(0#0#0"13229817833848944#234"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer    /bin/ln -sf A /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework/Versions/Current0#
+
+CTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework
+s304958980.931214
+e304958980.958272
+r1
+xTouch
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework
+lSLF07#2@120"Touch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework304958980#304958980#0(0"0(0#0#0"8729369440#221"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer    /usr/bin/touch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddHTTPServer/build/Debug/CunddHTTPServer.framework0#
+

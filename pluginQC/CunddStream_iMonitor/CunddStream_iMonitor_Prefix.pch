@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'CunddStream_iMonitor' target in the 'CunddStream_iMonitor' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

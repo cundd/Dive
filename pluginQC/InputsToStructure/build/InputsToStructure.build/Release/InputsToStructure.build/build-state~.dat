@@ -1,0 +1,247 @@
+TInputsToStructure
+v7
+r0
+t296560379.520254
+cCheck dependencies
+cProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release/InputsToStructure.plugin/Contents/Info.plist Info.plist
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InputsToStructure_Prefix-evstmoqjngoesldrftrulobkpbqt/InputsToStructure_Prefix.pch.gch InputsToStructure_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InputsToStructure_Prefix-cffktyitvervedfsvhrbfymnzdsk/InputsToStructure_Prefix.pch.gch InputsToStructure_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InputsToStructure_Prefix-azfzghxtrtudheeabmfeparculmz/InputsToStructure_Prefix.pch.gch InputsToStructure_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/x86_64/InputsToStructurePlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/i386/InputsToStructurePlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/ppc/InputsToStructurePlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m normal ppc objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BE2D1A200000000000000EE
+t1273156002
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/CGLMacro.h
+c000000004B8E4E9E000000000001FFC8
+t1267617438
+s131016
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c000000004BE298F40000000000000124
+t1273141492
+s292
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004A1249D4000000000000A5F0
+t1242712532
+s42480
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.h
+c000000004BFCEF230000000000000114
+t1274867491
+s276
+i<Quartz/Quartz.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m
+c000000004BFCEF200000000000000A28
+t1274867488
+s2600
+i<OpenGL/CGLMacro.h>
+i"InputsToStructurePlugIn.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructure_Prefix.pch
+c000000004BFCED2E0000000000000032
+t1274866990
+s50
+i<Quartz/Quartz.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/i386/InputsToStructure
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/i386/InputsToStructure.LinkFileList
+c000000004BFCEF2400000000000000BA
+t1274867492
+s186
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/i386/InputsToStructurePlugIn.o
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/ppc/InputsToStructure
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/ppc/InputsToStructure.LinkFileList
+c000000004BFCEF2400000000000000B9
+t1274867492
+s185
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/ppc/InputsToStructurePlugIn.o
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/x86_64/InputsToStructure
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/x86_64/InputsToStructure.LinkFileList
+c000000004BFCEF2400000000000000BC
+t1274867492
+s188
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/x86_64/InputsToStructurePlugIn.o
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release/InputsToStructure.plugin
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release/InputsToStructure.plugin.dSYM
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release/InputsToStructure.plugin/Contents/Info.plist
+t1274867492
+s877
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release/InputsToStructure.plugin/Contents/MacOS/InputsToStructure
+t2
+s0
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InputsToStructure_Prefix-azfzghxtrtudheeabmfeparculmz/InputsToStructure_Prefix.pch.gch
+t1274867564
+s54990032
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InputsToStructure_Prefix-cffktyitvervedfsvhrbfymnzdsk/InputsToStructure_Prefix.pch.gch
+t1274867558
+s57767344
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InputsToStructure_Prefix-evstmoqjngoesldrftrulobkpbqt/InputsToStructure_Prefix.pch.gch
+t1274867562
+s55141776
+
+NInfo.plist
+c000000004BFCED420000000000000375
+t1274867010
+s885
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296560291#296560292#0(0"0(0#1#0"8650996256#0"0#
+
+CCompileC build/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/i386/InputsToStructurePlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296560364.868706
+e296560378.860517
+r0
+xCompileC
+xbuild/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/i386/InputsToStructurePlugIn.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m:45: warning: property 'inputNummerEins' requires method '-inputNummerEins' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m:45: warning: property 'inputNummerEins' requires the method 'setInputNummerEins:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m:93: error: @dynamic may not be specified in category without an interface
+lSLF07#2@111"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m296560364#296560378#0(697"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m:45: warning: property 'inputNummerEins' requires method '-inputNummerEins' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m:45: warning: property 'inputNummerEins' requires the method 'setInputNummerEins:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m:93: error: @dynamic may not be specified in category without an interface3(22@138"Property 'inputNummerEins' requires method '-inputNummerEins' to be defined - use @synthesize, @dynamic or provide a method implementation296560376#0#256#0(6@103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m296560288#45#0#45#0#0"0(22@145"Property 'inputNummerEins' requires the method 'setInputNummerEins:' to be defined - use @synthesize, @dynamic or provide a method implementation296560376#256#263#0(6@103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m296560288#45#0#45#0#0"0(4@62"@dynamic may not be specified in category without an interface296560376#519#178#0(6@103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m296560288#93#0#93#0#0"0(0#0#103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m8658384896#1543"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/InputsToStructure.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/DerivedSources/i386 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InputsToStructure_Prefix-cffktyitvervedfsvhrbfymnzdsk/InputsToStructure_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/i386/InputsToStructurePlugIn.o1#
+
+CCompileC build/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/ppc/InputsToStructurePlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s296560378.860721
+e296560379.103280
+r0
+xCompileC
+xbuild/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/ppc/InputsToStructurePlugIn.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m:45: warning: property 'inputNummerEins' requires method '-inputNummerEins' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m:45: warning: property 'inputNummerEins' requires the method 'setInputNummerEins:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m:93: error: @dynamic may not be specified in category without an interface
+lSLF07#2@111"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m296560378#296560379#0(697"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m:45: warning: property 'inputNummerEins' requires method '-inputNummerEins' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m:45: warning: property 'inputNummerEins' requires the method 'setInputNummerEins:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m:93: error: @dynamic may not be specified in category without an interface3(22@138"Property 'inputNummerEins' requires method '-inputNummerEins' to be defined - use @synthesize, @dynamic or provide a method implementation296560378#0#256#0(6@103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m296560288#45#0#45#0#0"0(22@145"Property 'inputNummerEins' requires the method 'setInputNummerEins:' to be defined - use @synthesize, @dynamic or provide a method implementation296560378#256#263#0(6@103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m296560288#45#0#45#0#0"0(4@62"@dynamic may not be specified in category without an interface296560378#519#178#0(6@103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m296560288#93#0#93#0#0"0(0#0#103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m8652361152#1550"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/InputsToStructure.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/DerivedSources/ppc -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InputsToStructure_Prefix-azfzghxtrtudheeabmfeparculmz/InputsToStructure_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/ppc/InputsToStructurePlugIn.o1#
+
+CCompileC build/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/x86_64/InputsToStructurePlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296560364.867211
+e296560379.520183
+r0
+xCompileC
+xbuild/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/x86_64/InputsToStructurePlugIn.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m:45: warning: property 'inputNummerEins' requires method '-inputNummerEins' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m:45: warning: property 'inputNummerEins' requires the method 'setInputNummerEins:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m:93: error: @dynamic may not be specified in category without an interface
+lSLF07#2@111"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m296560364#296560379#0(697"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m:45: warning: property 'inputNummerEins' requires method '-inputNummerEins' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m:45: warning: property 'inputNummerEins' requires the method 'setInputNummerEins:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m:93: error: @dynamic may not be specified in category without an interface3(22@138"Property 'inputNummerEins' requires method '-inputNummerEins' to be defined - use @synthesize, @dynamic or provide a method implementation296560376#0#256#0(6@103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m296560288#45#0#45#0#0"0(22@145"Property 'inputNummerEins' requires the method 'setInputNummerEins:' to be defined - use @synthesize, @dynamic or provide a method implementation296560376#256#263#0(6@103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m296560288#45#0#45#0#0"0(4@62"@dynamic may not be specified in category without an interface296560377#519#178#0(6@103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m296560288#93#0#93#0#0"0(0#0#103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m8623735168#1549"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/InputsToStructure.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InputsToStructure_Prefix-evstmoqjngoesldrftrulobkpbqt/InputsToStructure_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructurePlugIn.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/x86_64/InputsToStructurePlugIn.o1#
+
+CCreateUniversalBinary /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release/InputsToStructure.plugin/Contents/MacOS/InputsToStructure normal "x86_64 i386 ppc"
+r0
+
+CGenerateDSYMFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release/InputsToStructure.plugin.dSYM /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release/InputsToStructure.plugin/Contents/MacOS/InputsToStructure
+r0
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/i386/InputsToStructure normal i386
+r0
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/ppc/InputsToStructure normal ppc
+r0
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/Objects-normal/x86_64/InputsToStructure normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release/InputsToStructure.plugin/Contents/Info.plist Info.plist
+s296560292.074117
+e296560292.120089
+r1
+xProcessInfoPlistFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release/InputsToStructure.plugin/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist296560292#296560292#0(0"0(0#0#88"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/Info.plist8654277472#303"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release/InputsToStructure.plugin/Contents/Info.plist0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InputsToStructure_Prefix-azfzghxtrtudheeabmfeparculmz/InputsToStructure_Prefix.pch.gch InputsToStructure_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s296560360.035680
+e296560364.866834
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InputsToStructure_Prefix-azfzghxtrtudheeabmfeparculmz/InputsToStructure_Prefix.pch.gch
+xInputsToStructure_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile InputsToStructure_Prefix.pch296560360#296560364#0(0"0(0#0#106"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructure_Prefix.pch8653267008#1370"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/InputsToStructure.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/DerivedSources/ppc -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructure_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InputsToStructure_Prefix-azfzghxtrtudheeabmfeparculmz/InputsToStructure_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InputsToStructure_Prefix-cffktyitvervedfsvhrbfymnzdsk/InputsToStructure_Prefix.pch.gch InputsToStructure_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s296560292.120948
+e296560360.035375
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InputsToStructure_Prefix-cffktyitvervedfsvhrbfymnzdsk/InputsToStructure_Prefix.pch.gch
+xInputsToStructure_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile InputsToStructure_Prefix.pch296560292#296560360#0(0"0(0#0#106"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructure_Prefix.pch8652455040#1362"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/InputsToStructure.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/DerivedSources/i386 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructure_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InputsToStructure_Prefix-cffktyitvervedfsvhrbfymnzdsk/InputsToStructure_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InputsToStructure_Prefix-evstmoqjngoesldrftrulobkpbqt/InputsToStructure_Prefix.pch.gch InputsToStructure_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296560292.120194
+e296560362.676326
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InputsToStructure_Prefix-evstmoqjngoesldrftrulobkpbqt/InputsToStructure_Prefix.pch.gch
+xInputsToStructure_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile InputsToStructure_Prefix.pch296560292#296560362#0(0"0(0#0#106"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructure_Prefix.pch8653257600#1366"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/InputsToStructure.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/InputsToStructure.build/Release/InputsToStructure.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/InputsToStructure_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/InputsToStructure_Prefix-evstmoqjngoesldrftrulobkpbqt/InputsToStructure_Prefix.pch.gch0#
+
+CTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/InputsToStructure/build/Release/InputsToStructure.plugin
+r0
+

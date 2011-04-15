@@ -1,0 +1,503 @@
+TCunddMIDI
+v7
+r0
+t298487990.082291
+cCheck dependencies
+cSymLink /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Versions/Current A
+cSymLink /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Resources Versions/Current/Resources
+cSymLink /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/CunddMIDI Versions/Current/CunddMIDI
+cProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Versions/A/Resources/Info.plist Info.plist
+cCopyStringsFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddMIDI_Prefix-fdlxtemedlmoasctpizjhvvgbybu/CunddMIDI_Prefix.pch.gch CunddMIDI_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDI.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDI.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIClient.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIClient.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIDataOwner.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDataOwner.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIDestination.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDestination.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIDevice.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDevice.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIEndpoint.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIEndpoint.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIEntity.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIEntity.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIObject.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIObject.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDISource.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDISource.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Versions/A/CunddMIDI normal x86_64
+cTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+c000000004BF4700F00000000000185A0
+t1274310671
+s99744
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreMIDI.framework/Headers/CoreMIDI.h
+c000000004B90FE0C00000000000001EF
+t1267793420
+s495
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Release/CunddCore.framework/CunddCore
+c000000004C1A4E97000000000002B024
+t1276792471
+s176164
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Release/CunddCore.framework/Headers/CunddAppRegistry.h
+c000000004C1A4E9600000000000009BE
+t1276792470
+s2494
+i<Cocoa/Cocoa.h>
+i"CunddObject.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Release/CunddCore.framework/Headers/CunddConfig.h
+c000000004C1A4E9600000000000005BC
+t1276792470
+s1468
+i<Cocoa/Cocoa.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Release/CunddCore.framework/Headers/CunddObject.h
+c000000004C1A4E96000000000000099C
+t1276792470
+s2460
+i<Cocoa/Cocoa.h>
+i"CunddConfig.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Release/CunddDiveFramework.framework/CunddDiveFramework
+c000000004BFCD84200000000000D2AB8
+t1274861634
+s862904
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDI.h
+c000000004C1A4CD30000000000000316
+t1276792019
+s790
+i<Cocoa/Cocoa.h>
+i<CoreMIDI/CoreMIDI.h>
+i<CunddMIDI/CunddMIDISource.h>
+i<CunddMIDI/CunddMIDIDevice.h>
+i<CunddMIDI/CunddMIDIDestination.h>
+i<CunddMIDI/CunddMIDIEntity.h>
+i<CunddMIDI/CunddMIDIClient.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDI.m
+c000000004C1A07C1000000000000042D
+t1276774337
+s1069
+i"CunddMIDI.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIClient.h
+c000000004C1A4CE00000000000000759
+t1276792032
+s1881
+i<Cocoa/Cocoa.h>
+i<CoreMIDI/CoreMIDI.h>
+i<CunddMIDI/CunddMIDIDevice.h>
+i<CunddMIDI/CunddMIDIDataOwner.h>
+i<CunddMIDI/CunddMIDI.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIClient.m
+c000000004C1A5049000000000000175F
+t1276792905
+s5983
+i"CunddMIDIClient.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDataOwner.h
+c000000004C1A4CE900000000000005F1
+t1276792041
+s1521
+i<Cocoa/Cocoa.h>
+i<CunddMIDI/CunddMIDIObject.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDataOwner.m
+c000000004C1A4CEF0000000000000E8A
+t1276792047
+s3722
+i"CunddMIDIDataOwner.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDestination.h
+c000000004C1A4CF7000000000000035C
+t1276792055
+s860
+i<Cocoa/Cocoa.h>
+i<CunddMIDI/CunddMIDIEndpoint.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDestination.m
+c000000004C18E4270000000000000276
+t1276699687
+s630
+i"CunddMIDIDestination.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDevice.h
+c000000004C1A4D010000000000000204
+t1276792065
+s516
+i<Cocoa/Cocoa.h>
+i<CoreMIDI/CoreMIDI.h>
+i<CunddMIDI/CunddMIDIEntity.h>
+i<CunddMIDI/CunddMIDIObject.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDevice.m
+c000000004C163C3100000000000002EB
+t1276525617
+s747
+i"CunddMIDIDevice.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIEndpoint.h
+c000000004C1A4D0500000000000006CA
+t1276792069
+s1738
+i<Cocoa/Cocoa.h>
+i<CoreMIDI/CoreMIDI.h>
+i<CunddMIDI/CunddMIDIObject.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIEndpoint.m
+c000000004C1A2B4E0000000000000C74
+t1276783438
+s3188
+i"CunddMIDIEndpoint.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIEntity.h
+c000000004C1A4F9D00000000000007F6
+t1276792733
+s2038
+i<Cocoa/Cocoa.h>
+i<CoreMIDI/CoreMIDI.h>
+i<CunddMIDI/CunddMIDISource.h>
+i<CunddMIDI/CunddMIDIDestination.h>
+i<CunddMIDI/CunddMIDIDataOwner.h>
+i<CunddCore/CunddAppRegistry.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIEntity.m
+c000000004C1A36BB00000000000012FA
+t1276786363
+s4858
+i"CunddMIDIEntity.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIObject.h
+c000000004C1905D200000000000001A0
+t1276708306
+s416
+i<Cocoa/Cocoa.h>
+i<CoreMIDI/CoreMIDI.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIObject.m
+c000000004C1905C50000000000000172
+t1276708293
+s370
+i"CunddMIDIObject.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDISource.h
+c000000004C1A4D4D00000000000000FC
+t1276792141
+s252
+i<Cocoa/Cocoa.h>
+i<CunddMIDI/CunddMIDIEndpoint.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDISource.m
+c000000004C17893200000000000000C5
+t1276610866
+s197
+i"CunddMIDISource.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDI_Prefix.pch
+c000000004C1A50F20000000000000096
+t1276793074
+s150
+i<Cocoa/Cocoa.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/English.lproj/InfoPlist.strings
+c000000004C1A50F20000000000000030
+t1276793074
+s48
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDI.LinkFileList
+c000000004C1A591D0000000000000577
+t1276795165
+s1399
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDI.o
+t1276795172
+s11856
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIClient.o
+t1276795172
+s39096
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIDataOwner.o
+t1276795172
+s24788
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIDestination.o
+t1276795172
+s9272
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIDevice.o
+t1276795172
+s13028
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIEndpoint.o
+t1276795172
+s20440
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIEntity.o
+t1276795173
+s38340
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIObject.o
+t1276795173
+s7644
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDISource.o
+t1276795173
+s5604
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework
+t1276795190
+s170
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/CunddMIDI
+t3
+s26
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Resources
+t3
+s26
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Versions/A/CunddMIDI
+t1276795190
+s62240
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+t1276795165
+s92
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Versions/A/Resources/Info.plist
+t1276795165
+s720
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Versions/Current
+t3
+s1
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddMIDI_Prefix-bcjlrtczhnemxsasowkfumrljwfr/CunddMIDI_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddMIDI_Prefix-fdlxtemedlmoasctpizjhvvgbybu/CunddMIDI_Prefix.pch.gch
+t1276795171
+s54265616
+
+NInfo.plist
+c000000004C1A50F20000000000000357
+t1276793074
+s855
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies298487990#298487990#0(0"0(0#1#0"8636235136#0"0#
+
+CCompileC build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDI.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDI.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s298487972.147448
+e298487972.481164
+r1
+xCompileC
+xbuild/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDI.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDI.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDI.m298487972#298487972#0(0"0(0#0#82"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDI.m8687503360#1945"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/../../build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddMIDI_Prefix-fdlxtemedlmoasctpizjhvvgbybu/CunddMIDI_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDI.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDI.o0#
+
+CCompileC build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIClient.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIClient.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s298487972.159496
+e298487972.372812
+r1
+xCompileC
+xbuild/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIClient.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIClient.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIClient.m298487972#298487972#0(0"0(0#0#88"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIClient.m8733224512#1957"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/../../build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddMIDI_Prefix-fdlxtemedlmoasctpizjhvvgbybu/CunddMIDI_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIClient.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIClient.o0#
+
+CCompileC build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIDataOwner.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDataOwner.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s298487972.372910
+e298487972.648932
+r1
+xCompileC
+xbuild/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIDataOwner.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDataOwner.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDataOwner.m298487972#298487972#0(0"0(0#0#91"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDataOwner.m8689683200#1963"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/../../build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddMIDI_Prefix-fdlxtemedlmoasctpizjhvvgbybu/CunddMIDI_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDataOwner.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIDataOwner.o0#
+
+CCompileC build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIDestination.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDestination.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s298487972.481255
+e298487972.675754
+r1
+xCompileC
+xbuild/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIDestination.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDestination.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDestination.m298487972#298487972#0(0"0(0#0#93"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDestination.m8733472416#1967"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/../../build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddMIDI_Prefix-fdlxtemedlmoasctpizjhvvgbybu/CunddMIDI_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDestination.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIDestination.o0#
+
+CCompileC build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIDevice.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDevice.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s298487972.649038
+e298487972.834605
+r1
+xCompileC
+xbuild/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIDevice.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDevice.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDevice.m298487972#298487972#0(0"0(0#0#88"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDevice.m8690584864#1957"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/../../build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddMIDI_Prefix-fdlxtemedlmoasctpizjhvvgbybu/CunddMIDI_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIDevice.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIDevice.o0#
+
+CCompileC build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIEndpoint.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIEndpoint.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s298487972.675859
+e298487972.920213
+r1
+xCompileC
+xbuild/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIEndpoint.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIEndpoint.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIEndpoint.m298487972#298487972#0(0"0(0#0#90"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIEndpoint.m8688312512#1961"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/../../build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddMIDI_Prefix-fdlxtemedlmoasctpizjhvvgbybu/CunddMIDI_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIEndpoint.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIEndpoint.o0#
+
+CCompileC build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIEntity.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIEntity.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s298487972.834704
+e298487973.149754
+r1
+xCompileC
+xbuild/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIEntity.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIEntity.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIEntity.m298487972#298487973#0(0"0(0#0#88"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIEntity.m8637703424#1957"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/../../build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddMIDI_Prefix-fdlxtemedlmoasctpizjhvvgbybu/CunddMIDI_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIEntity.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIEntity.o0#
+
+CCompileC build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIObject.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIObject.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s298487972.920454
+e298487973.072391
+r1
+xCompileC
+xbuild/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIObject.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIObject.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIObject.m298487972#298487973#0(0"0(0#0#88"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIObject.m8687941184#1957"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/../../build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddMIDI_Prefix-fdlxtemedlmoasctpizjhvvgbybu/CunddMIDI_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDIObject.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDIObject.o0#
+
+CCompileC build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDISource.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDISource.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s298487973.072499
+e298487973.238221
+r1
+xCompileC
+xbuild/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDISource.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDISource.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDISource.m298487973#298487973#0(0"0(0#0#88"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDISource.m8648807872#1957"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/../../build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddMIDI_Prefix-fdlxtemedlmoasctpizjhvvgbybu/CunddMIDI_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDISource.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDISource.o0#
+
+CCopyStringsFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s298487965.575335
+e298487965.857169
+r1
+xCopyStringsFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings298487965#298487965#0(0"0(0#0#102"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/English.lproj/InfoPlist.strings8746882048#439"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Versions/A/Resources/English.lproj0#
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Versions/A/CunddMIDI normal x86_64
+s298487990.041802
+e298487990.079991
+r1
+xLd
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Versions/A/CunddMIDI
+xnormal
+xx86_64
+lSLF07#2@128"Link /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Versions/A/CunddMIDI298487990#298487990#0(0"0(0#0#0"8697866880#1007"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -dynamiclib -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/../../build/Release -filelist /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/Objects-normal/x86_64/CunddMIDI.LinkFileList -install_name /Users/daniel/Library/Frameworks/CunddMIDI.framework/Versions/A/CunddMIDI -mmacosx-version-min=10.6 -framework Cocoa -framework CunddCore -framework CoreMIDI -single_module -compatibility_version 1 -current_version 1 -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Versions/A/CunddMIDI0#
+
+CProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Versions/A/Resources/Info.plist Info.plist
+s298487965.549414
+e298487965.575245
+r1
+xProcessInfoPlistFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Versions/A/Resources/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist298487965#298487965#0(0"0(0#0#81"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/Info.plist8749035616#294"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Versions/A/Resources/Info.plist0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddMIDI_Prefix-bcjlrtczhnemxsasowkfumrljwfr/CunddMIDI_Prefix.pch.gch CunddMIDI_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddMIDI_Prefix-fdlxtemedlmoasctpizjhvvgbybu/CunddMIDI_Prefix.pch.gch CunddMIDI_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s298487965.857290
+e298487972.147128
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddMIDI_Prefix-fdlxtemedlmoasctpizjhvvgbybu/CunddMIDI_Prefix.pch.gch
+xCunddMIDI_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile CunddMIDI_Prefix.pch298487965#298487972#0(0"0(0#0#91"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDI_Prefix.pch8638699232#1807"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/CunddMIDI-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/../../build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/CunddMIDI.build/Debug/CunddMIDI.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/CunddMIDI_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddMIDI_Prefix-fdlxtemedlmoasctpizjhvvgbybu/CunddMIDI_Prefix.pch.gch0#
+
+CSymLink /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/CunddMIDI Versions/Current/CunddMIDI
+s298487965.524250
+e298487965.549328
+r1
+xSymLink
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/CunddMIDI
+xVersions/Current/CunddMIDI
+lSLF07#2@120"Process /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/CunddMIDI298487965#298487965#0(0"0(0#0#0"8767756128#234"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI    /bin/ln -sf Versions/Current/CunddMIDI /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/CunddMIDI0#
+
+CSymLink /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Resources Versions/Current/Resources
+s298487965.469593
+e298487965.547744
+r1
+xSymLink
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Resources
+xVersions/Current/Resources
+lSLF07#2@120"Process /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Resources298487965#298487965#0(0"0(0#0#0"8688277216#234"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI    /bin/ln -sf Versions/Current/Resources /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Resources0#
+
+CSymLink /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Versions/Current A
+s298487965.468805
+e298487965.524131
+r1
+xSymLink
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Versions/Current
+xA
+lSLF07#2@127"Process /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Versions/Current298487965#298487965#0(0"0(0#0#0"8688312896#216"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI    /bin/ln -sf A /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework/Versions/Current0#
+
+CTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework
+s298487990.080084
+e298487990.082266
+r1
+xTouch
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework
+lSLF07#2@108"Touch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework298487990#298487990#0(0"0(0#0#0"8669187168#203"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI    /usr/bin/touch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/build/Debug/CunddMIDI.framework0#
+

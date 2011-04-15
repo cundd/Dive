@@ -1,0 +1,583 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		6592C202122D4D3C0094DF39 /* Build All */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 6592C205122D4D5A0094DF39 /* Build configuration list for PBXAggregateTarget "Build All" */;
+			buildPhases = (
+			);
+			dependencies = (
+				6592C207122D4D610094DF39 /* PBXTargetDependency */,
+				6592C2C2122D51F60094DF39 /* PBXTargetDependency */,
+			);
+			name = "Build All";
+			productName = "Build All";
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+		6592C1BA122D4C1A0094DF39 /* CunddHTTPConnection.h in Headers */ = {isa = PBXBuildFile; fileRef = 6592C1B5122D4C1A0094DF39 /* CunddHTTPConnection.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6592C1BB122D4C1A0094DF39 /* CunddHTTPConnection.m in Sources */ = {isa = PBXBuildFile; fileRef = 6592C1B6122D4C1A0094DF39 /* CunddHTTPConnection.m */; };
+		6592C1BC122D4C1A0094DF39 /* CunddHTTPHandlerProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = 6592C1B7122D4C1A0094DF39 /* CunddHTTPHandlerProtocol.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6592C1BD122D4C1A0094DF39 /* CunddHTTPServer.h in Headers */ = {isa = PBXBuildFile; fileRef = 6592C1B8122D4C1A0094DF39 /* CunddHTTPServer.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6592C1BE122D4C1A0094DF39 /* CunddHTTPServer.m in Sources */ = {isa = PBXBuildFile; fileRef = 6592C1B9122D4C1A0094DF39 /* CunddHTTPServer.m */; };
+		6592C214122D4DDD0094DF39 /* CunddCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6592C20E122D4D930094DF39 /* CunddCore.framework */; };
+		6592C2DA122D524D0094DF39 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6592C2D9122D524D0094DF39 /* main.m */; };
+		6592C437122D52B60094DF39 /* CunddHTTPServer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8DC2EF5B0486A6940098B216 /* CunddHTTPServer.framework */; };
+		6592C439122D52C40094DF39 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6592C438122D52C40094DF39 /* MainMenu.xib */; };
+		6592C43F122D52E30094DF39 /* CunddHTTPToolAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6592C43E122D52E30094DF39 /* CunddHTTPToolAppDelegate.m */; };
+		6592C450122D53D90094DF39 /* CunddCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6592C20E122D4D930094DF39 /* CunddCore.framework */; };
+		6592C496122D58EB0094DF39 /* CunddHTTPConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 6592C489122D57540094DF39 /* CunddHTTPConstants.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6592C499122D58FD0094DF39 /* CunddHTTPConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 6592C48A122D57540094DF39 /* CunddHTTPConstants.m */; };
+		6592C5AA122D644C0094DF39 /* nachricht.html in Resources */ = {isa = PBXBuildFile; fileRef = 6592C5A9122D644C0094DF39 /* nachricht.html */; };
+		8DC2EF530486A6940098B216 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C1666FE841158C02AAC07 /* InfoPlist.strings */; };
+		8DC2EF570486A6940098B216 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7B1FEA5585E11CA2CBB /* Cocoa.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		6592C206122D4D610094DF39 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0867D690FE84028FC02AAC07 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8DC2EF4F0486A6940098B216;
+			remoteInfo = CunddHTTPServer;
+		};
+		6592C2C1122D51F60094DF39 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0867D690FE84028FC02AAC07 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6592C2B9122D51E80094DF39;
+			remoteInfo = CunddHTTPTool;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0867D69BFE84028FC02AAC07 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		0867D6A5FE840307C02AAC07 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		089C1667FE841158C02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1058C7B1FEA5585E11CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		32DBCF5E0370ADEE00C91783 /* CunddHTTPServer_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddHTTPServer_Prefix.pch; sourceTree = "<group>"; };
+		6592C1B5122D4C1A0094DF39 /* CunddHTTPConnection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddHTTPConnection.h; sourceTree = "<group>"; };
+		6592C1B6122D4C1A0094DF39 /* CunddHTTPConnection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddHTTPConnection.m; sourceTree = "<group>"; };
+		6592C1B7122D4C1A0094DF39 /* CunddHTTPHandlerProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddHTTPHandlerProtocol.h; sourceTree = "<group>"; };
+		6592C1B8122D4C1A0094DF39 /* CunddHTTPServer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddHTTPServer.h; sourceTree = "<group>"; };
+		6592C1B9122D4C1A0094DF39 /* CunddHTTPServer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddHTTPServer.m; sourceTree = "<group>"; };
+		6592C20E122D4D930094DF39 /* CunddCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CunddCore.framework; path = /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Release/CunddCore.framework; sourceTree = "<absolute>"; };
+		6592C2BA122D51E80094DF39 /* CunddHTTPTool.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CunddHTTPTool.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6592C2BC122D51E80094DF39 /* CunddHTTPTool-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CunddHTTPTool-Info.plist"; sourceTree = "<group>"; };
+		6592C2D9122D524D0094DF39 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		6592C438122D52C40094DF39 /* MainMenu.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainMenu.xib; sourceTree = "<group>"; };
+		6592C43D122D52E30094DF39 /* CunddHTTPToolAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddHTTPToolAppDelegate.h; sourceTree = "<group>"; };
+		6592C43E122D52E30094DF39 /* CunddHTTPToolAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddHTTPToolAppDelegate.m; sourceTree = "<group>"; };
+		6592C489122D57540094DF39 /* CunddHTTPConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddHTTPConstants.h; sourceTree = "<group>"; };
+		6592C48A122D57540094DF39 /* CunddHTTPConstants.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddHTTPConstants.m; sourceTree = "<group>"; };
+		6592C5A9122D644C0094DF39 /* nachricht.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = nachricht.html; sourceTree = "<group>"; };
+		8DC2EF5A0486A6940098B216 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8DC2EF5B0486A6940098B216 /* CunddHTTPServer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CunddHTTPServer.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D2F7E79907B2D74100F64583 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6592C2B8122D51E80094DF39 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6592C437122D52B60094DF39 /* CunddHTTPServer.framework in Frameworks */,
+				6592C450122D53D90094DF39 /* CunddCore.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8DC2EF560486A6940098B216 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8DC2EF570486A6940098B216 /* Cocoa.framework in Frameworks */,
+				6592C214122D4DDD0094DF39 /* CunddCore.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		034768DFFF38A50411DB9C8B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8DC2EF5B0486A6940098B216 /* CunddHTTPServer.framework */,
+				6592C2BA122D51E80094DF39 /* CunddHTTPTool.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0867D691FE84028FC02AAC07 /* CunddHTTPServer */ = {
+			isa = PBXGroup;
+			children = (
+				6592C431122D527C0094DF39 /* SERVER */,
+				6592C432122D52940094DF39 /* TOOL */,
+				0867D69AFE84028FC02AAC07 /* External Frameworks and Libraries */,
+				034768DFFF38A50411DB9C8B /* Products */,
+			);
+			name = CunddHTTPServer;
+			sourceTree = "<group>";
+		};
+		0867D69AFE84028FC02AAC07 /* External Frameworks and Libraries */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7B0FEA5585E11CA2CBB /* Linked Frameworks */,
+				1058C7B2FEA5585E11CA2CBB /* Other Frameworks */,
+			);
+			name = "External Frameworks and Libraries";
+			sourceTree = "<group>";
+		};
+		089C1665FE841158C02AAC07 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				8DC2EF5A0486A6940098B216 /* Info.plist */,
+				089C1666FE841158C02AAC07 /* InfoPlist.strings */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		08FB77AEFE84172EC02AAC07 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				6592C1B5122D4C1A0094DF39 /* CunddHTTPConnection.h */,
+				6592C1B6122D4C1A0094DF39 /* CunddHTTPConnection.m */,
+				6592C489122D57540094DF39 /* CunddHTTPConstants.h */,
+				6592C48A122D57540094DF39 /* CunddHTTPConstants.m */,
+				6592C1B7122D4C1A0094DF39 /* CunddHTTPHandlerProtocol.h */,
+				6592C1B8122D4C1A0094DF39 /* CunddHTTPServer.h */,
+				6592C1B9122D4C1A0094DF39 /* CunddHTTPServer.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		1058C7B0FEA5585E11CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6592C20E122D4D930094DF39 /* CunddCore.framework */,
+				1058C7B1FEA5585E11CA2CBB /* Cocoa.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7B2FEA5585E11CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0867D6A5FE840307C02AAC07 /* AppKit.framework */,
+				D2F7E79907B2D74100F64583 /* CoreData.framework */,
+				0867D69BFE84028FC02AAC07 /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		32C88DFF0371C24200C91783 /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32DBCF5E0370ADEE00C91783 /* CunddHTTPServer_Prefix.pch */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		6592C431122D527C0094DF39 /* SERVER */ = {
+			isa = PBXGroup;
+			children = (
+				08FB77AEFE84172EC02AAC07 /* Classes */,
+				32C88DFF0371C24200C91783 /* Other Sources */,
+				089C1665FE841158C02AAC07 /* Resources */,
+			);
+			name = SERVER;
+			sourceTree = "<group>";
+		};
+		6592C432122D52940094DF39 /* TOOL */ = {
+			isa = PBXGroup;
+			children = (
+				6592C43C122D52D60094DF39 /* Classes */,
+				6592C434122D529D0094DF39 /* Other Sources */,
+				6592C436122D52A70094DF39 /* Resources */,
+			);
+			name = TOOL;
+			sourceTree = "<group>";
+		};
+		6592C434122D529D0094DF39 /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				6592C2D9122D524D0094DF39 /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		6592C436122D52A70094DF39 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				6592C2BC122D51E80094DF39 /* CunddHTTPTool-Info.plist */,
+				6592C438122D52C40094DF39 /* MainMenu.xib */,
+				6592C5A9122D644C0094DF39 /* nachricht.html */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		6592C43C122D52D60094DF39 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				6592C43D122D52E30094DF39 /* CunddHTTPToolAppDelegate.h */,
+				6592C43E122D52E30094DF39 /* CunddHTTPToolAppDelegate.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		8DC2EF500486A6940098B216 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6592C496122D58EB0094DF39 /* CunddHTTPConstants.h in Headers */,
+				6592C1BA122D4C1A0094DF39 /* CunddHTTPConnection.h in Headers */,
+				6592C1BC122D4C1A0094DF39 /* CunddHTTPHandlerProtocol.h in Headers */,
+				6592C1BD122D4C1A0094DF39 /* CunddHTTPServer.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		6592C2B9122D51E80094DF39 /* CunddHTTPTool */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6592C2BF122D51E90094DF39 /* Build configuration list for PBXNativeTarget "CunddHTTPTool" */;
+			buildPhases = (
+				6592C2B6122D51E80094DF39 /* Resources */,
+				6592C2B7122D51E80094DF39 /* Sources */,
+				6592C2B8122D51E80094DF39 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CunddHTTPTool;
+			productName = CunddHTTPTool;
+			productReference = 6592C2BA122D51E80094DF39 /* CunddHTTPTool.app */;
+			productType = "com.apple.product-type.application";
+		};
+		8DC2EF4F0486A6940098B216 /* CunddHTTPServer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1DEB91AD08733DA50010E9CD /* Build configuration list for PBXNativeTarget "CunddHTTPServer" */;
+			buildPhases = (
+				8DC2EF500486A6940098B216 /* Headers */,
+				8DC2EF520486A6940098B216 /* Resources */,
+				8DC2EF540486A6940098B216 /* Sources */,
+				8DC2EF560486A6940098B216 /* Frameworks */,
+				6592C1CA122D4C580094DF39 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CunddHTTPServer;
+			productInstallPath = "$(HOME)/Library/Frameworks";
+			productName = CunddHTTPServer;
+			productReference = 8DC2EF5B0486A6940098B216 /* CunddHTTPServer.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0867D690FE84028FC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1DEB91B108733DA50010E9CD /* Build configuration list for PBXProject "CunddHTTPServer" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 0867D691FE84028FC02AAC07 /* CunddHTTPServer */;
+			productRefGroup = 034768DFFF38A50411DB9C8B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8DC2EF4F0486A6940098B216 /* CunddHTTPServer */,
+				6592C202122D4D3C0094DF39 /* Build All */,
+				6592C2B9122D51E80094DF39 /* CunddHTTPTool */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6592C2B6122D51E80094DF39 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6592C439122D52C40094DF39 /* MainMenu.xib in Resources */,
+				6592C5AA122D644C0094DF39 /* nachricht.html in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8DC2EF520486A6940098B216 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8DC2EF530486A6940098B216 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		6592C1CA122D4C580094DF39 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "ls ${BUILD_DIR}/Release/${PRODUCT_NAME}.framework/\n\nrm -R /Users/${USER}/Library/Frameworks/${PRODUCT_NAME}.framework\ncp -Rf ${BUILD_DIR}/Release/${PRODUCT_NAME}.framework /Users/${USER}/Library/Frameworks/${PRODUCT_NAME}.framework\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6592C2B7122D51E80094DF39 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6592C2DA122D524D0094DF39 /* main.m in Sources */,
+				6592C43F122D52E30094DF39 /* CunddHTTPToolAppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8DC2EF540486A6940098B216 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6592C1BB122D4C1A0094DF39 /* CunddHTTPConnection.m in Sources */,
+				6592C1BE122D4C1A0094DF39 /* CunddHTTPServer.m in Sources */,
+				6592C499122D58FD0094DF39 /* CunddHTTPConstants.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		6592C207122D4D610094DF39 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8DC2EF4F0486A6940098B216 /* CunddHTTPServer */;
+			targetProxy = 6592C206122D4D610094DF39 /* PBXContainerItemProxy */;
+		};
+		6592C2C2122D51F60094DF39 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6592C2B9122D51E80094DF39 /* CunddHTTPTool */;
+			targetProxy = 6592C2C1122D51F60094DF39 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		089C1666FE841158C02AAC07 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				089C1667FE841158C02AAC07 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB91AE08733DA50010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../build/Release\"",
+				);
+				FRAMEWORK_VERSION = A;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = CunddHTTPServer_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Library/Frameworks";
+				PRODUCT_NAME = CunddHTTPServer;
+				WRAPPER_EXTENSION = framework;
+			};
+			name = Debug;
+		};
+		1DEB91AF08733DA50010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../build/Release\"",
+				);
+				FRAMEWORK_VERSION = A;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = CunddHTTPServer_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Library/Frameworks";
+				PRODUCT_NAME = CunddHTTPServer;
+				WRAPPER_EXTENSION = framework;
+			};
+			name = Release;
+		};
+		1DEB91B208733DA50010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		1DEB91B308733DA50010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+		6592C203122D4D3C0094DF39 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				PRODUCT_NAME = "Build All";
+			};
+			name = Debug;
+		};
+		6592C204122D4D3C0094DF39 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				PRODUCT_NAME = "Build All";
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+		6592C2BD122D51E90094DF39 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../build/Release\"",
+				);
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/AppKit.framework/Headers/AppKit.h";
+				INFOPLIST_FILE = "CunddHTTPTool-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					AppKit,
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = CunddHTTPTool;
+			};
+			name = Debug;
+		};
+		6592C2BE122D51E90094DF39 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../build/Release\"",
+				);
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/AppKit.framework/Headers/AppKit.h";
+				INFOPLIST_FILE = "CunddHTTPTool-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					AppKit,
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = CunddHTTPTool;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB91AD08733DA50010E9CD /* Build configuration list for PBXNativeTarget "CunddHTTPServer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB91AE08733DA50010E9CD /* Debug */,
+				1DEB91AF08733DA50010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1DEB91B108733DA50010E9CD /* Build configuration list for PBXProject "CunddHTTPServer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB91B208733DA50010E9CD /* Debug */,
+				1DEB91B308733DA50010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6592C205122D4D5A0094DF39 /* Build configuration list for PBXAggregateTarget "Build All" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6592C203122D4D3C0094DF39 /* Debug */,
+				6592C204122D4D3C0094DF39 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6592C2BF122D51E90094DF39 /* Build configuration list for PBXNativeTarget "CunddHTTPTool" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6592C2BD122D51E90094DF39 /* Debug */,
+				6592C2BE122D51E90094DF39 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0867D690FE84028FC02AAC07 /* Project object */;
+}

@@ -1,0 +1,1426 @@
+TDice
+v7
+r0
+t296671144.437839
+cCheck dependencies
+cProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/Info.plist Dice-Info.plist
+cCompileXIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/ClientMainMenu.xib
+cCpResource build/Debug/Dice.app/Contents/Resources/ClientMain.qtz ClientMain.qtz
+cCpResource build/Debug/Dice.app/Contents/Resources/ClientVCController.qtz ClientVCController.qtz
+cCopyPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/Resources/config.plist config.plist
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/DiceApplication.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/DiceApplication.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/main.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiceQCView.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceQCView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiceQCPatchController.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceQCPatchController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiceSettings.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceSettings.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddAppEventHandler.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppEventHandler.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddObject.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddObject.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddViewController.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddViewController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddConfig.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddConfig.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddUIButtonPunch.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonPunch.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddAppRegistry.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppRegistry.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddChoserController.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddChoserController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddUIButtonToggle.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonToggle.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddAppKeyHandler.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppKeyHandler.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddView.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddUIButtonSetter.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonSetter.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveAbstractSettings.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveAbstractSettings.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveQCPatchController.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQCPatchController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveQuitPanel.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQuitPanel.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveQCView.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQCView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveRootView.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveRootView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveDraggingDestinationView.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingDestinationView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/MacOS/Dice normal x86_64
+cPBXCp build/Debug/Dice.app/Contents/Frameworks/BWToolkitFramework.framework /Users/daniel/Sites/mac_iPhone_dev/a_training/BWToolkit/BWToolkitFramework.framework
+cTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004B7E366000000000000000EE
+t1266562656
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004864BB88000000000000170F
+t1214561160
+s5903
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSTableView.h
+c000000004864BB8E0000000000007EAA
+t1214561166
+s32426
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/OpenGL.framework/Headers/OpenGL.h
+c000000004702C63B0000000000001654
+t1191364155
+s5716
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c000000004702C63B0000000000025B59
+t1191364155
+s154457
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004B760CD4000000000000CB3C
+t1266027732
+s52028
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c0000000047BB1D140000000000000100
+t1203445012
+s256
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004B760CD700000000000046C8
+t1266027735
+s18120
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004BE2C6D100000000000017ED
+t1273153233
+s6125
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/OpenGL.h
+c000000004BE91B5D0000000000001659
+t1273568093
+s5721
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c000000004BE91B5D0000000000025B59
+t1273568093
+s154457
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004BF47010000000000000DB14
+t1274310672
+s56084
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c000000004BE54CE90000000000000124
+t1273318633
+s292
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004BF4701000000000000036E0
+t1274310672
+s14048
+
+N/System/Library/Frameworks/AppKit.framework/AppKit
+c000000004C1171170000000002B48410
+t1276211479
+s45384720
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004B73FC5E000000000052F740
+t1265892446
+s5437248
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C11730A0000000000B37440
+t1276211978
+s11760704
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/BWToolkit/BWToolkitFramework.framework
+c000000004BED1FC100000000000000CC
+t1273831361
+s204
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/../../../../Studium/bachelor/logo/dice_icon.icns
+c000000004C08CE42000000000001F7FC
+t1275645506
+s129020
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/../../../../Studium/bachelor/logo/dive_icon.icns
+c000000004C08CD500000000000017477
+t1275645264
+s95351
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/BYPASS.xib
+c000000004C078DA10000000000013DCF
+t1275563425
+s81359
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Base/Cundd.h
+c000000004C077A9700000000000000E7
+t1275558551
+s231
+i"CunddObject.h"
+i"CunddView.h"
+i"CunddViewController.h"
+i"CunddColorConverter.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Base/CunddArray.h
+c000000004C10D19200000000000000F1
+t1276170642
+s241
+i<Foundation/Foundation.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Base/CunddArray.m
+c000000004C13CDF600000000000001C5
+t1276366326
+s453
+i"CunddArray.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Base/CunddColorConverter.h
+c000000004C077B1800000000000002BD
+t1275558680
+s701
+i<Cocoa/Cocoa.h>
+i"CunddObject.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Base/CunddColorConverter.m
+c000000004C077B5E000000000000083D
+t1275558750
+s2109
+i"CunddColorConverter.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Base/CunddConfig.h
+c000000004BEAAF7D00000000000005BC
+t1273671549
+s1468
+i<Cocoa/Cocoa.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Base/CunddConfig.m
+c000000004BEAAF8C0000000000000837
+t1273671564
+s2103
+i"CunddConfig.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Base/CunddObject.h
+c000000004BEA6DE5000000000000099C
+t1273654757
+s2460
+i<Cocoa/Cocoa.h>
+i"CunddConfig.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Base/CunddObject.m
+c000000004C19F66D0000000000000BCC
+t1276769901
+s3020
+i"CunddObject.h"
+i"/usr/include/objc/runtime.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Base/CunddView.h
+c000000004BF15A2A00000000000008FF
+t1274108458
+s2303
+i<Cocoa/Cocoa.h>
+i"CunddConfig.h"
+i"/usr/include/objc/runtime.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Base/CunddView.m
+c000000004BF15A3E0000000000000C80
+t1274108478
+s3200
+i"CunddView.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Base/CunddViewController.h
+c000000004C10BB450000000000000288
+t1276164933
+s648
+i<Cocoa/Cocoa.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Base/CunddViewController.m
+c000000004BD162F100000000000006F8
+t1272013553
+s1784
+i"CunddViewController.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/City_Lights.xib
+c000000004C077EBD000000000000E498
+t1275559613
+s58520
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/ClientMain.qtz
+c000000004BFCEFDC0000000000011149
+t1274867676
+s69961
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/ClientMainMenu.xib
+c000000004C053F940000000000033839
+t1275412372
+s211001
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/ClientVCController.qtz
+c000000004C0679A4000000000002A63B
+t1275492772
+s173627
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Cundd.h
+c000000004BF15A7000000000000000A7
+t1274108528
+s167
+i"CunddObject.h"
+i"CunddView.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddApp.h
+c000000004BEACF0B0000000000000101
+t1273679627
+s257
+i<Cocoa/Cocoa.h>
+i"Cundd.h"
+i"CunddAppRegistry.h"
+i"CunddAppKeyHandler.h"
+i"CunddAppEventHandler.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppAbstractHandler.h
+c000000004C1B9ACB0000000000000694
+t1276877515
+s1684
+i<Cocoa/Cocoa.h>
+i"CunddObject.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppAbstractHandler.m
+c000000004C1B9B100000000000000AF0
+t1276877584
+s2800
+i"CunddAppAbstractHandler.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppEventHandler.h
+c000000004BE3EC56000000000000026F
+t1273228374
+s623
+i<Cocoa/Cocoa.h>
+i"Cundd.h"
+i"CunddAppKeyHandler.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppEventHandler.m
+c000000004BE3ECBC0000000000000294
+t1273228476
+s660
+i"CunddAppEventHandler.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppKeyHandler.h
+c000000004C1B85A4000000000000056F
+t1276872100
+s1391
+i<Cocoa/Cocoa.h>
+i"CunddObject.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppKeyHandler.m
+c000000004BF4E4E500000000000008B0
+t1274340581
+s2224
+i"CunddAppKeyHandler.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppMIDIHandler.h
+c000000004C1B990700000000000003D6
+t1276877063
+s982
+i<Cocoa/Cocoa.h>
+i<CunddMIDI/CunddMIDI.h>
+i"CunddAppAbstractHandler.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppMIDIHandler.m
+c000000004C1B9D9A0000000000000574
+t1276878234
+s1396
+i"CunddAppMIDIHandler.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppRegistry.h
+c000000004C19F08D00000000000009BE
+t1276768397
+s2494
+i<Cocoa/Cocoa.h>
+i"CunddObject.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppRegistry.m
+c000000004C19F6870000000000000934
+t1276769927
+s2356
+i"CunddAppRegistry.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddChoserController.h
+c000000004BFBAFBD00000000000000E9
+t1274785725
+s233
+i<Cocoa/Cocoa.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddChoserController.m
+c000000004BFBA9A100000000000000CC
+t1274784161
+s204
+i"CunddChoserController.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddConfig.h
+c000000004BEAAF7D00000000000005BC
+t1273671549
+s1468
+i<Cocoa/Cocoa.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddConfig.m
+c000000004BEAAF8C0000000000000837
+t1273671564
+s2103
+i"CunddConfig.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceQCPatchController.h
+c000000004BFCE7F200000000000001E3
+t1274865650
+s483
+i<Cocoa/Cocoa.h>
+i"CunddDiceSettings.h"
+i"CunddDiveQCPatchController.h"
+i"CunddDiceQCView.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceQCPatchController.m
+c000000004BFE9C5F000000000000069F
+t1274977375
+s1695
+i"CunddDiceQCPatchController.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceQCView.h
+c000000004C053911000000000000028C
+t1275410705
+s652
+i<Cocoa/Cocoa.h>
+i"CunddDiveQCView.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceQCView.m
+c000000004C03DA6800000000000000BA
+t1275320936
+s186
+i"CunddDiceQCView.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceSettings.h
+c000000004C051CA7000000000000013C
+t1275403431
+s316
+i<Cocoa/Cocoa.h>
+i"CunddDiveMasterSettings.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceSettings.m
+c000000004BFCE65000000000000000D8
+t1274865232
+s216
+i"CunddDiceSettings.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveAbstractSettings.h
+c000000004BE94C820000000000000711
+t1273580674
+s1809
+i<Cocoa/Cocoa.h>
+i"Cundd.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveAbstractSettings.m
+c000000004BE97A630000000000000DDB
+t1273592419
+s3547
+i"CunddDiveAbstractSettings.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingDestinationView.h
+c000000004BD6D5BD0000000000000100
+t1272370621
+s256
+i<Cocoa/Cocoa.h>
+i"CunddConfig.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingDestinationView.m
+c000000004BFBFC8300000000000007E8
+t1274805379
+s2024
+i"CunddDiveDraggingDestinationView.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingSourceController.h
+c000000004BD01CDD00000000000001E3
+t1271930077
+s483
+i<Cocoa/Cocoa.h>
+i"CunddITunes.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingSourceController.m
+c000000004BFBFC4E000000000000087B
+t1274805326
+s2171
+i"CunddDiveDraggingSourceController.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveEffectColorValueTransformer.h
+c000000004C077AAA0000000000000111
+t1275558570
+s273
+i<Cocoa/Cocoa.h>
+i"Cundd.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveEffectColorValueTransformer.m
+c000000004C077C53000000000000030E
+t1275558995
+s782
+i"CunddDiveEffectColorValueTransformer.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveMasterSettings.h
+c000000004BF7A57D000000000000014B
+t1274520957
+s331
+i<Cocoa/Cocoa.h>
+i"CunddDiveAbstractSettings.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveMenuItem.h
+c000000004BE1833900000000000000D0
+t1273070393
+s208
+i<Cocoa/Cocoa.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveMenuItem.m
+c000000004BE186670000000000000144
+t1273071207
+s324
+i"CunddDiveMenuItem.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveMenuSeparator.h
+c000000004BE17A0100000000000000FF
+t1273068033
+s255
+i<Cocoa/Cocoa.h>
+i"CunddDiveMenuItem.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveMenuSeparator.m
+c000000004BE17A110000000000000139
+t1273068049
+s313
+i"CunddDiveMenuSeparator.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQCPatchController.h
+c000000004BF18E1B00000000000003DC
+t1274121755
+s988
+i<Cocoa/Cocoa.h>
+i<Quartz/Quartz.h>
+i"Cundd.h"
+i"CunddDiveAbstractSettings.h"
+i"CunddDiveQCView.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQCPatchController.m
+c000000004BE96D66000000000000031D
+t1273589094
+s797
+i"CunddDiveQCPatchController.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQCView.h
+c000000004C1BA2020000000000000D89
+t1276879362
+s3465
+i<Cocoa/Cocoa.h>
+i"Cundd.h"
+i<Quartz/Quartz.h>
+i<OpenGL/OpenGL.h>
+i<OpenGL/gl.h>
+i<CunddCore/CunddApp.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQCView.m
+c000000004C13D93B0000000000001E37
+t1276369211
+s7735
+i"CunddDiveQCView.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQuitPanel.h
+c000000004BF4F150000000000000014A
+t1274343760
+s330
+i<Cocoa/Cocoa.h>
+i"Cundd.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQuitPanel.m
+c000000004BF4F290000000000000028D
+t1274344080
+s653
+i"CunddDiveQuitPanel.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveRootView.h
+c000000004C1BA1F9000000000000010F
+t1276879353
+s271
+i<Cocoa/Cocoa.h>
+i<CunddCore/CunddView.h>
+i<CunddCore/CunddAppKeyHandler.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveRootView.m
+c000000004BF4E6310000000000000177
+t1274340913
+s375
+i"CunddDiveRootView.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddFullscreenController.h
+c000000004C03DEAD00000000000002E4
+t1275322029
+s740
+i<Cocoa/Cocoa.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddFullscreenController.m
+c000000004C03DE09000000000000086C
+t1275321865
+s2156
+i"CunddFullscreenController.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddITunes.h
+c000000004BD01C4100000000000000FD
+t1271929921
+s253
+i"CunddITunesTrack.h"
+i"CunddITunesPlaylist.h"
+i"CunddITunesLibrary.h"
+i"CunddITunesTracklist.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddITunesLibrary.h
+c000000004BCD53980000000000000442
+t1271747480
+s1090
+i<Cocoa/Cocoa.h>
+i"CunddITunesTrack.h"
+i"CunddITunesPlaylist.h"
+i"CunddConfig.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddITunesPlaylist.h
+c000000004BE9198D000000000000078F
+t1273567629
+s1935
+i<Cocoa/Cocoa.h>
+i"Cundd.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddITunesTrack.h
+c000000004BFBFDDD00000000000002BD
+t1274805725
+s701
+i<Cocoa/Cocoa.h>
+i"Cundd.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddITunesTracklist.h
+c000000004BFE9EC800000000000002EC
+t1274977992
+s748
+i<Cocoa/Cocoa.h>
+i"CunddITunesTrack.h"
+i<AppKit/NSTableView.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddMIDIHandler.h
+c000000004C1B86490000000000000108
+t1276872265
+s264
+i<Cocoa/Cocoa.h>
+i<CunddMIDI/CunddMIDI.h>
+i"CunddObject.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddMIDIHandler.m
+c000000004C1B85FA00000000000000C7
+t1276872186
+s199
+i"CunddMIDIHandler.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddObject.h
+c000000004BEA6DE5000000000000099C
+t1273654757
+s2460
+i<Cocoa/Cocoa.h>
+i"CunddConfig.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddObject.m
+c000000004BEBCCC60000000000000BCC
+t1273744582
+s3020
+i"CunddObject.h"
+i"/usr/include/objc/runtime.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonPunch.h
+c000000004BFC0F6E000000000000021D
+t1274810222
+s541
+i<Cocoa/Cocoa.h>
+i"CunddUIButtonSetter.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonPunch.m
+c000000004BFC0F5400000000000003B7
+t1274810196
+s951
+i"CunddUIButtonPunch.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonSetter.h
+c000000004BFC0F6E0000000000000268
+t1274810222
+s616
+i<Cocoa/Cocoa.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonSetter.m
+c000000004BFC0F6E00000000000003E9
+t1274810222
+s1001
+i"CunddUIButtonSetter.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonToggle.h
+c000000004BFCD1E9000000000000036D
+t1274860009
+s877
+i<Cocoa/Cocoa.h>
+i"CunddUIButtonPunch.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonToggle.m
+c000000004BFC16C60000000000000615
+t1274812102
+s1557
+i"CunddUIButtonToggle.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddView.h
+c000000004BF15A2A00000000000008FF
+t1274108458
+s2303
+i<Cocoa/Cocoa.h>
+i"CunddConfig.h"
+i"/usr/include/objc/runtime.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddView.m
+c000000004BF15A3E0000000000000C80
+t1274108478
+s3200
+i"CunddView.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddViewController.h
+c000000004BD162D80000000000000286
+t1272013528
+s646
+i<Cocoa/Cocoa.h>
+i"CunddDiveDraggingDestinationView.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddViewController.m
+c000000004BD162F100000000000006F8
+t1272013553
+s1784
+i"CunddViewController.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/DiceApplication.h
+c000000004BFCE0B900000000000000D0
+t1274863801
+s208
+i<Cocoa/Cocoa.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/DiceApplication.m
+c000000004C03DF1E00000000000000C4
+t1275322142
+s196
+i"DiceApplication.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Dice_AppDelegate.h
+c000000004C03DFDF00000000000000F7
+t1275322335
+s247
+i<Cocoa/Cocoa.h>
+i"Cundd.h"
+i"CunddDiveQuitPanel.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Dice_AppDelegate.m
+c000000004C03E08F0000000000000183
+t1275322511
+s387
+i"Dice_AppDelegate.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Key_Out.xib
+c000000004C13CDEB00000000000121E2
+t1276366315
+s74210
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app
+t1274978344
+s102
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/Frameworks/BWToolkitFramework.framework
+t1274978195
+s204
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/Info.plist
+t1274978341
+s831
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/MacOS/Dice
+t1274978344
+s101544
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/PkgInfo
+t1274978341
+s8
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/Resources/BYPASS.nib
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/Resources/City_Lights.nib
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/Resources/ClientMain.qtz
+t1274978189
+s69961
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/Resources/ClientMainMenu.nib
+t1274978341
+s36882
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/Resources/ClientVCController.qtz
+t1274978189
+s87593
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/Resources/Key_Out.nib
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/Resources/config.plist
+t1274978189
+s20309
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/Resources/dice_icon.icns
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/Resources/dive_icon.icns
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddAppAbstractHandler.o
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddAppEventHandler.o
+t1274978342
+s18052
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddAppKeyHandler.o
+t1274978343
+s26464
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddAppMIDIHandler.o
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddAppRegistry.o
+t1274978343
+s14448
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddArray.o
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddChoserController.o
+t1274978343
+s5920
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddColorConverter.o
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddConfig.o
+t1274978343
+s18368
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiceQCPatchController.o
+t1274978342
+s27168
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiceQCView.o
+t1274978342
+s5632
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiceSettings.o
+t1274978342
+s8684
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveAbstractSettings.o
+t1274978343
+s25984
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveDraggingDestinationView.o
+t1274978344
+s20588
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveDraggingSourceController.o
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveEffectColorValueTransformer.o
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveMenuItem.o
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveMenuSeparator.o
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveQCPatchController.o
+t1274978343
+s23596
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveQCView.o
+t1274978344
+s53624
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveQuitPanel.o
+t1274978343
+s17732
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveRootView.o
+t1274978344
+s15872
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddFullscreenController.o
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddMIDIHandler.o
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddObject.o
+t1274978342
+s17712
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddUIButtonPunch.o
+t1274978343
+s20656
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddUIButtonSetter.o
+t1274978343
+s20576
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddUIButtonToggle.o
+t1274978343
+s24728
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddView.o
+t1274978343
+s23456
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddViewController.o
+t1274978342
+s18168
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/Dice.LinkFileList
+c000000004BFE9F8D0000000000000AFB
+t1274978189
+s2811
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/DiceApplication.o
+t1274978342
+s5556
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/Dice_AppDelegate.o
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/main.o
+t1274978342
+s5016
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/config.plist
+c000000004C13CE480000000000005400
+t1276366408
+s21504
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/main.m
+c000000004BD00F1600000000000000EE
+t1271926550
+s238
+i<Cocoa/Cocoa.h>
+
+N/usr/include/objc/runtime.h
+c000000004B90C7FE000000000000530A
+t1267779582
+s21258
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-beeebyelltluxubnpgwzckgvmsld/AppKit.h.gch
+t1274978192
+s50572912
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h.gch
+t2
+s0
+
+NDice-Info.plist
+c000000004C05167F00000000000003BA
+t1275401855
+s954
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296671141#296671141#0(0"0(0#1#0"8651987808#0"0#
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddAppAbstractHandler.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppAbstractHandler.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddAppEventHandler.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppEventHandler.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296671142.446545
+e296671142.702199
+r1
+xCompileC
+xbuild/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddAppEventHandler.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppEventHandler.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppEventHandler.m296671142#296671142#0(0"0(0#0#73"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppEventHandler.m8710833568#1542"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppEventHandler.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddAppEventHandler.o0#
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddAppKeyHandler.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppKeyHandler.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296671143.256597
+e296671143.448298
+r1
+xCompileC
+xbuild/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddAppKeyHandler.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppKeyHandler.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppKeyHandler.m296671143#296671143#0(0"0(0#0#71"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppKeyHandler.m8774619616#1538"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppKeyHandler.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddAppKeyHandler.o0#
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddAppMIDIHandler.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppMIDIHandler.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddAppRegistry.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppRegistry.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296671143.026090
+e296671143.256505
+r1
+xCompileC
+xbuild/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddAppRegistry.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppRegistry.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppRegistry.m296671143#296671143#0(0"0(0#0#69"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppRegistry.m8667638208#1534"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppRegistry.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddAppRegistry.o0#
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddArray.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Base/CunddArray.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddChoserController.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddChoserController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296671143.079270
+e296671143.244602
+r1
+xCompileC
+xbuild/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddChoserController.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddChoserController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddChoserController.m296671143#296671143#0(0"0(0#0#74"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddChoserController.m8634179200#1544"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddChoserController.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddChoserController.o0#
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddColorConverter.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Base/CunddColorConverter.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddConfig.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Base/CunddConfig.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddConfig.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddConfig.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296671142.845183
+e296671143.025986
+r1
+xCompileC
+xbuild/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddConfig.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddConfig.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddConfig.m296671142#296671143#0(0"0(0#0#64"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddConfig.m8742308032#1524"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddConfig.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddConfig.o0#
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiceQCPatchController.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceQCPatchController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296671142.094330
+e296671142.446451
+r1
+xCompileC
+xbuild/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiceQCPatchController.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceQCPatchController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceQCPatchController.m296671142#296671142#0(0"0(0#0#79"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceQCPatchController.m8649187840#1554"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceQCPatchController.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiceQCPatchController.o0#
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiceQCView.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceQCView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296671142.084887
+e296671142.382634
+r1
+xCompileC
+xbuild/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiceQCView.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceQCView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceQCView.m296671142#296671142#0(0"0(0#0#68"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceQCView.m8649636224#1532"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceQCView.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiceQCView.o0#
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiceSettings.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceSettings.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296671142.382720
+e296671142.629310
+r1
+xCompileC
+xbuild/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiceSettings.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceSettings.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceSettings.m296671142#296671142#0(0"0(0#0#70"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceSettings.m8724564320#1536"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiceSettings.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiceSettings.o0#
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveAbstractSettings.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveAbstractSettings.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296671143.620792
+e296671143.827529
+r1
+xCompileC
+xbuild/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveAbstractSettings.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveAbstractSettings.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveAbstractSettings.m296671143#296671143#0(0"0(0#0#78"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveAbstractSettings.m8770665152#1552"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveAbstractSettings.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveAbstractSettings.o0#
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveDraggingDestinationView.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingDestinationView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296671144.174241
+e296671144.325876
+r1
+xCompileC
+xbuild/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveDraggingDestinationView.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingDestinationView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingDestinationView.m296671144#296671144#0(0"0(0#0#85"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingDestinationView.m8763272096#1566"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingDestinationView.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveDraggingDestinationView.o0#
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveDraggingSourceController.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingSourceController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296670793.509469
+e296670793.643253
+r0
+xCompileC
+xbuild/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveDraggingSourceController.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingSourceController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddITunes.h:13,
+o                 from /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingSourceController.h:10,
+o                 from /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingSourceController.m:9:
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddITunesTracklist.h:17: error: cannot find protocol declaration for 'NSTableViewDataSource'
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddITunesTracklist.h:17: error: cannot find protocol declaration for 'NSTableViewDelegate'
+lSLF07#2@94"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingSourceController.m296670793#296670793#0(606"In file included from /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddITunes.h:13,                 from /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingSourceController.h:10,                 from /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingSourceController.m:9:/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddITunesTracklist.h:17: error: cannot find protocol declaration for 'NSTableViewDataSource'/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddITunesTracklist.h:17: error: cannot find protocol declaration for 'NSTableViewDelegate'2(4@60"Cannot find protocol declaration for 'NSTableViewDataSource'296670793#316#146#4(7@108"In file included from /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingSourceController.m296670793#18446744073709551615#0#0(6@86"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingSourceController.m296498126#9#0#9#0#0"0(7@108"In file included from /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingSourceController.h296670793#18446744073709551615#0#0(6@86"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingSourceController.h293622877#10#0#10#0#0"0(7@86"In file included from /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddITunes.h296670793#18446744073709551615#0#0(6@64"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddITunes.h293622721#13#0#13#0#0"0(13@137"Cannot find protocol declaration for 'NSTableViewDataSource' in /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddITunesTracklist.h296670793#18446744073709551615#0#0(6@73"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddITunesTracklist.h296670792#17#0#17#0#0"0(6@73"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddITunesTracklist.h296670792#17#0#17#0#0"0(4@58"Cannot find protocol declaration for 'NSTableViewDelegate'296670793#462#144#4(7@108"In file included from /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingSourceController.m296670793#18446744073709551615#0#0(6@86"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingSourceController.m296498126#9#0#9#0#0"0(7@108"In file included from /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingSourceController.h296670793#18446744073709551615#0#0(6@86"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingSourceController.h293622877#10#0#10#0#0"0(7@86"In file included from /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddITunes.h296670793#18446744073709551615#0#0(6@64"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddITunes.h293622721#13#0#13#0#0"0(13@135"Cannot find protocol declaration for 'NSTableViewDelegate' in /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddITunesTracklist.h296670793#18446744073709551615#0#0(6@73"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddITunesTracklist.h296670792#17#0#17#0#0"0(6@73"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddITunesTracklist.h296670792#17#0#17#0#0"0(0#0#86"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingSourceController.m8712180576#1568"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-beeebyelltluxubnpgwzckgvmsld/AppKit.h -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveDraggingSourceController.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveDraggingSourceController.o1#
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveEffectColorValueTransformer.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveEffectColorValueTransformer.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveMenuItem.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveMenuItem.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveMenuSeparator.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveMenuSeparator.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveQCPatchController.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQCPatchController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296671143.647789
+e296671143.873588
+r1
+xCompileC
+xbuild/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveQCPatchController.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQCPatchController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQCPatchController.m296671143#296671143#0(0"0(0#0#79"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQCPatchController.m8786291744#1554"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQCPatchController.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveQCPatchController.o0#
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveQCView.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQCView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296671143.873687
+e296671144.191803
+r1
+xCompileC
+xbuild/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveQCView.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQCView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQCView.m296671143#296671144#0(0"0(0#0#68"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQCView.m8712288992#1532"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQCView.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveQCView.o0#
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveQuitPanel.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQuitPanel.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296671143.827743
+e296671144.000361
+r1
+xCompileC
+xbuild/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveQuitPanel.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQuitPanel.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQuitPanel.m296671143#296671144#0(0"0(0#0#71"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQuitPanel.m8742881472#1538"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveQuitPanel.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveQuitPanel.o0#
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveRootView.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveRootView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296671144.000454
+e296671144.174148
+r1
+xCompileC
+xbuild/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveRootView.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveRootView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveRootView.m296671144#296671144#0(0"0(0#0#70"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveRootView.m8650851296#1536"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddDiveRootView.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddDiveRootView.o0#
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddFullscreenController.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddFullscreenController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddMIDIHandler.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddMIDIHandler.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddObject.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Base/CunddObject.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddObject.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddObject.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296671142.629407
+e296671142.844924
+r1
+xCompileC
+xbuild/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddObject.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddObject.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddObject.m296671142#296671142#0(0"0(0#0#64"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddObject.m8780824384#1524"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddObject.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddObject.o0#
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddUIButtonPunch.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonPunch.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296671142.902391
+e296671143.079172
+r1
+xCompileC
+xbuild/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddUIButtonPunch.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonPunch.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonPunch.m296671142#296671143#0(0"0(0#0#71"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonPunch.m8725251744#1538"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonPunch.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddUIButtonPunch.o0#
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddUIButtonSetter.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonSetter.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296671143.448395
+e296671143.620703
+r1
+xCompileC
+xbuild/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddUIButtonSetter.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonSetter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonSetter.m296671143#296671143#0(0"0(0#0#72"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonSetter.m8651951808#1540"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonSetter.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddUIButtonSetter.o0#
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddUIButtonToggle.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonToggle.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296671143.244692
+e296671143.429448
+r1
+xCompileC
+xbuild/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddUIButtonToggle.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonToggle.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonToggle.m296671143#296671143#0(0"0(0#0#72"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonToggle.m8778207616#1540"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddUIButtonToggle.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddUIButtonToggle.o0#
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddView.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Base/CunddView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddView.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296671143.429535
+e296671143.647702
+r1
+xCompileC
+xbuild/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddView.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddView.m296671143#296671143#0(0"0(0#0#62"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddView.m8684145952#1520"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddView.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddView.o0#
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddViewController.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Base/CunddViewController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddViewController.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddViewController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296671142.702284
+e296671142.902298
+r1
+xCompileC
+xbuild/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddViewController.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddViewController.m296671142#296671142#0(0"0(0#0#72"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddViewController.m8774684064#1540"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddViewController.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/CunddViewController.o0#
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/DiceApplication.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/DiceApplication.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296671141.822802
+e296671142.094252
+r1
+xCompileC
+xbuild/Dive.build/Debug/Dice.build/Objects-normal/x86_64/DiceApplication.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/DiceApplication.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/DiceApplication.m296671141#296671142#0(0"0(0#0#68"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/DiceApplication.m8650250720#1532"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/DiceApplication.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/DiceApplication.o0#
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/Dice_AppDelegate.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Dice_AppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/main.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296671141.823667
+e296671142.084792
+r1
+xCompileC
+xbuild/Dive.build/Debug/Dice.build/Objects-normal/x86_64/main.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/main.m296671141#296671142#0(0"0(0#0#57"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/main.m8654221536#1510"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/main.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/BYPASS.xib
+r0
+
+CCompileXIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/City_Lights.xib
+r0
+
+CCompileXIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/ClientMainMenu.xib
+s296671141.285255
+e296671141.822598
+r1
+xCompileXIB
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/ClientMainMenu.xib
+lSLF07#2@29"CompileXIB ClientMainMenu.xib296671141#296671141#0(0"0(0#0#69"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/ClientMainMenu.xib8654522848#381"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/Resources/ClientMainMenu.nib /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/ClientMainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCompileXIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Key_Out.xib
+r0
+
+CCopyPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/Resources/config.plist config.plist
+s296670989.145255
+e296670989.279333
+r1
+xCopyPlistFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/Resources/config.plist
+xconfig.plist
+lSLF07#2@17"Copy config.plist296670989#296670989#0(0"0(0#0#63"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/config.plist8773530048#262"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist config.plist --outdir /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/Resources0#
+
+CCpResource build/Debug/Dice.app/Contents/Resources/ClientMain.qtz ClientMain.qtz
+s296670989.141285
+e296670989.173589
+r1
+xCpResource
+xbuild/Debug/Dice.app/Contents/Resources/ClientMain.qtz
+xClientMain.qtz
+lSLF07#2@19"Copy ClientMain.qtz296670989#296670989#0(0"0(0#0#65"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/ClientMain.qtz8777605984#363"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/ClientMain.qtz /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/Resources0#
+
+CCpResource build/Debug/Dice.app/Contents/Resources/ClientVCController.qtz ClientVCController.qtz
+s296670989.141711
+e296670989.173704
+r1
+xCpResource
+xbuild/Debug/Dice.app/Contents/Resources/ClientVCController.qtz
+xClientVCController.qtz
+lSLF07#2@27"Copy ClientVCController.qtz296670989#296670989#0(0"0(0#0#73"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/ClientVCController.qtz8773882112#371"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/ClientVCController.qtz /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/Resources0#
+
+CCpResource build/Debug/Dice.app/Contents/Resources/dice_icon.icns ../../../../Studium/bachelor/logo/dice_icon.icns
+r0
+
+CCpResource build/Debug/Dice.app/Contents/Resources/dive_icon.icns ../../../../Studium/bachelor/logo/dive_icon.icns
+r0
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/MacOS/Dice normal x86_64
+s296671144.325960
+e296671144.435108
+r1
+xLd
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/MacOS/Dice
+xnormal
+xx86_64
+lSLF07#2@96"Link /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/MacOS/Dice296671144#296671144#0(0"0(0#0#0"8778908608#723"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -filelist /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Objects-normal/x86_64/Dice.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -framework AppKit -framework OpenGL -framework Cocoa -framework CoreData -framework Foundation -framework AppKit -framework Quartz -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/MacOS/Dice0#
+
+CPBXCp build/Debug/Dice.app/Contents/Frameworks/BWToolkitFramework.framework /Users/daniel/Sites/mac_iPhone_dev/a_training/BWToolkit/BWToolkitFramework.framework
+s296670995.107416
+e296670995.257351
+r1
+xPBXCp
+xbuild/Debug/Dice.app/Contents/Frameworks/BWToolkitFramework.framework
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/BWToolkit/BWToolkitFramework.framework
+lSLF07#2@89"Copy /Users/daniel/Sites/mac_iPhone_dev/a_training/BWToolkit/BWToolkitFramework.framework296670995#296670995#0(0"0(0#0#84"/Users/daniel/Sites/mac_iPhone_dev/a_training/BWToolkit/BWToolkitFramework.framework8782348704#383"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/daniel/Sites/mac_iPhone_dev/a_training/BWToolkit/BWToolkitFramework.framework /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/Frameworks0#
+
+CProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/Info.plist Dice-Info.plist
+s296671141.273762
+e296671141.285171
+r1
+xProcessInfoPlistFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/Info.plist
+xDice-Info.plist
+lSLF07#2@23"Process Dice-Info.plist296671141#296671141#0(0"0(0#0#66"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/Dice-Info.plist8658677824#337"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    builtin-infoPlistUtility Dice-Info.plist -genpkginfo /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-beeebyelltluxubnpgwzckgvmsld/AppKit.h.gch /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296670989.537859
+e296670992.768104
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-beeebyelltluxubnpgwzckgvmsld/AppKit.h.gch
+x/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Precompile /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h296670989#296670992#0(0"0(0#0#90"/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h8730711392#1431"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -c /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-beeebyelltluxubnpgwzckgvmsld/AppKit.h.gch0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h.gch /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296557982.890958
+e296557986.130751
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h.gch
+x/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Precompile /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h296557982#296557986#0(0"0(0#0#90"/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h8652001952#1431"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/Dice-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Dive.build/Debug/Dice.build/DerivedSources -c /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AppKit-gtcebvxjtoneoigtmfeacoxtyoxh/AppKit.h.gch0#
+
+CTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app
+s296671144.435399
+e296671144.437814
+r1
+xTouch
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app
+lSLF07#2@77"Touch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app296671144#296671144#0(0"0(0#0#0"8773820992#152"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive    /usr/bin/touch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Debug/Dice.app0#
+

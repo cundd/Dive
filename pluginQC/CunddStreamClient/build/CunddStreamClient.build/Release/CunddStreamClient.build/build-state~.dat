@@ -1,0 +1,301 @@
+TCunddStreamClient
+v7
+r0
+t297102200.829176
+cCheck dependencies
+cProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin/Contents/Info.plist Info.plist
+cCompileXIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/English.lproj/Settings.xib
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamClient_Prefix-dhcugihkcfucuffgdprigfcxbtis/CunddStreamClient_Prefix.pch.gch CunddStreamClient_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamClient_Prefix-bxsnooaqbebugpbdttfohcjiwnjc/CunddStreamClient_Prefix.pch.gch CunddStreamClient_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamClient_Prefix-gnqqfyatxnrypmaijhkjcefebmtv/CunddStreamClient_Prefix.pch.gch CunddStreamClient_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/x86_64/CunddStreamClientPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClientPlugIn.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/i386/CunddStreamClientPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClientPlugIn.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/x86_64/CunddStreamClient normal x86_64
+cLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/i386/CunddStreamClient normal i386
+cCompileC build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/ppc/CunddStreamClientPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClientPlugIn.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/ppc/CunddStreamClient normal ppc
+cCreateUniversalBinary /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin/Contents/MacOS/CunddStreamClient normal "x86_64 i386 ppc"
+cGenerateDSYMFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin.dSYM /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin/Contents/MacOS/CunddStreamClient
+cTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BE2D1A200000000000000EE
+t1273156002
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/CGLMacro.h
+c000000004B8E4E9E000000000001FFC8
+t1267617438
+s131016
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c000000004BE298F40000000000000124
+t1273141492
+s292
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004A1249D4000000000000A5F0
+t1242712532
+s42480
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClientPlugIn.h
+c000000004C052BE2000000000000056B
+t1275407330
+s1387
+i<Quartz/Quartz.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClientPlugIn.m
+c000000004C0533D80000000000001777
+t1275409368
+s6007
+i<OpenGL/CGLMacro.h>
+i"CunddStreamClientPlugIn.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClient_Prefix.pch
+c000000004BFF85790000000000000032
+t1275037049
+s50
+i<Quartz/Quartz.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/English.lproj/Settings.xib
+c000000004C05282E0000000000003488
+t1275406382
+s13448
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/i386/CunddStreamClient
+t1275409400
+s27668
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/i386/CunddStreamClient.LinkFileList
+c000000004C0533E400000000000000BA
+t1275409380
+s186
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/i386/CunddStreamClientPlugIn.o
+t1275409400
+s39160
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/ppc/CunddStreamClient
+t1275409400
+s25560
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/ppc/CunddStreamClient.LinkFileList
+c000000004C0533E400000000000000B9
+t1275409380
+s185
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/ppc/CunddStreamClientPlugIn.o
+t1275409400
+s39316
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/x86_64/CunddStreamClient
+t1275409400
+s26712
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/x86_64/CunddStreamClient.LinkFileList
+c000000004C0533E400000000000000BC
+t1275409380
+s188
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/x86_64/CunddStreamClientPlugIn.o
+t1275409400
+s58700
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin
+t1275409400
+s102
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin.dSYM
+t1275409400
+s102
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin/Contents/Info.plist
+t1275409380
+s883
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin/Contents/MacOS/CunddStreamClient
+t1275409400
+s87000
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin/Contents/Resources/English.lproj/Settings.nib
+t1275409381
+s3263
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamClient_Prefix-bxsnooaqbebugpbdttfohcjiwnjc/CunddStreamClient_Prefix.pch.gch
+t1275409395
+s57767344
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamClient_Prefix-dhcugihkcfucuffgdprigfcxbtis/CunddStreamClient_Prefix.pch.gch
+t1275409394
+s55141776
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamClient_Prefix-gnqqfyatxnrypmaijhkjcefebmtv/CunddStreamClient_Prefix.pch.gch
+t1275409398
+s54990032
+
+NInfo.plist
+c000000004C03D391000000000000037B
+t1275319185
+s891
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies297102180#297102180#0(0"0(0#1#0"8758541760#0"0#
+
+CCompileC build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/i386/CunddStreamClientPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClientPlugIn.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s297102198.880222
+e297102200.346969
+r1
+xCompileC
+xbuild/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/i386/CunddStreamClientPlugIn.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClientPlugIn.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClientPlugIn.m297102198#297102200#0(0"0(0#0#103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClientPlugIn.m8750135520#1543"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/CunddStreamClient.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/DerivedSources/i386 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamClient_Prefix-bxsnooaqbebugpbdttfohcjiwnjc/CunddStreamClient_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClientPlugIn.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/i386/CunddStreamClientPlugIn.o0#
+
+CCompileC build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/ppc/CunddStreamClientPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClientPlugIn.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s297102200.408489
+e297102200.750859
+r1
+xCompileC
+xbuild/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/ppc/CunddStreamClientPlugIn.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClientPlugIn.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClientPlugIn.m297102200#297102200#0(0"0(0#0#103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClientPlugIn.m8758053184#1550"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/CunddStreamClient.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/DerivedSources/ppc -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamClient_Prefix-gnqqfyatxnrypmaijhkjcefebmtv/CunddStreamClient_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClientPlugIn.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/ppc/CunddStreamClientPlugIn.o0#
+
+CCompileC build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/x86_64/CunddStreamClientPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClientPlugIn.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s297102198.879306
+e297102200.316875
+r1
+xCompileC
+xbuild/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/x86_64/CunddStreamClientPlugIn.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClientPlugIn.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClientPlugIn.m297102198#297102200#0(0"0(0#0#103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClientPlugIn.m8763945824#1549"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/CunddStreamClient.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamClient_Prefix-dhcugihkcfucuffgdprigfcxbtis/CunddStreamClient_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClientPlugIn.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/x86_64/CunddStreamClientPlugIn.o0#
+
+CCompileXIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/English.lproj/Settings.xib
+s297102180.094718
+e297102181.183703
+r1
+xCompileXIB
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/English.lproj/Settings.xib
+lSLF07#2@37"CompileXIB English.lproj/Settings.xib297102180#297102181#0(0"0(0#0#104"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/English.lproj/Settings.xib8750145376#496"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin/Contents/Resources/English.lproj/Settings.nib /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/English.lproj/Settings.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCreateUniversalBinary /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin/Contents/MacOS/CunddStreamClient normal "x86_64 i386 ppc"
+s297102200.801866
+e297102200.804956
+r1
+xCreateUniversalBinary
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin/Contents/MacOS/CunddStreamClient
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@118"CreateUniversalBinary build/Release/CunddStreamClient.plugin/Contents/MacOS/CunddStreamClient normal "x86_64 i386 ppc"297102200#297102200#0(0"0(0#0#93"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/x86_64 i386 ppc8766151008#804"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient    /usr/bin/lipo -create /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/x86_64/CunddStreamClient /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/i386/CunddStreamClient /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/ppc/CunddStreamClient -output /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin/Contents/MacOS/CunddStreamClient0#
+
+CGenerateDSYMFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin.dSYM /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin/Contents/MacOS/CunddStreamClient
+s297102200.805130
+e297102200.825336
+r1
+xGenerateDSYMFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin.dSYM
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin/Contents/MacOS/CunddStreamClient
+lSLF07#2@132"GenerateDSYMFile build/Release/CunddStreamClient.plugin.dSYM build/Release/CunddStreamClient.plugin/Contents/MacOS/CunddStreamClient297102200#297102200#0(0"0(0#0#149"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin/Contents/MacOS/CunddStreamClient8763775840#392"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient    /Developer/usr/bin/dsymutil /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin/Contents/MacOS/CunddStreamClient -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin.dSYM0#
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/i386/CunddStreamClient normal i386
+s297102200.347101
+e297102200.408195
+r1
+xLd
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/i386/CunddStreamClient
+xnormal
+xi386
+lSLF07#2@182"Link /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/i386/CunddStreamClient297102200#297102200#0(0"0(0#0#0"8732802496#848"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release -filelist /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/i386/CunddStreamClient.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/i386/CunddStreamClient0#
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/ppc/CunddStreamClient normal ppc
+s297102200.750948
+e297102200.801766
+r1
+xLd
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/ppc/CunddStreamClient
+xnormal
+xppc
+lSLF07#2@181"Link /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/ppc/CunddStreamClient297102200#297102200#0(0"0(0#0#0"8749609888#845"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release -filelist /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/ppc/CunddStreamClient.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/ppc/CunddStreamClient0#
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/x86_64/CunddStreamClient normal x86_64
+s297102200.316970
+e297102200.428638
+r1
+xLd
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/x86_64/CunddStreamClient
+xnormal
+xx86_64
+lSLF07#2@184"Link /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/x86_64/CunddStreamClient297102200#297102200#0(0"0(0#0#0"8742334368#854"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release -filelist /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/x86_64/CunddStreamClient.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/Objects-normal/x86_64/CunddStreamClient0#
+
+CProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin/Contents/Info.plist Info.plist
+s297102180.062280
+e297102180.094627
+r1
+xProcessInfoPlistFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist297102180#297102180#0(0"0(0#0#88"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/Info.plist8753346176#303"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin/Contents/Info.plist0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamClient_Prefix-bxsnooaqbebugpbdttfohcjiwnjc/CunddStreamClient_Prefix.pch.gch CunddStreamClient_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s297102181.185058
+e297102195.258209
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamClient_Prefix-bxsnooaqbebugpbdttfohcjiwnjc/CunddStreamClient_Prefix.pch.gch
+xCunddStreamClient_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile CunddStreamClient_Prefix.pch297102181#297102195#0(0"0(0#0#106"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClient_Prefix.pch8741436128#1362"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/CunddStreamClient.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/DerivedSources/i386 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClient_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamClient_Prefix-bxsnooaqbebugpbdttfohcjiwnjc/CunddStreamClient_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamClient_Prefix-dhcugihkcfucuffgdprigfcxbtis/CunddStreamClient_Prefix.pch.gch CunddStreamClient_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s297102181.183821
+e297102195.213350
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamClient_Prefix-dhcugihkcfucuffgdprigfcxbtis/CunddStreamClient_Prefix.pch.gch
+xCunddStreamClient_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile CunddStreamClient_Prefix.pch297102181#297102195#0(0"0(0#0#106"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClient_Prefix.pch8742308704#1366"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/CunddStreamClient.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClient_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamClient_Prefix-dhcugihkcfucuffgdprigfcxbtis/CunddStreamClient_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamClient_Prefix-gnqqfyatxnrypmaijhkjcefebmtv/CunddStreamClient_Prefix.pch.gch CunddStreamClient_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s297102195.213606
+e297102198.879049
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamClient_Prefix-gnqqfyatxnrypmaijhkjcefebmtv/CunddStreamClient_Prefix.pch.gch
+xCunddStreamClient_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile CunddStreamClient_Prefix.pch297102195#297102198#0(0"0(0#0#106"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClient_Prefix.pch8766043456#1370"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/CunddStreamClient.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/DerivedSources/ppc -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/CunddStreamClient.build/Release/CunddStreamClient.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/CunddStreamClient_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamClient_Prefix-gnqqfyatxnrypmaijhkjcefebmtv/CunddStreamClient_Prefix.pch.gch0#
+
+CTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin
+s297102200.825422
+e297102200.829144
+r1
+xTouch
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin
+lSLF07#2@122"Touch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin297102200#297102200#0(0"0(0#0#0"8759982912#224"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient    /usr/bin/touch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamClient/build/Release/CunddStreamClient.plugin0#
+

@@ -1,0 +1,320 @@
+TStructureToString
+v7
+r0
+t297254137.662053
+cCheck dependencies
+cProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin/Contents/Info.plist Info.plist
+cCopyPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin/Contents/Resources/tempDict.plist tempDict.plist
+cCompileXIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/English.lproj/Settings.xib
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StructureToString_Prefix-fakkrfvvihbkvaedeyvwetmfryvw/StructureToString_Prefix.pch.gch StructureToString_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StructureToString_Prefix-gjatrqbgycsajdbibmyrdqmwyhps/StructureToString_Prefix.pch.gch StructureToString_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StructureToString_Prefix-bayvhywdeasvryeuphmmwbmkemhy/StructureToString_Prefix.pch.gch StructureToString_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/StructureToString.build/Release/StructureToString.build/Objects-normal/x86_64/StructureToStringPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToStringPlugIn.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/StructureToString.build/Release/StructureToString.build/Objects-normal/i386/StructureToStringPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToStringPlugIn.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/x86_64/StructureToString normal x86_64
+cCompileC build/StructureToString.build/Release/StructureToString.build/Objects-normal/ppc/StructureToStringPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToStringPlugIn.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/i386/StructureToString normal i386
+cLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/ppc/StructureToString normal ppc
+cCreateUniversalBinary /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin/Contents/MacOS/StructureToString normal "x86_64 i386 ppc"
+cGenerateDSYMFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin.dSYM /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin/Contents/MacOS/StructureToString
+cTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BE2D1A200000000000000EE
+t1273156002
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/CGLMacro.h
+c000000004B8E4E9E000000000001FFC8
+t1267617438
+s131016
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c000000004BE298F40000000000000124
+t1273141492
+s292
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004A1249D4000000000000A5F0
+t1242712532
+s42480
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/English.lproj/Settings.xib
+c000000004BFE712A000000000000157F
+t1274966314
+s5503
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToStringPlugIn.h
+c000000004BFE7AE6000000000000046B
+t1274968806
+s1131
+i<Quartz/Quartz.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToStringPlugIn.m
+c000000004C07857600000000000019DB
+t1275561334
+s6619
+i<OpenGL/CGLMacro.h>
+i"StructureToStringPlugIn.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToString_Prefix.pch
+c000000004BFE712A0000000000000032
+t1274966314
+s50
+i<Quartz/Quartz.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin
+t1275561337
+s102
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin.dSYM
+t1275561337
+s102
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin/Contents/Info.plist
+t1275492840
+s889
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin/Contents/MacOS/StructureToString
+t1275561337
+s76292
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin/Contents/Resources/English.lproj/Settings.nib
+t1275492842
+s1630
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin/Contents/Resources/tempDict.plist
+t1275492841
+s181
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/i386/StructureToString
+t1275561337
+s21472
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/i386/StructureToString.LinkFileList
+c000000004C0679E800000000000000BA
+t1275492840
+s186
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/i386/StructureToStringPlugIn.o
+t1275561336
+s33080
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/ppc/StructureToString
+t1275561337
+s23044
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/ppc/StructureToString.LinkFileList
+c000000004C0679E800000000000000B9
+t1275492840
+s185
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/ppc/StructureToStringPlugIn.o
+t1275561337
+s33604
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/x86_64/StructureToString
+t1275561337
+s23088
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/x86_64/StructureToString.LinkFileList
+c000000004C0679E800000000000000BC
+t1275492840
+s188
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/x86_64/StructureToStringPlugIn.o
+t1275561336
+s46592
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/tempDict.plist
+c000000004BFE7F2B00000000000000B5
+t1274969899
+s181
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StructureToString_Prefix-bayvhywdeasvryeuphmmwbmkemhy/StructureToString_Prefix.pch.gch
+t1275492851
+s54990032
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StructureToString_Prefix-fakkrfvvihbkvaedeyvwetmfryvw/StructureToString_Prefix.pch.gch
+t1275492847
+s55141776
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StructureToString_Prefix-gjatrqbgycsajdbibmyrdqmwyhps/StructureToString_Prefix.pch.gch
+t1275492848
+s57767344
+
+NInfo.plist
+c000000004BFE810A0000000000000378
+t1274970378
+s888
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies297254135#297254135#0(0"0(0#1#0"8658706208#0"0#
+
+CCompileC build/StructureToString.build/Release/StructureToString.build/Objects-normal/i386/StructureToStringPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToStringPlugIn.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s297254135.668095
+e297254137.035158
+r1
+xCompileC
+xbuild/StructureToString.build/Release/StructureToString.build/Objects-normal/i386/StructureToStringPlugIn.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToStringPlugIn.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToStringPlugIn.m297254135#297254137#0(0"0(0#0#103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToStringPlugIn.m8654460000#1543"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/StructureToString.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/DerivedSources/i386 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StructureToString_Prefix-gjatrqbgycsajdbibmyrdqmwyhps/StructureToString_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToStringPlugIn.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/i386/StructureToStringPlugIn.o0#
+
+CCompileC build/StructureToString.build/Release/StructureToString.build/Objects-normal/ppc/StructureToStringPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToStringPlugIn.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s297254137.010842
+e297254137.397504
+r1
+xCompileC
+xbuild/StructureToString.build/Release/StructureToString.build/Objects-normal/ppc/StructureToStringPlugIn.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToStringPlugIn.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToStringPlugIn.m297254137#297254137#0(0"0(0#0#103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToStringPlugIn.m8654024608#1550"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/StructureToString.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/DerivedSources/ppc -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StructureToString_Prefix-bayvhywdeasvryeuphmmwbmkemhy/StructureToString_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToStringPlugIn.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/ppc/StructureToStringPlugIn.o0#
+
+CCompileC build/StructureToString.build/Release/StructureToString.build/Objects-normal/x86_64/StructureToStringPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToStringPlugIn.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s297254135.393306
+e297254136.952254
+r1
+xCompileC
+xbuild/StructureToString.build/Release/StructureToString.build/Objects-normal/x86_64/StructureToStringPlugIn.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToStringPlugIn.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToStringPlugIn.m297254135#297254136#0(0"0(0#0#103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToStringPlugIn.m8653950400#1549"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/StructureToString.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StructureToString_Prefix-fakkrfvvihbkvaedeyvwetmfryvw/StructureToString_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToStringPlugIn.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/x86_64/StructureToStringPlugIn.o0#
+
+CCompileXIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/English.lproj/Settings.xib
+s297185640.617520
+e297185642.383618
+r1
+xCompileXIB
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/English.lproj/Settings.xib
+lSLF07#2@37"CompileXIB English.lproj/Settings.xib297185640#297185642#0(0"0(0#0#104"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/English.lproj/Settings.xib8620142432#496"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin/Contents/Resources/English.lproj/Settings.nib /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/English.lproj/Settings.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin/Contents/Resources/tempDict.plist tempDict.plist
+s297185640.616866
+e297185641.486828
+r1
+xCopyPlistFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin/Contents/Resources/tempDict.plist
+xtempDict.plist
+lSLF07#2@19"Copy tempDict.plist297185640#297185641#0(0"0(0#0#92"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/tempDict.plist8637063840#336"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist tempDict.plist --outdir /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin/Contents/Resources0#
+
+CCreateUniversalBinary /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin/Contents/MacOS/StructureToString normal "x86_64 i386 ppc"
+s297254137.427007
+e297254137.429793
+r1
+xCreateUniversalBinary
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin/Contents/MacOS/StructureToString
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@118"CreateUniversalBinary build/Release/StructureToString.plugin/Contents/MacOS/StructureToString normal "x86_64 i386 ppc"297254137#297254137#0(0"0(0#0#93"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/x86_64 i386 ppc8658829376#804"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString    /usr/bin/lipo -create /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/x86_64/StructureToString /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/i386/StructureToString /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/ppc/StructureToString -output /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin/Contents/MacOS/StructureToString0#
+
+CGenerateDSYMFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin.dSYM /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin/Contents/MacOS/StructureToString
+s297254137.429855
+e297254137.659742
+r1
+xGenerateDSYMFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin.dSYM
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin/Contents/MacOS/StructureToString
+lSLF07#2@132"GenerateDSYMFile build/Release/StructureToString.plugin.dSYM build/Release/StructureToString.plugin/Contents/MacOS/StructureToString297254137#297254137#0(0"0(0#0#149"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin/Contents/MacOS/StructureToString8658272864#392"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString    /Developer/usr/bin/dsymutil /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin/Contents/MacOS/StructureToString -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin.dSYM0#
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/i386/StructureToString normal i386
+s297254137.035242
+e297254137.111829
+r1
+xLd
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/i386/StructureToString
+xnormal
+xi386
+lSLF07#2@182"Link /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/i386/StructureToString297254137#297254137#0(0"0(0#0#0"8663563776#848"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release -filelist /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/i386/StructureToString.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/i386/StructureToString0#
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/ppc/StructureToString normal ppc
+s297254137.397591
+e297254137.426909
+r1
+xLd
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/ppc/StructureToString
+xnormal
+xppc
+lSLF07#2@181"Link /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/ppc/StructureToString297254137#297254137#0(0"0(0#0#0"8653439104#845"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release -filelist /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/ppc/StructureToString.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/ppc/StructureToString0#
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/x86_64/StructureToString normal x86_64
+s297254136.952532
+e297254137.010735
+r1
+xLd
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/x86_64/StructureToString
+xnormal
+xx86_64
+lSLF07#2@184"Link /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/x86_64/StructureToString297254136#297254137#0(0"0(0#0#0"8662948448#854"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release -filelist /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/x86_64/StructureToString.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/Objects-normal/x86_64/StructureToString0#
+
+CProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin/Contents/Info.plist Info.plist
+s297185640.581757
+e297185640.616768
+r1
+xProcessInfoPlistFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist297185640#297185640#0(0"0(0#0#88"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/Info.plist8653814272#303"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin/Contents/Info.plist0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StructureToString_Prefix-bayvhywdeasvryeuphmmwbmkemhy/StructureToString_Prefix.pch.gch StructureToString_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s297185647.978878
+e297185651.472237
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StructureToString_Prefix-bayvhywdeasvryeuphmmwbmkemhy/StructureToString_Prefix.pch.gch
+xStructureToString_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile StructureToString_Prefix.pch297185647#297185651#0(0"0(0#0#106"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToString_Prefix.pch8648918144#1370"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/StructureToString.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/DerivedSources/ppc -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToString_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StructureToString_Prefix-bayvhywdeasvryeuphmmwbmkemhy/StructureToString_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StructureToString_Prefix-fakkrfvvihbkvaedeyvwetmfryvw/StructureToString_Prefix.pch.gch StructureToString_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s297185642.383945
+e297185647.978725
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StructureToString_Prefix-fakkrfvvihbkvaedeyvwetmfryvw/StructureToString_Prefix.pch.gch
+xStructureToString_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile StructureToString_Prefix.pch297185642#297185647#0(0"0(0#0#106"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToString_Prefix.pch8767427424#1366"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/StructureToString.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToString_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StructureToString_Prefix-fakkrfvvihbkvaedeyvwetmfryvw/StructureToString_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StructureToString_Prefix-gjatrqbgycsajdbibmyrdqmwyhps/StructureToString_Prefix.pch.gch StructureToString_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s297185642.384841
+e297185648.518187
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StructureToString_Prefix-gjatrqbgycsajdbibmyrdqmwyhps/StructureToString_Prefix.pch.gch
+xStructureToString_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile StructureToString_Prefix.pch297185642#297185648#0(0"0(0#0#106"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToString_Prefix.pch8752025920#1362"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/StructureToString.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/DerivedSources/i386 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/StructureToString.build/Release/StructureToString.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/StructureToString_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StructureToString_Prefix-gjatrqbgycsajdbibmyrdqmwyhps/StructureToString_Prefix.pch.gch0#
+
+CTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin
+s297254137.659825
+e297254137.662019
+r1
+xTouch
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin
+lSLF07#2@122"Touch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin297254137#297254137#0(0"0(0#0#0"8654052896#224"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString    /usr/bin/touch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StructureToString/build/Release/StructureToString.plugin0#
+

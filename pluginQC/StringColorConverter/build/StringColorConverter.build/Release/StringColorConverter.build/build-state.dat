@@ -1,0 +1,283 @@
+TStringColorConverter
+v7
+r0
+t300903244.841451
+cCheck dependencies
+cProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin/Contents/Info.plist Info.plist
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StringColorConverter_Prefix-czyqpdneqhiiihdlufvztfzyvprh/StringColorConverter_Prefix.pch.gch StringColorConverter_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StringColorConverter_Prefix-fzcuzdzqbprdjhfbudtpiqxuzsft/StringColorConverter_Prefix.pch.gch StringColorConverter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StringColorConverter_Prefix-dntddngfrzgtorftaqdhmjoltipc/StringColorConverter_Prefix.pch.gch StringColorConverter_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/x86_64/StringColorConverterPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverterPlugIn.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/i386/StringColorConverterPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverterPlugIn.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/x86_64/StringColorConverter normal x86_64
+cLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/i386/StringColorConverter normal i386
+cCompileC build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/ppc/StringColorConverterPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverterPlugIn.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/ppc/StringColorConverter normal ppc
+cCreateUniversalBinary /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin/Contents/MacOS/StringColorConverter normal "x86_64 i386 ppc"
+cGenerateDSYMFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin.dSYM /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin/Contents/MacOS/StringColorConverter
+cTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C2098C000000000000000EE
+t1277204672
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/CGLMacro.h
+c000000004BE91B5D000000000001FFC8
+t1273568093
+s131016
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c000000004BE54CE90000000000000124
+t1273318633
+s292
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004A1249D4000000000000A5F0
+t1242712532
+s42480
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverterPlugIn.h
+c000000004BFE6D1100000000000003E9
+t1274965265
+s1001
+i<Quartz/Quartz.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverterPlugIn.m
+c000000004C3F33C60000000000000C1C
+t1279210438
+s3100
+i<OpenGL/CGLMacro.h>
+i"StringColorConverterPlugIn.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverter_Prefix.pch
+c000000004BFE63A00000000000000032
+t1274962848
+s50
+i<Quartz/Quartz.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin
+t1279210444
+s102
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin.dSYM
+t1279210444
+s102
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin/Contents/Info.plist
+t1274963360
+s892
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin/Contents/MacOS/StringColorConverter
+t1279210444
+s65876
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/i386/StringColorConverter
+t1279210444
+s20332
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/i386/StringColorConverter.LinkFileList
+c000000004BFE65A000000000000000C6
+t1274963360
+s198
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/i386/StringColorConverterPlugIn.o
+t1279210444
+s18700
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/ppc/StringColorConverter
+t1279210444
+s20820
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/ppc/StringColorConverter.LinkFileList
+c000000004BFE65A000000000000000C5
+t1274963360
+s197
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/ppc/StringColorConverterPlugIn.o
+t1279210444
+s19164
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/x86_64/StringColorConverter
+t1279210444
+s17480
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/x86_64/StringColorConverter.LinkFileList
+c000000004BFE65A000000000000000C8
+t1274963360
+s200
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/x86_64/StringColorConverterPlugIn.o
+t1279210444
+s26388
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StringColorConverter_Prefix-czyqpdneqhiiihdlufvztfzyvprh/StringColorConverter_Prefix.pch.gch
+t1279210234
+s55141776
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StringColorConverter_Prefix-dntddngfrzgtorftaqdhmjoltipc/StringColorConverter_Prefix.pch.gch
+t1279210238
+s54990032
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StringColorConverter_Prefix-fzcuzdzqbprdjhfbudtpiqxuzsft/StringColorConverter_Prefix.pch.gch
+t1279210235
+s57767344
+
+NInfo.plist
+c000000004BFE63BF000000000000037B
+t1274962879
+s891
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300903243#300903243#0(0"0(0#1#0"8658007168#0"0#
+
+CCompileC build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/i386/StringColorConverterPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverterPlugIn.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300903243.818720
+e300903244.227424
+r1
+xCompileC
+xbuild/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/i386/StringColorConverterPlugIn.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverterPlugIn.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverterPlugIn.m300903243#300903244#0(0"0(0#0#109"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverterPlugIn.m8657315840#1606"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/StringColorConverter.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/DerivedSources/i386 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StringColorConverter_Prefix-fzcuzdzqbprdjhfbudtpiqxuzsft/StringColorConverter_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverterPlugIn.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/i386/StringColorConverterPlugIn.o0#
+
+CCompileC build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/ppc/StringColorConverterPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverterPlugIn.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s300903244.262001
+e300903244.525495
+r1
+xCompileC
+xbuild/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/ppc/StringColorConverterPlugIn.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverterPlugIn.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverterPlugIn.m300903244#300903244#0(0"0(0#0#109"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverterPlugIn.m8656097472#1613"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/StringColorConverter.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/DerivedSources/ppc -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StringColorConverter_Prefix-dntddngfrzgtorftaqdhmjoltipc/StringColorConverter_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverterPlugIn.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/ppc/StringColorConverterPlugIn.o0#
+
+CCompileC build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/x86_64/StringColorConverterPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverterPlugIn.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s300903243.585466
+e300903244.224948
+r1
+xCompileC
+xbuild/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/x86_64/StringColorConverterPlugIn.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverterPlugIn.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverterPlugIn.m300903243#300903244#0(0"0(0#0#109"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverterPlugIn.m8657303008#1612"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/StringColorConverter.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StringColorConverter_Prefix-czyqpdneqhiiihdlufvztfzyvprh/StringColorConverter_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverterPlugIn.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/x86_64/StringColorConverterPlugIn.o0#
+
+CCreateUniversalBinary /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin/Contents/MacOS/StringColorConverter normal "x86_64 i386 ppc"
+s300903244.678092
+e300903244.694356
+r1
+xCreateUniversalBinary
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin/Contents/MacOS/StringColorConverter
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@124"CreateUniversalBinary build/Release/StringColorConverter.plugin/Contents/MacOS/StringColorConverter normal "x86_64 i386 ppc"300903244#300903244#0(0"0(0#0#96"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/x86_64 i386 ppc8656355936#852"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter    /usr/bin/lipo -create /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/x86_64/StringColorConverter /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/i386/StringColorConverter /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/ppc/StringColorConverter -output /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin/Contents/MacOS/StringColorConverter0#
+
+CGenerateDSYMFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin.dSYM /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin/Contents/MacOS/StringColorConverter
+s300903244.694497
+e300903244.838534
+r1
+xGenerateDSYMFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin.dSYM
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin/Contents/MacOS/StringColorConverter
+lSLF07#2@141"GenerateDSYMFile build/Release/StringColorConverter.plugin.dSYM build/Release/StringColorConverter.plugin/Contents/MacOS/StringColorConverter300903244#300903244#0(0"0(0#0#158"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin/Contents/MacOS/StringColorConverter8656113920#410"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter    /Developer/usr/bin/dsymutil /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin/Contents/MacOS/StringColorConverter -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin.dSYM0#
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/i386/StringColorConverter normal i386
+s300903244.227493
+e300903244.261891
+r1
+xLd
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/i386/StringColorConverter
+xnormal
+xi386
+lSLF07#2@194"Link /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/i386/StringColorConverter300903244#300903244#0(0"0(0#0#0"8656364672#881"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release -filelist /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/i386/StringColorConverter.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/i386/StringColorConverter0#
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/ppc/StringColorConverter normal ppc
+s300903244.525587
+e300903244.677984
+r1
+xLd
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/ppc/StringColorConverter
+xnormal
+xppc
+lSLF07#2@193"Link /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/ppc/StringColorConverter300903244#300903244#0(0"0(0#0#0"8657991552#878"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release -filelist /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/ppc/StringColorConverter.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/ppc/StringColorConverter0#
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/x86_64/StringColorConverter normal x86_64
+s300903244.225037
+e300903244.264490
+r1
+xLd
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/x86_64/StringColorConverter
+xnormal
+xx86_64
+lSLF07#2@196"Link /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/x86_64/StringColorConverter300903244#300903244#0(0"0(0#0#0"8656655296#887"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release -filelist /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/x86_64/StringColorConverter.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/Objects-normal/x86_64/StringColorConverter0#
+
+CProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin/Contents/Info.plist Info.plist
+s296656160.544528
+e296656160.547034
+r1
+xProcessInfoPlistFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist296656160#296656160#0(0"0(0#0#91"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/Info.plist8661944704#312"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin/Contents/Info.plist0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StringColorConverter_Prefix-czyqpdneqhiiihdlufvztfzyvprh/StringColorConverter_Prefix.pch.gch StringColorConverter_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s300903030.208589
+e300903035.012709
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StringColorConverter_Prefix-czyqpdneqhiiihdlufvztfzyvprh/StringColorConverter_Prefix.pch.gch
+xStringColorConverter_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile StringColorConverter_Prefix.pch300903030#300903035#0(0"0(0#0#112"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverter_Prefix.pch8028914570983532544#1417"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/StringColorConverter.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverter_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StringColorConverter_Prefix-czyqpdneqhiiihdlufvztfzyvprh/StringColorConverter_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StringColorConverter_Prefix-dntddngfrzgtorftaqdhmjoltipc/StringColorConverter_Prefix.pch.gch StringColorConverter_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s300903035.012925
+e300903038.446508
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StringColorConverter_Prefix-dntddngfrzgtorftaqdhmjoltipc/StringColorConverter_Prefix.pch.gch
+xStringColorConverter_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile StringColorConverter_Prefix.pch300903035#300903038#0(0"0(0#0#112"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverter_Prefix.pch8657993664#1421"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/StringColorConverter.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/DerivedSources/ppc -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverter_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StringColorConverter_Prefix-dntddngfrzgtorftaqdhmjoltipc/StringColorConverter_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StringColorConverter_Prefix-fzcuzdzqbprdjhfbudtpiqxuzsft/StringColorConverter_Prefix.pch.gch StringColorConverter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s300903030.209691
+e300903035.626611
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StringColorConverter_Prefix-fzcuzdzqbprdjhfbudtpiqxuzsft/StringColorConverter_Prefix.pch.gch
+xStringColorConverter_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile StringColorConverter_Prefix.pch300903030#300903035#0(0"0(0#0#112"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverter_Prefix.pch8656806528#1413"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/StringColorConverter.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/DerivedSources/i386 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/StringColorConverter.build/Release/StringColorConverter.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/StringColorConverter_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/StringColorConverter_Prefix-fzcuzdzqbprdjhfbudtpiqxuzsft/StringColorConverter_Prefix.pch.gch0#
+
+CTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin
+s300903244.838618
+e300903244.841416
+r1
+xTouch
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin
+lSLF07#2@128"Touch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin300903244#300903244#0(0"0(0#0#0"8658019008#233"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter    /usr/bin/touch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/StringColorConverter/build/Release/StringColorConverter.plugin0#
+

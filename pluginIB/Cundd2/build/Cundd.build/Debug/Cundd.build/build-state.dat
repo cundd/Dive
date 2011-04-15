@@ -1,0 +1,348 @@
+TCundd
+v7
+r0
+t296475118.836278
+cCheck dependencies
+cProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource build/Debug/Cundd.ibplugin/Contents/Resources/CunddView.classdescription CunddView.classdescription
+cCompileXIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/English.lproj/CunddInspector.xib
+cStripNIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/English.lproj/CunddLibrary.nib
+cCopyPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/Resources/CunddArray.classdescription CunddArray.classdescription
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cundd_Prefix-agwtmpzcmgxwyobyebunbkjoyyqs/Cundd_Prefix.pch.gch Cundd_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cundd.build/Debug/Cundd.build/Objects-normal/x86_64/Cundd.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/Cundd.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cundd.build/Debug/Cundd.build/Objects-normal/x86_64/CunddInspector.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/CunddInspector.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cundd.build/Debug/Cundd.build/Objects-normal/x86_64/CunddViewIntegration.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/CunddViewIntegration.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/MacOS/Cundd normal x86_64
+cTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin
+
+N/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers/IBDocument.h
+c000000004BE2A90300000000000007C5
+t1273145603
+s1989
+i<Cocoa/Cocoa.h>
+
+N/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers/IBGeometry.h
+c000000004BE2A9030000000000000336
+t1273145603
+s822
+i<Cocoa/Cocoa.h>
+
+N/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers/IBInspector.h
+c000000004BE2A9030000000000000524
+t1273145603
+s1316
+i<Cocoa/Cocoa.h>
+
+N/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers/IBObjectIntegration.h
+c000000004BE2A9030000000000000F85
+t1273145603
+s3973
+i<Cocoa/Cocoa.h>
+
+N/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers/IBPlugin.h
+c000000004BE2A903000000000000071F
+t1273145603
+s1823
+i<Cocoa/Cocoa.h>
+
+N/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers/IBViewIntegration.h
+c000000004BE2A9030000000000000653
+t1273145603
+s1619
+i<Cocoa/Cocoa.h>
+i<InterfaceBuilderKit/IBObjectIntegration.h>
+i<InterfaceBuilderKit/IBGeometry.h>
+
+N/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers/InterfaceBuilderKit.h
+c000000004BE2A9030000000000000188
+t1273145603
+s392
+i<InterfaceBuilderKit/IBObjectIntegration.h>
+i<InterfaceBuilderKit/IBViewIntegration.h>
+i<InterfaceBuilderKit/IBInspector.h>
+i<InterfaceBuilderKit/IBGeometry.h>
+i<InterfaceBuilderKit/IBDocument.h>
+i<InterfaceBuilderKit/IBPlugin.h>
+
+N/Developer/Library/Frameworks/InterfaceBuilderKit.framework/InterfaceBuilderKit
+c000000004BE2AA070000000000AC1870
+t1273145863
+s11278448
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BE2D1A200000000000000EE
+t1273156002
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/Cundd.h
+c000000004BFBA03A00000000000000D3
+t1274781754
+s211
+i<InterfaceBuilderKit/InterfaceBuilderKit.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/Cundd.m
+c000000004BFBA03A0000000000000187
+t1274781754
+s391
+i"Cundd.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/CunddArray.classdescription
+c000000004BFBA2610000000000000051
+t1274782305
+s81
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/CunddInspector.h
+c000000004BFBA03A00000000000000E7
+t1274781754
+s231
+i<InterfaceBuilderKit/InterfaceBuilderKit.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/CunddInspector.m
+c000000004BFBA03A0000000000000175
+t1274781754
+s373
+i"CunddInspector.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/CunddView.classdescription
+c000000004BFBA03A00000000000000EF
+t1274781754
+s239
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/CunddView.h
+c000000004BFBA03A00000000000000BC
+t1274781754
+s188
+i<Cocoa/Cocoa.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/CunddViewIntegration.m
+c000000004BFBA03A0000000000000366
+t1274781754
+s870
+i<InterfaceBuilderKit/InterfaceBuilderKit.h>
+i<Cundd/CunddView.h>
+i"CunddInspector.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/Cundd_Prefix.pch
+c000000004BFBA03A00000000000000C6
+t1274781754
+s198
+i<Cocoa/Cocoa.h>
+i<InterfaceBuilderKit/InterfaceBuilderKit.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/English.lproj/CunddInspector.xib
+c000000004BFBA243000000000000DB07
+t1274782275
+s56071
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/English.lproj/CunddLibrary.nib
+c000000004BFBA03A0000000000000088
+t1274781754
+s136
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/English.lproj/InfoPlist.strings
+c000000004BFBA03A00000000000000B4
+t1274781754
+s180
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Cundd.build/Debug/Cundd.build/Objects-normal/x86_64/Cundd.LinkFileList
+c000000004BFBA26700000000000001A4
+t1274782311
+s420
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Cundd.build/Debug/Cundd.build/Objects-normal/x86_64/Cundd.o
+t1274782318
+s15068
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Cundd.build/Debug/Cundd.build/Objects-normal/x86_64/CunddInspector.o
+t1274782318
+s17476
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Cundd.build/Debug/Cundd.build/Objects-normal/x86_64/CunddViewIntegration.o
+t1274782318
+s18628
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.framework/Cundd
+c000000004BFBA26700000000000023B0
+t1274782311
+s9136
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin
+t1274782318
+s102
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/Info.plist
+t1274782311
+s755
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/MacOS/Cundd
+t1274782318
+s11632
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/Resources/CunddArray.classdescription
+t1274782312
+s81
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/Resources/CunddInspector.nib
+t1274782312
+s9335
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/Resources/CunddLibrary.nib
+t1274782312
+s6582
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/Resources/CunddView.classdescription
+t1274782311
+s239
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/Resources/English.lproj/InfoPlist.strings
+t1274782311
+s180
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cundd_Prefix-agwtmpzcmgxwyobyebunbkjoyyqs/Cundd_Prefix.pch.gch
+t1274782318
+s54351856
+
+NInfo.plist
+c000000004BFBA046000000000000031F
+t1274781766
+s799
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296475111#296475111#0(0"0(0#1#0"8650799648#0"0#
+
+CCompileC build/Cundd.build/Debug/Cundd.build/Objects-normal/x86_64/Cundd.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/Cundd.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296475118.321729
+e296475118.564896
+r1
+xCompileC
+xbuild/Cundd.build/Debug/Cundd.build/Objects-normal/x86_64/Cundd.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/Cundd.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/Cundd.m296475118#296475118#0(0"0(0#0#73"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/Cundd.m8650645280#1314"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Cundd.build/Debug/Cundd.build/Cundd.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug -F/Developer/Library/Frameworks -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Cundd.build/Debug/Cundd.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Cundd.build/Debug/Cundd.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cundd_Prefix-agwtmpzcmgxwyobyebunbkjoyyqs/Cundd_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/Cundd.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Cundd.build/Debug/Cundd.build/Objects-normal/x86_64/Cundd.o0#
+
+CCompileC build/Cundd.build/Debug/Cundd.build/Objects-normal/x86_64/CunddInspector.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/CunddInspector.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296475118.352517
+e296475118.586988
+r1
+xCompileC
+xbuild/Cundd.build/Debug/Cundd.build/Objects-normal/x86_64/CunddInspector.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/CunddInspector.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/CunddInspector.m296475118#296475118#0(0"0(0#0#82"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/CunddInspector.m8648926112#1332"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Cundd.build/Debug/Cundd.build/Cundd.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug -F/Developer/Library/Frameworks -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Cundd.build/Debug/Cundd.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Cundd.build/Debug/Cundd.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cundd_Prefix-agwtmpzcmgxwyobyebunbkjoyyqs/Cundd_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/CunddInspector.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Cundd.build/Debug/Cundd.build/Objects-normal/x86_64/CunddInspector.o0#
+
+CCompileC build/Cundd.build/Debug/Cundd.build/Objects-normal/x86_64/CunddViewIntegration.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/CunddViewIntegration.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296475118.565039
+e296475118.720638
+r1
+xCompileC
+xbuild/Cundd.build/Debug/Cundd.build/Objects-normal/x86_64/CunddViewIntegration.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/CunddViewIntegration.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/CunddViewIntegration.m296475118#296475118#0(0"0(0#0#88"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/CunddViewIntegration.m8646052352#1344"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Cundd.build/Debug/Cundd.build/Cundd.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug -F/Developer/Library/Frameworks -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Cundd.build/Debug/Cundd.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Cundd.build/Debug/Cundd.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cundd_Prefix-agwtmpzcmgxwyobyebunbkjoyyqs/Cundd_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/CunddViewIntegration.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Cundd.build/Debug/Cundd.build/Objects-normal/x86_64/CunddViewIntegration.o0#
+
+CCompileXIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/English.lproj/CunddInspector.xib
+s296475111.220297
+e296475112.694233
+r1
+xCompileXIB
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/English.lproj/CunddInspector.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/English.lproj/CunddInspector.xib:94: note: This view is clipping its content.
+lSLF07#2@43"CompileXIB English.lproj/CunddInspector.xib296475111#296475112#0(184"/* com.apple.ibtool.document.notices *//Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/English.lproj/CunddInspector.xib:94: note: This view is clipping its content.1(13@34"This view is clipping its content.296475112#18446744073709551615#0#0(6@98"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/English.lproj/CunddInspector.xib296475075#94#0#94#0#0"0(0#0#98"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/English.lproj/CunddInspector.xib8614220256#446"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/Resources/CunddInspector.nib /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/English.lproj/CunddInspector.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/Resources/CunddArray.classdescription CunddArray.classdescription
+s296475112.495379
+e296475112.581880
+r1
+xCopyPlistFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/Resources/CunddArray.classdescription
+xCunddArray.classdescription
+lSLF07#2@32"Copy CunddArray.classdescription296475112#296475112#0(0"0(0#0#93"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/CunddArray.classdescription8639316640#313"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist CunddArray.classdescription --outdir /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/Resources0#
+
+CCopyStringsFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s296475111.218332
+e296475111.734474
+r1
+xCopyStringsFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings296475111#296475111#0(0"0(0#0#97"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/English.lproj/InfoPlist.strings8628235424#423"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/Cundd.ibplugin/Contents/Resources/CunddView.classdescription CunddView.classdescription
+s296475111.219369
+e296475111.239442
+r1
+xCpResource
+xbuild/Debug/Cundd.ibplugin/Contents/Resources/CunddView.classdescription
+xCunddView.classdescription
+lSLF07#2@31"Copy CunddView.classdescription296475111#296475111#0(0"0(0#0#92"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/CunddView.classdescription8621805824#426"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/CunddView.classdescription /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/Resources0#
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/MacOS/Cundd normal x86_64
+s296475118.720727
+e296475118.833214
+r1
+xLd
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/MacOS/Cundd
+xnormal
+xx86_64
+lSLF07#2@118"Link /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/MacOS/Cundd296475118#296475118#0(0"0(0#0#0"8756088096#760"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug -F/Developer/Library/Frameworks -filelist /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Cundd.build/Debug/Cundd.build/Objects-normal/x86_64/Cundd.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Cundd -framework InterfaceBuilderKit -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/MacOS/Cundd0#
+
+CProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/Info.plist Info.plist
+s296475111.207686
+e296475111.218261
+r1
+xProcessInfoPlistFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist296475111#296475111#0(0"0(0#0#76"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/Info.plist8633368480#267"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/Info.plist0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cundd_Prefix-agwtmpzcmgxwyobyebunbkjoyyqs/Cundd_Prefix.pch.gch Cundd_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296475112.694322
+e296475118.321560
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cundd_Prefix-agwtmpzcmgxwyobyebunbkjoyyqs/Cundd_Prefix.pch.gch
+xCundd_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Cundd_Prefix.pch296475112#296475118#0(0"0(0#0#82"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/Cundd_Prefix.pch8628101952#1193"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Cundd.build/Debug/Cundd.build/Cundd.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug -F/Developer/Library/Frameworks -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Cundd.build/Debug/Cundd.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Cundd.build/Debug/Cundd.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/Cundd_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cundd_Prefix-agwtmpzcmgxwyobyebunbkjoyyqs/Cundd_Prefix.pch.gch0#
+
+CStripNIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/English.lproj/CunddLibrary.nib
+s296475111.734572
+e296475112.495198
+r1
+xStripNIB
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/English.lproj/CunddLibrary.nib
+lSLF07#2@39"StripNIB English.lproj/CunddLibrary.nib296475111#296475112#0(0"0(0#0#96"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/English.lproj/CunddLibrary.nib8605282272#373"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd    /Developer/usr/bin/ibtool --strip /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin/Contents/Resources/CunddLibrary.nib --output-format human-readable-text /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/English.lproj/CunddLibrary.nib0#
+
+CTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin
+s296475118.833327
+e296475118.836248
+r1
+xTouch
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin
+lSLF07#2@98"Touch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin296475118#296475118#0(0"0(0#0#0"8734078784#188"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd    /usr/bin/touch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/Cundd/build/Debug/Cundd.ibplugin0#
+

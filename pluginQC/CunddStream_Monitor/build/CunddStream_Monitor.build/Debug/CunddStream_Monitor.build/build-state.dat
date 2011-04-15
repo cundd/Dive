@@ -1,0 +1,232 @@
+TCunddStream_Monitor
+v7
+r0
+t297178868.080228
+cCheck dependencies
+cProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app/Contents/Info.plist CunddStream_Monitor-Info.plist
+cCopyStringsFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStream_Monitor_Prefix-bjtluaidqyvzmffilzlbhjzdaxpq/CunddStream_Monitor_Prefix.pch.gch CunddStream_Monitor_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/Objects-normal/x86_64/main.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/Objects-normal/x86_64/CunddStream_MonitorAppDelegate.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/CunddStream_MonitorAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/Objects-normal/x86_64/CunddStreamClient.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/CunddStreamClient.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app/Contents/MacOS/CunddStream_Monitor normal x86_64
+cTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BE2D1A200000000000000EE
+t1273156002
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/CGLMacro.h
+c000000004B8E4E9E000000000001FFC8
+t1267617438
+s131016
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/CunddStreamClient.h
+c000000004C06521C00000000000005A5
+t1275482652
+s1445
+i<Cocoa/Cocoa.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/CunddStreamClient.m
+c000000004C065F7100000000000010CB
+t1275486065
+s4299
+i"CunddStreamClient.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/CunddStream_MonitorAppDelegate.h
+c000000004C065CA200000000000003C0
+t1275485346
+s960
+i<Cocoa/Cocoa.h>
+i"CunddStreamClient.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/CunddStream_MonitorAppDelegate.m
+c000000004C065E2B000000000000064E
+t1275485739
+s1614
+i"CunddStream_MonitorAppDelegate.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/CunddStream_Monitor_Prefix.pch
+c000000004C064D8B00000000000000A9
+t1275481483
+s169
+i<Cocoa/Cocoa.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/English.lproj/InfoPlist.strings
+c000000004C064D8B000000000000002D
+t1275481483
+s45
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/English.lproj/MainMenu.xib
+c000000004C065D680000000000036DB9
+t1275485544
+s224697
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/Objects-normal/x86_64/CunddStreamClient.o
+t1275486066
+s40984
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/Objects-normal/x86_64/CunddStream_Monitor.LinkFileList
+c000000004C0651EE000000000000022E
+t1275482606
+s558
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/Objects-normal/x86_64/CunddStream_MonitorAppDelegate.o
+t1275485741
+s44000
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/Objects-normal/x86_64/main.o
+t1275482609
+s5072
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app
+t1275486066
+s102
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app/Contents/Info.plist
+t1275482606
+s922
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app/Contents/MacOS/CunddStream_Monitor
+t1275486066
+s36896
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app/Contents/PkgInfo
+t1275482606
+s8
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1275482607
+s92
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app/Contents/Resources/English.lproj/MainMenu.nib
+t1275485628
+s44557
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/main.m
+c000000004C064D8B00000000000000FD
+t1275481483
+s253
+i<Cocoa/Cocoa.h>
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStream_Monitor_Prefix-bjtluaidqyvzmffilzlbhjzdaxpq/CunddStream_Monitor_Prefix.pch.gch
+t1275482609
+s54265616
+
+NCunddStream_Monitor-Info.plist
+c000000004C064D8B00000000000003EA
+t1275481483
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies297178868#297178868#0(0"0(0#1#0"8742905344#0"0#
+
+CCompileC build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/Objects-normal/x86_64/CunddStreamClient.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/CunddStreamClient.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s297178866.442941
+e297178866.806337
+r1
+xCompileC
+xbuild/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/Objects-normal/x86_64/CunddStreamClient.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/CunddStreamClient.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/CunddStreamClient.m297178866#297178866#0(0"0(0#0#99"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/CunddStreamClient.m8657379840#2167"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/CunddStream_Monitor-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/CunddStream_Monitor-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/CunddStream_Monitor-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/CunddStream_Monitor-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStream_Monitor_Prefix-bjtluaidqyvzmffilzlbhjzdaxpq/CunddStream_Monitor_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/CunddStreamClient.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/Objects-normal/x86_64/CunddStreamClient.o0#
+
+CCompileC build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/Objects-normal/x86_64/CunddStream_MonitorAppDelegate.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/CunddStream_MonitorAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s297178541.124433
+e297178541.529614
+r1
+xCompileC
+xbuild/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/Objects-normal/x86_64/CunddStream_MonitorAppDelegate.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/CunddStream_MonitorAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@120"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/CunddStream_MonitorAppDelegate.m297178541#297178541#0(0"0(0#0#112"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/CunddStream_MonitorAppDelegate.m8652501664#2193"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/CunddStream_Monitor-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/CunddStream_Monitor-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/CunddStream_Monitor-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/CunddStream_Monitor-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStream_Monitor_Prefix-bjtluaidqyvzmffilzlbhjzdaxpq/CunddStream_Monitor_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/CunddStream_MonitorAppDelegate.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/Objects-normal/x86_64/CunddStream_MonitorAppDelegate.o0#
+
+CCompileC build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/Objects-normal/x86_64/main.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s297175409.719343
+e297175409.889423
+r1
+xCompileC
+xbuild/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/Objects-normal/x86_64/main.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/main.m297175409#297175409#0(0"0(0#0#86"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/main.m8765800864#2141"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/CunddStream_Monitor-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/CunddStream_Monitor-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/CunddStream_Monitor-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/CunddStream_Monitor-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStream_Monitor_Prefix-bjtluaidqyvzmffilzlbhjzdaxpq/CunddStream_Monitor_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/main.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/English.lproj/MainMenu.xib
+s297178427.914624
+e297178428.306412
+r1
+xCompileXIB
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib297178427#297178428#0(0"0(0#0#106"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/English.lproj/MainMenu.xib8750616064#499"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app/Contents/Resources/English.lproj/MainMenu.nib /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s297175406.698249
+e297175407.029910
+r1
+xCopyStringsFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings297175406#297175407#0(0"0(0#0#111"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/English.lproj/InfoPlist.strings8738316256#459"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app/Contents/Resources/English.lproj0#
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app/Contents/MacOS/CunddStream_Monitor normal x86_64
+s297178866.806423
+e297178866.841756
+r1
+xLd
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app/Contents/MacOS/CunddStream_Monitor
+xnormal
+xx86_64
+lSLF07#2@155"Link /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app/Contents/MacOS/CunddStream_Monitor297178866#297178866#0(0"0(0#0#0"8742438560#807"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug -filelist /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/Objects-normal/x86_64/CunddStream_Monitor.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app/Contents/MacOS/CunddStream_Monitor0#
+
+CProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app/Contents/Info.plist CunddStream_Monitor-Info.plist
+s297175406.687248
+e297175406.698163
+r1
+xProcessInfoPlistFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app/Contents/Info.plist
+xCunddStream_Monitor-Info.plist
+lSLF07#2@38"Process CunddStream_Monitor-Info.plist297175406#297175406#0(0"0(0#0#110"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/CunddStream_Monitor-Info.plist8738360704#469"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor    builtin-infoPlistUtility CunddStream_Monitor-Info.plist -genpkginfo /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStream_Monitor_Prefix-bjtluaidqyvzmffilzlbhjzdaxpq/CunddStream_Monitor_Prefix.pch.gch CunddStream_Monitor_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s297175407.135897
+e297175409.719094
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStream_Monitor_Prefix-bjtluaidqyvzmffilzlbhjzdaxpq/CunddStream_Monitor_Prefix.pch.gch
+xCunddStream_Monitor_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile CunddStream_Monitor_Prefix.pch297175407#297175409#0(0"0(0#0#110"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/CunddStream_Monitor_Prefix.pch8743713696#1994"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/CunddStream_Monitor-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/CunddStream_Monitor-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/CunddStream_Monitor-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/CunddStream_Monitor-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/CunddStream_Monitor.build/Debug/CunddStream_Monitor.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/CunddStream_Monitor_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStream_Monitor_Prefix-bjtluaidqyvzmffilzlbhjzdaxpq/CunddStream_Monitor_Prefix.pch.gch0#
+
+CTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app
+s297178866.841854
+e297178866.844453
+r1
+xTouch
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app
+lSLF07#2@121"Touch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app297178866#297178866#0(0"0(0#0#0"8740482240#225"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor    /usr/bin/touch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_Monitor/build/Debug/CunddStream_Monitor.app0#
+

@@ -1,0 +1,327 @@
+TCunddArray
+v7
+r0
+t297855364.424990
+cCheck dependencies
+cProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource build/Debug/CunddArray.ibplugin/Contents/Resources/CunddArrayView.classdescription CunddArrayView.classdescription
+cCompileXIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/English.lproj/CunddArrayInspector.xib
+cStripNIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/English.lproj/CunddArrayLibrary.nib
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddArray_Prefix-aicapdvsthgumodvcfcgqtksqbfm/CunddArray_Prefix.pch.gch CunddArray_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddArray.build/Debug/CunddArray.build/Objects-normal/x86_64/CunddArray.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArray.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddArray.build/Debug/CunddArray.build/Objects-normal/x86_64/CunddArrayInspector.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArrayInspector.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddArray.build/Debug/CunddArray.build/Objects-normal/x86_64/CunddArrayViewIntegration.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArrayViewIntegration.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin/Contents/MacOS/CunddArray normal x86_64
+cTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin
+
+N/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers/IBDocument.h
+c000000004BF2EFB400000000000007C5
+t1274212276
+s1989
+i<Cocoa/Cocoa.h>
+
+N/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers/IBGeometry.h
+c000000004BF2EFB40000000000000336
+t1274212276
+s822
+i<Cocoa/Cocoa.h>
+
+N/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers/IBInspector.h
+c000000004BF2EFB40000000000000524
+t1274212276
+s1316
+i<Cocoa/Cocoa.h>
+
+N/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers/IBObjectIntegration.h
+c000000004BF2EFB40000000000000F85
+t1274212276
+s3973
+i<Cocoa/Cocoa.h>
+
+N/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers/IBPlugin.h
+c000000004BF2EFB4000000000000071F
+t1274212276
+s1823
+i<Cocoa/Cocoa.h>
+
+N/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers/IBViewIntegration.h
+c000000004BF2EFB40000000000000653
+t1274212276
+s1619
+i<Cocoa/Cocoa.h>
+i<InterfaceBuilderKit/IBObjectIntegration.h>
+i<InterfaceBuilderKit/IBGeometry.h>
+
+N/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers/InterfaceBuilderKit.h
+c000000004BF2EFB40000000000000188
+t1274212276
+s392
+i<InterfaceBuilderKit/IBObjectIntegration.h>
+i<InterfaceBuilderKit/IBViewIntegration.h>
+i<InterfaceBuilderKit/IBInspector.h>
+i<InterfaceBuilderKit/IBGeometry.h>
+i<InterfaceBuilderKit/IBDocument.h>
+i<InterfaceBuilderKit/IBPlugin.h>
+
+N/Developer/Library/Frameworks/InterfaceBuilderKit.framework/InterfaceBuilderKit
+c000000004BF2EFF70000000000ABAD40
+t1274212343
+s11251008
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArray.h
+c000000004C10AC6B00000000000000E2
+t1276161131
+s226
+i<InterfaceBuilderKit/InterfaceBuilderKit.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArray.m
+c000000004C10B172000000000000019F
+t1276162418
+s415
+i"CunddArray.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArrayInspector.h
+c000000004C10AC6B00000000000000F6
+t1276161131
+s246
+i<InterfaceBuilderKit/InterfaceBuilderKit.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArrayInspector.m
+c000000004C10AC6B000000000000018E
+t1276161131
+s398
+i"CunddArrayInspector.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArrayView.classdescription
+c000000004C10AC6B00000000000000F4
+t1276161131
+s244
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArrayView.h
+c000000004C10B2AB00000000000000CC
+t1276162731
+s204
+i<Cocoa/Cocoa.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArrayViewIntegration.m
+c000000004C10AC6B000000000000038E
+t1276161131
+s910
+i<InterfaceBuilderKit/InterfaceBuilderKit.h>
+i<CunddArray/CunddArrayView.h>
+i"CunddArrayInspector.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArray_Prefix.pch
+c000000004C10AC6B00000000000000D0
+t1276161131
+s208
+i<Cocoa/Cocoa.h>
+i<InterfaceBuilderKit/InterfaceBuilderKit.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/English.lproj/CunddArrayInspector.xib
+c000000004C10AC6B000000000000A668
+t1276161131
+s42600
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/English.lproj/CunddArrayLibrary.nib
+c000000004C10AF2A0000000000000088
+t1276161834
+s136
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/English.lproj/InfoPlist.strings
+c000000004C10AC6B00000000000000B4
+t1276161131
+s180
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/CunddArray.build/Debug/CunddArray.build/Objects-normal/x86_64/CunddArray.LinkFileList
+c000000004C10B20000000000000001E0
+t1276162560
+s480
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/CunddArray.build/Debug/CunddArray.build/Objects-normal/x86_64/CunddArray.o
+t1276162564
+s15164
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/CunddArray.build/Debug/CunddArray.build/Objects-normal/x86_64/CunddArrayInspector.o
+t1276162564
+s17580
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/CunddArray.build/Debug/CunddArray.build/Objects-normal/x86_64/CunddArrayViewIntegration.o
+t1276162564
+s18780
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.framework/CunddArray
+c000000004C10B20000000000000023F0
+t1276162560
+s9200
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin
+t1276162564
+s102
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin/Contents/Info.plist
+t1276162560
+s775
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin/Contents/MacOS/CunddArray
+t1276162564
+s11872
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin/Contents/Resources/CunddArrayInspector.nib
+t1276162561
+s11303
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin/Contents/Resources/CunddArrayLibrary.nib
+t1276162561
+s4123
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin/Contents/Resources/CunddArrayView.classdescription
+t1276162560
+s244
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin/Contents/Resources/English.lproj/InfoPlist.strings
+t1276162561
+s180
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddArray_Prefix-aicapdvsthgumodvcfcgqtksqbfm/CunddArray_Prefix.pch.gch
+t1276162563
+s54351856
+
+NInfo.plist
+c000000004C10AD5E0000000000000324
+t1276161374
+s804
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies297855360#297855360#0(0"0(0#1#0"8639847744#0"0#
+
+CCompileC build/CunddArray.build/Debug/CunddArray.build/Objects-normal/x86_64/CunddArray.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArray.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s297855363.987093
+e297855364.172841
+r1
+xCompileC
+xbuild/CunddArray.build/Debug/CunddArray.build/Objects-normal/x86_64/CunddArray.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArray.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArray.m297855363#297855364#0(0"0(0#0#83"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArray.m8657028416#1419"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/CunddArray.build/Debug/CunddArray.build/CunddArray.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug -F/Developer/Library/Frameworks -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/CunddArray.build/Debug/CunddArray.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/CunddArray.build/Debug/CunddArray.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddArray_Prefix-aicapdvsthgumodvcfcgqtksqbfm/CunddArray_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArray.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/CunddArray.build/Debug/CunddArray.build/Objects-normal/x86_64/CunddArray.o0#
+
+CCompileC build/CunddArray.build/Debug/CunddArray.build/Objects-normal/x86_64/CunddArrayInspector.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArrayInspector.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s297855363.987923
+e297855364.185582
+r1
+xCompileC
+xbuild/CunddArray.build/Debug/CunddArray.build/Objects-normal/x86_64/CunddArrayInspector.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArrayInspector.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArrayInspector.m297855363#297855364#0(0"0(0#0#92"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArrayInspector.m8651423104#1437"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/CunddArray.build/Debug/CunddArray.build/CunddArray.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug -F/Developer/Library/Frameworks -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/CunddArray.build/Debug/CunddArray.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/CunddArray.build/Debug/CunddArray.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddArray_Prefix-aicapdvsthgumodvcfcgqtksqbfm/CunddArray_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArrayInspector.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/CunddArray.build/Debug/CunddArray.build/Objects-normal/x86_64/CunddArrayInspector.o0#
+
+CCompileC build/CunddArray.build/Debug/CunddArray.build/Objects-normal/x86_64/CunddArrayViewIntegration.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArrayViewIntegration.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s297855364.172937
+e297855364.321991
+r1
+xCompileC
+xbuild/CunddArray.build/Debug/CunddArray.build/Objects-normal/x86_64/CunddArrayViewIntegration.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArrayViewIntegration.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArrayViewIntegration.m297855364#297855364#0(0"0(0#0#98"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArrayViewIntegration.m8639799488#1449"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/CunddArray.build/Debug/CunddArray.build/CunddArray.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug -F/Developer/Library/Frameworks -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/CunddArray.build/Debug/CunddArray.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/CunddArray.build/Debug/CunddArray.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddArray_Prefix-aicapdvsthgumodvcfcgqtksqbfm/CunddArray_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArrayViewIntegration.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/CunddArray.build/Debug/CunddArray.build/Objects-normal/x86_64/CunddArrayViewIntegration.o0#
+
+CCompileXIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/English.lproj/CunddArrayInspector.xib
+s297855360.745401
+e297855361.089284
+r1
+xCompileXIB
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/English.lproj/CunddArrayInspector.xib
+lSLF07#2@48"CompileXIB English.lproj/CunddArrayInspector.xib297855360#297855361#0(0"0(0#0#108"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/English.lproj/CunddArrayInspector.xib8640152512#476"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin/Contents/Resources/CunddArrayInspector.nib /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/English.lproj/CunddArrayInspector.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s297855360.743661
+e297855361.058845
+r1
+xCopyStringsFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings297855360#297855361#0(0"0(0#0#102"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/English.lproj/InfoPlist.strings8640560160#438"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/CunddArray.ibplugin/Contents/Resources/CunddArrayView.classdescription CunddArrayView.classdescription
+s297855360.744453
+e297855360.787207
+r1
+xCpResource
+xbuild/Debug/CunddArray.ibplugin/Contents/Resources/CunddArrayView.classdescription
+xCunddArrayView.classdescription
+lSLF07#2@36"Copy CunddArrayView.classdescription297855360#297855360#0(0"0(0#0#102"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArrayView.classdescription8640430240#451"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArrayView.classdescription /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin/Contents/Resources0#
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin/Contents/MacOS/CunddArray normal x86_64
+s297855364.322072
+e297855364.422483
+r1
+xLd
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin/Contents/MacOS/CunddArray
+xnormal
+xx86_64
+lSLF07#2@133"Link /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin/Contents/MacOS/CunddArray297855364#297855364#0(0"0(0#0#0"8631280352#815"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug -F/Developer/Library/Frameworks -filelist /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/CunddArray.build/Debug/CunddArray.build/Objects-normal/x86_64/CunddArray.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework CunddArray -framework InterfaceBuilderKit -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin/Contents/MacOS/CunddArray0#
+
+CProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin/Contents/Info.plist Info.plist
+s297855360.740184
+e297855360.743595
+r1
+xProcessInfoPlistFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist297855360#297855360#0(0"0(0#0#81"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/Info.plist8590108032#282"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin/Contents/Info.plist0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddArray_Prefix-aicapdvsthgumodvcfcgqtksqbfm/CunddArray_Prefix.pch.gch CunddArray_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s297855361.188062
+e297855363.986897
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddArray_Prefix-aicapdvsthgumodvcfcgqtksqbfm/CunddArray_Prefix.pch.gch
+xCunddArray_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile CunddArray_Prefix.pch297855361#297855363#0(0"0(0#0#92"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArray_Prefix.pch8640656192#1278"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/CunddArray.build/Debug/CunddArray.build/CunddArray.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug -F/Developer/Library/Frameworks -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/CunddArray.build/Debug/CunddArray.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/CunddArray.build/Debug/CunddArray.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/CunddArray_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddArray_Prefix-aicapdvsthgumodvcfcgqtksqbfm/CunddArray_Prefix.pch.gch0#
+
+CStripNIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/English.lproj/CunddArrayLibrary.nib
+s297855361.058931
+e297855361.187936
+r1
+xStripNIB
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/English.lproj/CunddArrayLibrary.nib
+lSLF07#2@44"StripNIB English.lproj/CunddArrayLibrary.nib297855361#297855361#0(0"0(0#0#106"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/English.lproj/CunddArrayLibrary.nib8649517184#403"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray    /Developer/usr/bin/ibtool --strip /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin/Contents/Resources/CunddArrayLibrary.nib --output-format human-readable-text /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/English.lproj/CunddArrayLibrary.nib0#
+
+CTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin
+s297855364.422582
+e297855364.424966
+r1
+xTouch
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin
+lSLF07#2@108"Touch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin297855364#297855364#0(0"0(0#0#0"8620731840#203"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray    /usr/bin/touch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddArray/build/Debug/CunddArray.ibplugin0#
+

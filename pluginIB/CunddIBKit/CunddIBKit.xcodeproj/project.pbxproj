@@ -1,0 +1,668 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		53DF6901067E5B8E0090B5B0 /* All */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = C056398708A954F8003078D8 /* Build configuration list for PBXAggregateTarget "All" */;
+			buildPhases = (
+			);
+			dependencies = (
+				53DF6903067E5B930090B5B0 /* PBXTargetDependency */,
+				53DF6905067E5B930090B5B0 /* PBXTargetDependency */,
+			);
+			name = All;
+			productName = All;
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+		13F8B89007B43554008AE28D /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DD92D38A0106425D02CA0E72 /* Cocoa.framework */; };
+		546DEAF3067F632A0098DCC4 /* CunddIBKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 53DF68FD067E5B5A0090B5B0 /* CunddIBKit.framework */; };
+		54D33B2906778E3300C9C163 /* CunddIBKitView.classdescription in Resources */ = {isa = PBXBuildFile; fileRef = 54D33B2806778E3300C9C163 /* CunddIBKitView.classdescription */; };
+		65D2D70011C0F253001E9C5E /* CunddIBKitArray.m in Sources */ = {isa = PBXBuildFile; fileRef = 65D2D66911C0EC9F001E9C5E /* CunddIBKitArray.m */; };
+		65D2D70111C0F25C001E9C5E /* Cundd.h in Headers */ = {isa = PBXBuildFile; fileRef = 65D2D6DF11C0F0D5001E9C5E /* Cundd.h */; };
+		65D2D70211C0F25C001E9C5E /* CunddArray.h in Headers */ = {isa = PBXBuildFile; fileRef = 65D2D6E011C0F0D5001E9C5E /* CunddArray.h */; };
+		65D2D70311C0F25C001E9C5E /* CunddArray.m in Sources */ = {isa = PBXBuildFile; fileRef = 65D2D6E111C0F0D5001E9C5E /* CunddArray.m */; };
+		65D2D70411C0F25C001E9C5E /* CunddColorConverter.h in Headers */ = {isa = PBXBuildFile; fileRef = 65D2D6E211C0F0D5001E9C5E /* CunddColorConverter.h */; };
+		65D2D70511C0F25C001E9C5E /* CunddColorConverter.m in Sources */ = {isa = PBXBuildFile; fileRef = 65D2D6E311C0F0D5001E9C5E /* CunddColorConverter.m */; };
+		65D2D70611C0F25C001E9C5E /* CunddConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = 65D2D6E411C0F0D5001E9C5E /* CunddConfig.h */; };
+		65D2D70711C0F25C001E9C5E /* CunddConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = 65D2D6E511C0F0D5001E9C5E /* CunddConfig.m */; };
+		65D2D70811C0F25C001E9C5E /* CunddObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 65D2D6E611C0F0D5001E9C5E /* CunddObject.h */; };
+		65D2D70911C0F25C001E9C5E /* CunddObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 65D2D6E711C0F0D5001E9C5E /* CunddObject.m */; };
+		65D2D70A11C0F25C001E9C5E /* CunddView.h in Headers */ = {isa = PBXBuildFile; fileRef = 65D2D6E811C0F0D5001E9C5E /* CunddView.h */; };
+		65D2D70B11C0F25C001E9C5E /* CunddView.m in Sources */ = {isa = PBXBuildFile; fileRef = 65D2D6E911C0F0D5001E9C5E /* CunddView.m */; };
+		65D2D70C11C0F25C001E9C5E /* CunddViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 65D2D6EA11C0F0D5001E9C5E /* CunddViewController.h */; };
+		65D2D70D11C0F25C001E9C5E /* CunddViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 65D2D6EB11C0F0D5001E9C5E /* CunddViewController.m */; };
+		65D2D70E11C0F27F001E9C5E /* CunddIBKitArrayInspector.m in Sources */ = {isa = PBXBuildFile; fileRef = 65D2D6F911C0F1E1001E9C5E /* CunddIBKitArrayInspector.m */; };
+		65D2D70F11C0F288001E9C5E /* CunddIBKitArrayInspector.xib in Resources */ = {isa = PBXBuildFile; fileRef = 65D2D6FA11C0F1FA001E9C5E /* CunddIBKitArrayInspector.xib */; };
+		65D2D71011C0F289001E9C5E /* CunddIBKitArrayIntegration.m in Sources */ = {isa = PBXBuildFile; fileRef = 65D2D6C611C0F01F001E9C5E /* CunddIBKitArrayIntegration.m */; };
+		65D2D71111C0F28B001E9C5E /* CunddIBKitArray.classdescription in Resources */ = {isa = PBXBuildFile; fileRef = 65D2D6C411C0EFBC001E9C5E /* CunddIBKitArray.classdescription */; };
+		65D2D71411C0F2A8001E9C5E /* CunddArray.m in Sources */ = {isa = PBXBuildFile; fileRef = 65D2D6E111C0F0D5001E9C5E /* CunddArray.m */; };
+		65D2D72211C0F349001E9C5E /* InterfaceBuilderKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0D069550A49DF9100C95564 /* InterfaceBuilderKit.framework */; };
+		65D2D72311C0F34D001E9C5E /* AppKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 13F8B88807B434F6008AE28D /* AppKit.framework */; };
+		65D2D72411C0F34D001E9C5E /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 13F8B88907B434F6008AE28D /* CoreData.framework */; };
+		65D2D72511C0F34D001E9C5E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 13F8B88A07B434F6008AE28D /* Foundation.framework */; };
+		65D2D72611C0F34E001E9C5E /* AppKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 13F8B88807B434F6008AE28D /* AppKit.framework */; };
+		65D2D72711C0F34E001E9C5E /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 13F8B88907B434F6008AE28D /* CoreData.framework */; };
+		65D2D72811C0F34E001E9C5E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 13F8B88A07B434F6008AE28D /* Foundation.framework */; };
+		65D2D73611C0F3DE001E9C5E /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65D2D73511C0F3DE001E9C5E /* QuartzCore.framework */; };
+		65D2D78F11C10630001E9C5E /* CunddIBKitArray.h in Headers */ = {isa = PBXBuildFile; fileRef = 65D2D66811C0EC9F001E9C5E /* CunddIBKitArray.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8D1AC96C0486D14A00FE50C9 /* CunddIBKitInspector.m in Sources */ = {isa = PBXBuildFile; fileRef = 0259C577FE90428111CA0C5A /* CunddIBKitInspector.m */; settings = {ATTRIBUTES = (); }; };
+		8D1AC9700486D14A00FE50C9 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DD92D38A0106425D02CA0E72 /* Cocoa.framework */; };
+		8D1AC9800486D23B00FE50C9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8D1AC97F0486D23B00FE50C9 /* InfoPlist.strings */; };
+		C044829F0C3328F4006E818F /* CunddIBKitViewIntegration.m in Sources */ = {isa = PBXBuildFile; fileRef = C044829E0C3328F4006E818F /* CunddIBKitViewIntegration.m */; };
+		C059ACDD0A49E0A20079D97B /* CunddIBKitView.h in Headers */ = {isa = PBXBuildFile; fileRef = C059ACDB0A49E0A20079D97B /* CunddIBKitView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C059ACDE0A49E0A20079D97B /* CunddIBKitView.m in Sources */ = {isa = PBXBuildFile; fileRef = C059ACDC0A49E0A20079D97B /* CunddIBKitView.m */; };
+		C08787290A49DE9A00E9B151 /* CunddIBKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 0259C576FE90428111CA0C5A /* CunddIBKit.m */; };
+		C0A47C500A523B730004BDC3 /* CunddIBKitInspector.xib in Resources */ = {isa = PBXBuildFile; fileRef = C05B20D80A48CB530099B9E5 /* CunddIBKitInspector.xib */; };
+		C0D069560A49DF9100C95564 /* InterfaceBuilderKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C0D069550A49DF9100C95564 /* InterfaceBuilderKit.framework */; };
+		D1AEDE470A6C289C0010C343 /* CunddIBKitLibrary.nib in Resources */ = {isa = PBXBuildFile; fileRef = D1AEDE460A6C289C0010C343 /* CunddIBKitLibrary.nib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		53DF6902067E5B930090B5B0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0259C573FE90428111CA0C5A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8D1AC9600486D14A00FE50C9;
+			remoteInfo = CunddIBKit;
+		};
+		53DF6904067E5B930090B5B0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0259C573FE90428111CA0C5A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 53DF68FC067E5B5A0090B5B0;
+			remoteInfo = CunddIBKitFramework;
+		};
+		546DEAEF067F62F70098DCC4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0259C573FE90428111CA0C5A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 53DF68FC067E5B5A0090B5B0;
+			remoteInfo = CunddIBKitFramework;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0259C576FE90428111CA0C5A /* CunddIBKit.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = CunddIBKit.m; sourceTree = "<group>"; };
+		0259C577FE90428111CA0C5A /* CunddIBKitInspector.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = CunddIBKitInspector.m; sourceTree = "<group>"; };
+		0259C57AFE90428111CA0C5A /* CunddIBKit.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = CunddIBKit.h; sourceTree = "<group>"; };
+		0259C57BFE90428111CA0C5A /* CunddIBKitInspector.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = CunddIBKitInspector.h; sourceTree = "<group>"; };
+		13F8B88807B434F6008AE28D /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		13F8B88907B434F6008AE28D /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
+		13F8B88A07B434F6008AE28D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		32DBCF980370C29C00C91783 /* CunddIBKit_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddIBKit_Prefix.pch; sourceTree = "<group>"; };
+		53DF68FD067E5B5A0090B5B0 /* CunddIBKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CunddIBKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		53DF68FE067E5B5A0090B5B0 /* CunddIBKit-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CunddIBKit-Info.plist"; sourceTree = "<group>"; };
+		54D33B2806778E3300C9C163 /* CunddIBKitView.classdescription */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CunddIBKitView.classdescription; sourceTree = "<group>"; };
+		65D2D66811C0EC9F001E9C5E /* CunddIBKitArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddIBKitArray.h; sourceTree = "<group>"; };
+		65D2D66911C0EC9F001E9C5E /* CunddIBKitArray.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddIBKitArray.m; sourceTree = "<group>"; };
+		65D2D6C411C0EFBC001E9C5E /* CunddIBKitArray.classdescription */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.ibClassDescription; path = CunddIBKitArray.classdescription; sourceTree = "<group>"; };
+		65D2D6C611C0F01F001E9C5E /* CunddIBKitArrayIntegration.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddIBKitArrayIntegration.m; sourceTree = "<group>"; };
+		65D2D6DF11C0F0D5001E9C5E /* Cundd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Cundd.h; path = ../../Base/Cundd.h; sourceTree = SOURCE_ROOT; };
+		65D2D6E011C0F0D5001E9C5E /* CunddArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CunddArray.h; path = ../../Base/CunddArray.h; sourceTree = SOURCE_ROOT; };
+		65D2D6E111C0F0D5001E9C5E /* CunddArray.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CunddArray.m; path = ../../Base/CunddArray.m; sourceTree = SOURCE_ROOT; };
+		65D2D6E211C0F0D5001E9C5E /* CunddColorConverter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CunddColorConverter.h; path = ../../Base/CunddColorConverter.h; sourceTree = SOURCE_ROOT; };
+		65D2D6E311C0F0D5001E9C5E /* CunddColorConverter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CunddColorConverter.m; path = ../../Base/CunddColorConverter.m; sourceTree = SOURCE_ROOT; };
+		65D2D6E411C0F0D5001E9C5E /* CunddConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CunddConfig.h; path = ../../Base/CunddConfig.h; sourceTree = SOURCE_ROOT; };
+		65D2D6E511C0F0D5001E9C5E /* CunddConfig.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CunddConfig.m; path = ../../Base/CunddConfig.m; sourceTree = SOURCE_ROOT; };
+		65D2D6E611C0F0D5001E9C5E /* CunddObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CunddObject.h; path = ../../Base/CunddObject.h; sourceTree = SOURCE_ROOT; };
+		65D2D6E711C0F0D5001E9C5E /* CunddObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CunddObject.m; path = ../../Base/CunddObject.m; sourceTree = SOURCE_ROOT; };
+		65D2D6E811C0F0D5001E9C5E /* CunddView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CunddView.h; path = ../../Base/CunddView.h; sourceTree = SOURCE_ROOT; };
+		65D2D6E911C0F0D5001E9C5E /* CunddView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CunddView.m; path = ../../Base/CunddView.m; sourceTree = SOURCE_ROOT; };
+		65D2D6EA11C0F0D5001E9C5E /* CunddViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CunddViewController.h; path = ../../Base/CunddViewController.h; sourceTree = SOURCE_ROOT; };
+		65D2D6EB11C0F0D5001E9C5E /* CunddViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CunddViewController.m; path = ../../Base/CunddViewController.m; sourceTree = SOURCE_ROOT; };
+		65D2D6F811C0F1E1001E9C5E /* CunddIBKitArrayInspector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddIBKitArrayInspector.h; sourceTree = "<group>"; };
+		65D2D6F911C0F1E1001E9C5E /* CunddIBKitArrayInspector.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddIBKitArrayInspector.m; sourceTree = "<group>"; };
+		65D2D6FA11C0F1FA001E9C5E /* CunddIBKitArrayInspector.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CunddIBKitArrayInspector.xib; sourceTree = "<group>"; };
+		65D2D73511C0F3DE001E9C5E /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		8D1AC9730486D14A00FE50C9 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		8D1AC9740486D14A00FE50C9 /* CunddIBKit.ibplugin */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CunddIBKit.ibplugin; sourceTree = BUILT_PRODUCTS_DIR; };
+		8D1AC97B0486D23100FE50C9 /* English */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		C044829E0C3328F4006E818F /* CunddIBKitViewIntegration.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = CunddIBKitViewIntegration.m; sourceTree = "<group>"; };
+		C059ACDB0A49E0A20079D97B /* CunddIBKitView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddIBKitView.h; sourceTree = "<group>"; };
+		C059ACDC0A49E0A20079D97B /* CunddIBKitView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddIBKitView.m; sourceTree = "<group>"; };
+		C05B20D80A48CB530099B9E5 /* CunddIBKitInspector.xib */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = file.xib; name = CunddIBKitInspector.xib; path = English.lproj/CunddIBKitInspector.xib; sourceTree = "<group>"; };
+		C0D069550A49DF9100C95564 /* InterfaceBuilderKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = InterfaceBuilderKit.framework; path = /Developer/Library/Frameworks/InterfaceBuilderKit.framework; sourceTree = "<absolute>"; };
+		D1AEDE460A6C289C0010C343 /* CunddIBKitLibrary.nib */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = CunddIBKitLibrary.nib; path = English.lproj/CunddIBKitLibrary.nib; sourceTree = "<group>"; };
+		DD92D38A0106425D02CA0E72 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		53DF68FB067E5B5A0090B5B0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				13F8B89007B43554008AE28D /* Cocoa.framework in Frameworks */,
+				65D2D72211C0F349001E9C5E /* InterfaceBuilderKit.framework in Frameworks */,
+				65D2D72311C0F34D001E9C5E /* AppKit.framework in Frameworks */,
+				65D2D72411C0F34D001E9C5E /* CoreData.framework in Frameworks */,
+				65D2D72511C0F34D001E9C5E /* Foundation.framework in Frameworks */,
+				65D2D73611C0F3DE001E9C5E /* QuartzCore.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D1AC96E0486D14A00FE50C9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D1AC9700486D14A00FE50C9 /* Cocoa.framework in Frameworks */,
+				546DEAF3067F632A0098DCC4 /* CunddIBKit.framework in Frameworks */,
+				C0D069560A49DF9100C95564 /* InterfaceBuilderKit.framework in Frameworks */,
+				65D2D72611C0F34E001E9C5E /* AppKit.framework in Frameworks */,
+				65D2D72711C0F34E001E9C5E /* CoreData.framework in Frameworks */,
+				65D2D72811C0F34E001E9C5E /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0259C574FE90428111CA0C5A /* CunddIBKit */ = {
+			isa = PBXGroup;
+			children = (
+				32DBCF9E0370C38000C91783 /* Plugin */,
+				54D33B2C06778E4400C9C163 /* Framework */,
+				0259C582FE90428111CA0C5A /* Resources */,
+				1ED78706FE9D4A0611CA0C5A /* Products */,
+				2E58F364FFB232C311CA0CBA /* Frameworks */,
+			);
+			name = CunddIBKit;
+			sourceTree = "<group>";
+		};
+		0259C582FE90428111CA0C5A /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				8D1AC9730486D14A00FE50C9 /* Info.plist */,
+				53DF68FE067E5B5A0090B5B0 /* CunddIBKit-Info.plist */,
+				8D1AC97F0486D23B00FE50C9 /* InfoPlist.strings */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		131E8FE8067F80F40006E0CE /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				D1AEDE460A6C289C0010C343 /* CunddIBKitLibrary.nib */,
+				C05B20D80A48CB530099B9E5 /* CunddIBKitInspector.xib */,
+				65D2D6FA11C0F1FA001E9C5E /* CunddIBKitArrayInspector.xib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		13F8B6FD07B43410008AE28D /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				DD92D38A0106425D02CA0E72 /* Cocoa.framework */,
+				C0D069550A49DF9100C95564 /* InterfaceBuilderKit.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		13F8B70407B43425008AE28D /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				65D2D73511C0F3DE001E9C5E /* QuartzCore.framework */,
+				13F8B88807B434F6008AE28D /* AppKit.framework */,
+				13F8B88907B434F6008AE28D /* CoreData.framework */,
+				13F8B88A07B434F6008AE28D /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		1ED78706FE9D4A0611CA0C5A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8D1AC9740486D14A00FE50C9 /* CunddIBKit.ibplugin */,
+				53DF68FD067E5B5A0090B5B0 /* CunddIBKit.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2E58F364FFB232C311CA0CBA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				13F8B6FD07B43410008AE28D /* Linked Frameworks */,
+				13F8B70407B43425008AE28D /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		32DBCF9E0370C38000C91783 /* Plugin */ = {
+			isa = PBXGroup;
+			children = (
+				54D33B2406778DD400C9C163 /* Class Descriptions */,
+				54D33B2506778DF000C9C163 /* Classes */,
+				32DBCF9F0370C38200C91783 /* Other Sources */,
+				131E8FE8067F80F40006E0CE /* Resources */,
+			);
+			name = Plugin;
+			sourceTree = "<group>";
+		};
+		32DBCF9F0370C38200C91783 /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				C044829E0C3328F4006E818F /* CunddIBKitViewIntegration.m */,
+				32DBCF980370C29C00C91783 /* CunddIBKit_Prefix.pch */,
+				65D2D6C611C0F01F001E9C5E /* CunddIBKitArrayIntegration.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		54D33B2406778DD400C9C163 /* Class Descriptions */ = {
+			isa = PBXGroup;
+			children = (
+				65D2D6C411C0EFBC001E9C5E /* CunddIBKitArray.classdescription */,
+				54D33B2806778E3300C9C163 /* CunddIBKitView.classdescription */,
+			);
+			name = "Class Descriptions";
+			sourceTree = "<group>";
+		};
+		54D33B2506778DF000C9C163 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				0259C57AFE90428111CA0C5A /* CunddIBKit.h */,
+				0259C576FE90428111CA0C5A /* CunddIBKit.m */,
+				0259C57BFE90428111CA0C5A /* CunddIBKitInspector.h */,
+				0259C577FE90428111CA0C5A /* CunddIBKitInspector.m */,
+				65D2D6F811C0F1E1001E9C5E /* CunddIBKitArrayInspector.h */,
+				65D2D6F911C0F1E1001E9C5E /* CunddIBKitArrayInspector.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		54D33B2C06778E4400C9C163 /* Framework */ = {
+			isa = PBXGroup;
+			children = (
+				65D2D6EC11C0F0F1001E9C5E /* Base */,
+				C0894DA40C32F4C100401507 /* Classes */,
+			);
+			name = Framework;
+			sourceTree = "<group>";
+		};
+		65D2D6EC11C0F0F1001E9C5E /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				65D2D6DF11C0F0D5001E9C5E /* Cundd.h */,
+				65D2D6E011C0F0D5001E9C5E /* CunddArray.h */,
+				65D2D6E111C0F0D5001E9C5E /* CunddArray.m */,
+				65D2D6E211C0F0D5001E9C5E /* CunddColorConverter.h */,
+				65D2D6E311C0F0D5001E9C5E /* CunddColorConverter.m */,
+				65D2D6E411C0F0D5001E9C5E /* CunddConfig.h */,
+				65D2D6E511C0F0D5001E9C5E /* CunddConfig.m */,
+				65D2D6E611C0F0D5001E9C5E /* CunddObject.h */,
+				65D2D6E711C0F0D5001E9C5E /* CunddObject.m */,
+				65D2D6E811C0F0D5001E9C5E /* CunddView.h */,
+				65D2D6E911C0F0D5001E9C5E /* CunddView.m */,
+				65D2D6EA11C0F0D5001E9C5E /* CunddViewController.h */,
+				65D2D6EB11C0F0D5001E9C5E /* CunddViewController.m */,
+			);
+			name = Base;
+			sourceTree = "<group>";
+		};
+		C0894DA40C32F4C100401507 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				65D2D66811C0EC9F001E9C5E /* CunddIBKitArray.h */,
+				65D2D66911C0EC9F001E9C5E /* CunddIBKitArray.m */,
+				C059ACDB0A49E0A20079D97B /* CunddIBKitView.h */,
+				C059ACDC0A49E0A20079D97B /* CunddIBKitView.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		53DF68F8067E5B5A0090B5B0 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				65D2D78F11C10630001E9C5E /* CunddIBKitArray.h in Headers */,
+				C059ACDD0A49E0A20079D97B /* CunddIBKitView.h in Headers */,
+				65D2D70111C0F25C001E9C5E /* Cundd.h in Headers */,
+				65D2D70211C0F25C001E9C5E /* CunddArray.h in Headers */,
+				65D2D70411C0F25C001E9C5E /* CunddColorConverter.h in Headers */,
+				65D2D70611C0F25C001E9C5E /* CunddConfig.h in Headers */,
+				65D2D70811C0F25C001E9C5E /* CunddObject.h in Headers */,
+				65D2D70A11C0F25C001E9C5E /* CunddView.h in Headers */,
+				65D2D70C11C0F25C001E9C5E /* CunddViewController.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		53DF68FC067E5B5A0090B5B0 /* CunddIBKitFramework */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C056397F08A954F8003078D8 /* Build configuration list for PBXNativeTarget "CunddIBKitFramework" */;
+			buildPhases = (
+				53DF68F8067E5B5A0090B5B0 /* Headers */,
+				53DF68F9067E5B5A0090B5B0 /* Resources */,
+				53DF68FA067E5B5A0090B5B0 /* Sources */,
+				53DF68FB067E5B5A0090B5B0 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CunddIBKitFramework;
+			productName = CunddIBKitFramework;
+			productReference = 53DF68FD067E5B5A0090B5B0 /* CunddIBKit.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		8D1AC9600486D14A00FE50C9 /* CunddIBKit */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C056398308A954F8003078D8 /* Build configuration list for PBXNativeTarget "CunddIBKit" */;
+			buildPhases = (
+				8D1AC9660486D14A00FE50C9 /* Resources */,
+				8D1AC96A0486D14A00FE50C9 /* Sources */,
+				8D1AC96E0486D14A00FE50C9 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				546DEAF0067F62F70098DCC4 /* PBXTargetDependency */,
+			);
+			name = CunddIBKit;
+			productInstallPath = "$(HOME)/Developer/Palettes";
+			productName = CunddIBKit;
+			productReference = 8D1AC9740486D14A00FE50C9 /* CunddIBKit.ibplugin */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0259C573FE90428111CA0C5A /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C056398B08A954F8003078D8 /* Build configuration list for PBXProject "CunddIBKit" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 0259C574FE90428111CA0C5A /* CunddIBKit */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				53DF6901067E5B8E0090B5B0 /* All */,
+				8D1AC9600486D14A00FE50C9 /* CunddIBKit */,
+				53DF68FC067E5B5A0090B5B0 /* CunddIBKitFramework */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		53DF68F9067E5B5A0090B5B0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D1AC9660486D14A00FE50C9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D1AC9800486D23B00FE50C9 /* InfoPlist.strings in Resources */,
+				54D33B2906778E3300C9C163 /* CunddIBKitView.classdescription in Resources */,
+				C0A47C500A523B730004BDC3 /* CunddIBKitInspector.xib in Resources */,
+				D1AEDE470A6C289C0010C343 /* CunddIBKitLibrary.nib in Resources */,
+				65D2D70F11C0F288001E9C5E /* CunddIBKitArrayInspector.xib in Resources */,
+				65D2D71111C0F28B001E9C5E /* CunddIBKitArray.classdescription in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		53DF68FA067E5B5A0090B5B0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C059ACDE0A49E0A20079D97B /* CunddIBKitView.m in Sources */,
+				65D2D70011C0F253001E9C5E /* CunddIBKitArray.m in Sources */,
+				65D2D70311C0F25C001E9C5E /* CunddArray.m in Sources */,
+				65D2D70511C0F25C001E9C5E /* CunddColorConverter.m in Sources */,
+				65D2D70711C0F25C001E9C5E /* CunddConfig.m in Sources */,
+				65D2D70911C0F25C001E9C5E /* CunddObject.m in Sources */,
+				65D2D70B11C0F25C001E9C5E /* CunddView.m in Sources */,
+				65D2D70D11C0F25C001E9C5E /* CunddViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8D1AC96A0486D14A00FE50C9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C08787290A49DE9A00E9B151 /* CunddIBKit.m in Sources */,
+				8D1AC96C0486D14A00FE50C9 /* CunddIBKitInspector.m in Sources */,
+				C044829F0C3328F4006E818F /* CunddIBKitViewIntegration.m in Sources */,
+				65D2D70E11C0F27F001E9C5E /* CunddIBKitArrayInspector.m in Sources */,
+				65D2D71011C0F289001E9C5E /* CunddIBKitArrayIntegration.m in Sources */,
+				65D2D71411C0F2A8001E9C5E /* CunddArray.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		53DF6903067E5B930090B5B0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8D1AC9600486D14A00FE50C9 /* CunddIBKit */;
+			targetProxy = 53DF6902067E5B930090B5B0 /* PBXContainerItemProxy */;
+		};
+		53DF6905067E5B930090B5B0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 53DF68FC067E5B5A0090B5B0 /* CunddIBKitFramework */;
+			targetProxy = 53DF6904067E5B930090B5B0 /* PBXContainerItemProxy */;
+		};
+		546DEAF0067F62F70098DCC4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 53DF68FC067E5B5A0090B5B0 /* CunddIBKitFramework */;
+			targetProxy = 546DEAEF067F62F70098DCC4 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		8D1AC97F0486D23B00FE50C9 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8D1AC97B0486D23100FE50C9 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C056398008A954F8003078D8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(DEVELOPER_FRAMEWORKS_DIR)\"",
+				);
+				FRAMEWORK_VERSION = A;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/AppKit.framework/Headers/AppKit.h";
+				INFOPLIST_FILE = "CunddIBKit-Info.plist";
+				PRODUCT_NAME = CunddIBKit;
+				SKIP_INSTALL = NO;
+			};
+			name = Debug;
+		};
+		C056398108A954F8003078D8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(DEVELOPER_FRAMEWORKS_DIR)\"",
+				);
+				FRAMEWORK_VERSION = A;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/AppKit.framework/Headers/AppKit.h";
+				INFOPLIST_FILE = "CunddIBKit-Info.plist";
+				INSTALL_MODE_FLAG = "go-w,a+rX";
+				PRODUCT_NAME = CunddIBKit;
+				SKIP_INSTALL = NO;
+			};
+			name = Release;
+		};
+		C056398408A954F8003078D8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					$inherited,
+					"$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)",
+				);
+				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(DEVELOPER_DIR)/Library/Frameworks\"";
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = CunddIBKit_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks/CunddIBKit.framework/Resources";
+				PRODUCT_NAME = CunddIBKit;
+				WRAPPER_EXTENSION = ibplugin;
+			};
+			name = Debug;
+		};
+		C056398508A954F8003078D8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				FRAMEWORK_SEARCH_PATHS = (
+					$inherited,
+					"$(FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1)",
+				);
+				FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(DEVELOPER_DIR)/Library/Frameworks\"";
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = CunddIBKit_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks/CunddIBKit.framework/Resources";
+				PRODUCT_NAME = CunddIBKit;
+				WRAPPER_EXTENSION = ibplugin;
+			};
+			name = Release;
+		};
+		C056398808A954F8003078D8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				PRODUCT_NAME = All;
+				WARNING_CFLAGS = (
+					"-Wmost",
+					"-Wno-four-char-constants",
+					"-Wno-unknown-pragmas",
+				);
+			};
+			name = Debug;
+		};
+		C056398908A954F8003078D8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_MODEL_TUNING = G5;
+				PRODUCT_NAME = All;
+				WARNING_CFLAGS = (
+					"-Wmost",
+					"-Wno-four-char-constants",
+					"-Wno-unknown-pragmas",
+				);
+			};
+			name = Release;
+		};
+		C056398C08A954F8003078D8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_MODEL_TUNING = "";
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		C056398D08A954F8003078D8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_MODEL_TUNING = "";
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C056397F08A954F8003078D8 /* Build configuration list for PBXNativeTarget "CunddIBKitFramework" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C056398008A954F8003078D8 /* Debug */,
+				C056398108A954F8003078D8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C056398308A954F8003078D8 /* Build configuration list for PBXNativeTarget "CunddIBKit" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C056398408A954F8003078D8 /* Debug */,
+				C056398508A954F8003078D8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C056398708A954F8003078D8 /* Build configuration list for PBXAggregateTarget "All" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C056398808A954F8003078D8 /* Debug */,
+				C056398908A954F8003078D8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C056398B08A954F8003078D8 /* Build configuration list for PBXProject "CunddIBKit" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C056398C08A954F8003078D8 /* Debug */,
+				C056398D08A954F8003078D8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0259C573FE90428111CA0C5A /* Project object */;
+}

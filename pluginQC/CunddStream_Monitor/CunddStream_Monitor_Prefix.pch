@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'CunddStream_Monitor' target in the 'CunddStream_Monitor' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

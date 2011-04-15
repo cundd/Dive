@@ -1,0 +1,213 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* CunddStream_iMonitorAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {738, 590}}";
+			sepNavSelRange = "{160, 23}";
+			sepNavVisRange = "{0, 354}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CunddStream_iMonitorAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {738, 1092}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3, 1490}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CunddStream_iMonitor */ = {
+		activeExec = 0;
+		executables = (
+			65B5E1E211BED34D00F66411 /* CunddStream_iMonitor */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 65B5E1E211BED34D00F66411 /* CunddStream_iMonitor */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CunddStream_iMonitor */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CunddStream_iMonitor */,
+		);
+		codeSenseManager = 65B5E1EE11BED36900F66411 /* Code sense */;
+		executables = (
+			65B5E1E211BED34D00F66411 /* CunddStream_iMonitor */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					560,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 297718605;
+			PBXWorkspaceStateSaveDate = 297718605;
+		};
+		perUserProjectItems = {
+			65B5E21C11BED94F00F66411 /* PBXTextBookmark */ = 65B5E21C11BED94F00F66411 /* PBXTextBookmark */;
+			65B5E21D11BED94F00F66411 /* PBXTextBookmark */ = 65B5E21D11BED94F00F66411 /* PBXTextBookmark */;
+			65B5E21E11BED94F00F66411 /* PBXTextBookmark */ = 65B5E21E11BED94F00F66411 /* PBXTextBookmark */;
+			65B5E21F11BED94F00F66411 /* PBXTextBookmark */ = 65B5E21F11BED94F00F66411 /* PBXTextBookmark */;
+			65B5E22011BED94F00F66411 /* PBXTextBookmark */ = 65B5E22011BED94F00F66411 /* PBXTextBookmark */;
+			65B5E22111BED94F00F66411 /* PBXTextBookmark */ = 65B5E22111BED94F00F66411 /* PBXTextBookmark */;
+			65B5E22211BED94F00F66411 /* PBXTextBookmark */ = 65B5E22211BED94F00F66411 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 65B5E1ED11BED36900F66411 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	65B5E1E211BED34D00F66411 /* CunddStream_iMonitor */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CunddStream_iMonitor;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	65B5E1EA11BED36900F66411 /* CunddStreamClient.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {738, 845}}";
+			sepNavSelRange = "{1121, 0}";
+			sepNavVisRange = "{439, 1084}";
+		};
+	};
+	65B5E1EB11BED36900F66411 /* CunddStreamClient.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 2457}}";
+			sepNavSelRange = "{1292, 0}";
+			sepNavVisRange = "{1105, 365}";
+		};
+	};
+	65B5E1ED11BED36900F66411 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	65B5E1EE11BED36900F66411 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	65B5E1F111BED4A100F66411 /* CunddStreamServicesTableViewDataSource.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {738, 590}}";
+			sepNavSelRange = "{200, 0}";
+			sepNavVisRange = "{0, 964}";
+		};
+	};
+	65B5E1F211BED4A100F66411 /* CunddStreamServicesTableViewDataSource.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {738, 767}}";
+			sepNavSelRange = "{896, 0}";
+			sepNavVisRange = "{0, 1245}";
+		};
+	};
+	65B5E21C11BED94F00F66411 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* CunddStream_iMonitorAppDelegate.m */;
+		name = "CunddStream_iMonitorAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1490;
+		vrLoc = 3;
+	};
+	65B5E21D11BED94F00F66411 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65B5E1EA11BED36900F66411 /* CunddStreamClient.h */;
+		name = "CunddStreamClient.h: 52";
+		rLen = 0;
+		rLoc = 1121;
+		rType = 0;
+		vrLen = 1084;
+		vrLoc = 439;
+	};
+	65B5E21E11BED94F00F66411 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65B5E1F111BED4A100F66411 /* CunddStreamServicesTableViewDataSource.h */;
+		name = "CunddStreamServicesTableViewDataSource.h: 9";
+		rLen = 0;
+		rLoc = 200;
+		rType = 0;
+		vrLen = 964;
+		vrLoc = 0;
+	};
+	65B5E21F11BED94F00F66411 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65B5E1F211BED4A100F66411 /* CunddStreamServicesTableViewDataSource.m */;
+		name = "CunddStreamServicesTableViewDataSource.m: 30";
+		rLen = 0;
+		rLoc = 896;
+		rType = 0;
+		vrLen = 1245;
+		vrLoc = 0;
+	};
+	65B5E22011BED94F00F66411 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CunddStream_iMonitorAppDelegate.h */;
+		name = "CunddStream_iMonitorAppDelegate.h: 9";
+		rLen = 23;
+		rLoc = 160;
+		rType = 0;
+		vrLen = 354;
+		vrLoc = 0;
+	};
+	65B5E22111BED94F00F66411 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65B5E1EB11BED36900F66411 /* CunddStreamClient.m */;
+		name = "CunddStreamClient.m: 61";
+		rLen = 0;
+		rLoc = 1317;
+		rType = 0;
+		vrLen = 1046;
+		vrLoc = 775;
+	};
+	65B5E22211BED94F00F66411 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65B5E1EB11BED36900F66411 /* CunddStreamClient.m */;
+		name = "CunddStreamClient.m: 52";
+		rLen = 0;
+		rLoc = 1172;
+		rType = 0;
+		vrLen = 1046;
+		vrLoc = 775;
+	};
+}

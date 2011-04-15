@@ -1,0 +1,4 @@
+/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddIBKit/../../Base/CunddArray.m: In function '-[CunddArray forwardInvocation:]':
+/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddIBKit/../../Base/CunddArray.m:17: error: 'friend' undeclared (first use in this function)
+/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddIBKit/../../Base/CunddArray.m:17: error: (Each undeclared identifier is reported only once
+/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginIB/CunddIBKit/../../Base/CunddArray.m:17: error: for each function it appears in.)

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>CunddStreamServer</string>
+	<key>CFBundleGetInfoString</key>
+	<string>CunddStreamServer version 1.0, Copyright YourCompany.</string>
+	<key>CFBundleIdentifier</key>
+	<string>net.cundd.CunddStreamServer</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>CunddStreamServer</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.1</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>QCPlugInClasses</key>
+	<array>
+		<string>CunddStreamServerPlugIn</string>
+	</array>
+</dict>
+</plist>

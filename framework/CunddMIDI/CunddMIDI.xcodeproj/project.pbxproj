@@ -1,0 +1,716 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		65238EA311D0B51B00079FC4 /* BuildAll */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 65238EAD11D0B53F00079FC4 /* Build configuration list for PBXAggregateTarget "BuildAll" */;
+			buildPhases = (
+			);
+			dependencies = (
+				65238EA911D0B52100079FC4 /* PBXTargetDependency */,
+				65238EA711D0B52000079FC4 /* PBXTargetDependency */,
+			);
+			name = BuildAll;
+			productName = BuildAll;
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+		651850F211CA88820054D6E2 /* CunddMIDI.h in Headers */ = {isa = PBXBuildFile; fileRef = 651850E011CA88820054D6E2 /* CunddMIDI.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		651850F311CA88820054D6E2 /* CunddMIDI.m in Sources */ = {isa = PBXBuildFile; fileRef = 651850E111CA88820054D6E2 /* CunddMIDI.m */; };
+		651850F411CA88820054D6E2 /* CunddMIDIClient.h in Headers */ = {isa = PBXBuildFile; fileRef = 651850E211CA88820054D6E2 /* CunddMIDIClient.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		651850F511CA88820054D6E2 /* CunddMIDIClient.m in Sources */ = {isa = PBXBuildFile; fileRef = 651850E311CA88820054D6E2 /* CunddMIDIClient.m */; };
+		651850F611CA88820054D6E2 /* CunddMIDIDataOwnerAbstract.h in Headers */ = {isa = PBXBuildFile; fileRef = 651850E411CA88820054D6E2 /* CunddMIDIDataOwnerAbstract.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		651850F711CA88820054D6E2 /* CunddMIDIDataOwnerAbstract.m in Sources */ = {isa = PBXBuildFile; fileRef = 651850E511CA88820054D6E2 /* CunddMIDIDataOwnerAbstract.m */; };
+		651850F811CA88820054D6E2 /* CunddMIDIDestination.h in Headers */ = {isa = PBXBuildFile; fileRef = 651850E611CA88820054D6E2 /* CunddMIDIDestination.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		651850F911CA88820054D6E2 /* CunddMIDIDestination.m in Sources */ = {isa = PBXBuildFile; fileRef = 651850E711CA88820054D6E2 /* CunddMIDIDestination.m */; };
+		651850FA11CA88820054D6E2 /* CunddMIDIDevice.h in Headers */ = {isa = PBXBuildFile; fileRef = 651850E811CA88820054D6E2 /* CunddMIDIDevice.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		651850FB11CA88820054D6E2 /* CunddMIDIDevice.m in Sources */ = {isa = PBXBuildFile; fileRef = 651850E911CA88820054D6E2 /* CunddMIDIDevice.m */; };
+		651850FC11CA88820054D6E2 /* CunddMIDIEndpoint.h in Headers */ = {isa = PBXBuildFile; fileRef = 651850EA11CA88820054D6E2 /* CunddMIDIEndpoint.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		651850FD11CA88820054D6E2 /* CunddMIDIEndpoint.m in Sources */ = {isa = PBXBuildFile; fileRef = 651850EB11CA88820054D6E2 /* CunddMIDIEndpoint.m */; };
+		651850FE11CA88820054D6E2 /* CunddMIDIEntity.h in Headers */ = {isa = PBXBuildFile; fileRef = 651850EC11CA88820054D6E2 /* CunddMIDIEntity.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		651850FF11CA88820054D6E2 /* CunddMIDIEntity.m in Sources */ = {isa = PBXBuildFile; fileRef = 651850ED11CA88820054D6E2 /* CunddMIDIEntity.m */; };
+		6518510011CA88820054D6E2 /* CunddMIDIObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 651850EE11CA88820054D6E2 /* CunddMIDIObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6518510111CA88820054D6E2 /* CunddMIDIObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 651850EF11CA88820054D6E2 /* CunddMIDIObject.m */; };
+		6518510211CA88820054D6E2 /* CunddMIDISource.h in Headers */ = {isa = PBXBuildFile; fileRef = 651850F011CA88820054D6E2 /* CunddMIDISource.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6518510311CA88820054D6E2 /* CunddMIDISource.m in Sources */ = {isa = PBXBuildFile; fileRef = 651850F111CA88820054D6E2 /* CunddMIDISource.m */; };
+		6518515011CA90B00054D6E2 /* CoreMIDI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6518514F11CA90B00054D6E2 /* CoreMIDI.framework */; };
+		65238E4D11D0B23200079FC4 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 65238E4C11D0B23200079FC4 /* MainMenu.xib */; };
+		65238E6D11D0B29300079FC4 /* CunddMIDI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8DC2EF5B0486A6940098B216 /* CunddMIDI.framework */; };
+		65238E8411D0B37900079FC4 /* MIDITesterAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 65238E8311D0B37900079FC4 /* MIDITesterAppDelegate.m */; };
+		65238EAE11D0B55800079FC4 /* CunddCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65D4F80211CBDBD3006ED25F /* CunddCore.framework */; };
+		65238EBB11D0B5B400079FC4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 65238EBA11D0B5B400079FC4 /* main.m */; };
+		65238EC011D0B5F500079FC4 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 65238E4C11D0B23200079FC4 /* MainMenu.xib */; };
+		656CBE5C11CFBF840007DD38 /* CunddAppMIDIMapCreator.h in Headers */ = {isa = PBXBuildFile; fileRef = 656CBE5A11CFBF840007DD38 /* CunddAppMIDIMapCreator.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6580078111D0F60B00D83C17 /* CunddUIButtonAppMIDIMapCreatorRecord.m in Sources */ = {isa = PBXBuildFile; fileRef = 6580078011D0F60B00D83C17 /* CunddUIButtonAppMIDIMapCreatorRecord.m */; };
+		658007E611D0FC5500D83C17 /* CunddMIDIData.h in Headers */ = {isa = PBXBuildFile; fileRef = 658007E411D0FC5500D83C17 /* CunddMIDIData.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		658007E711D0FC5500D83C17 /* CunddMIDIData.m in Sources */ = {isa = PBXBuildFile; fileRef = 658007E511D0FC5500D83C17 /* CunddMIDIData.m */; };
+		6580082A11D1013200D83C17 /* CunddAppMIDIMapCreator.m in Sources */ = {isa = PBXBuildFile; fileRef = 656CBE5B11CFBF840007DD38 /* CunddAppMIDIMapCreator.m */; };
+		6580083611D102F500D83C17 /* CunddMIDIDataOwner.h in Headers */ = {isa = PBXBuildFile; fileRef = 6580083411D102F500D83C17 /* CunddMIDIDataOwner.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		65A4C04911D3644F00EC75F6 /* StartView.m in Sources */ = {isa = PBXBuildFile; fileRef = 65A4C04811D3644F00EC75F6 /* StartView.m */; };
+		65A4C2FA11D37FDB00EC75F6 /* CunddMIDIDataOwner.m in Sources */ = {isa = PBXBuildFile; fileRef = 6580083511D102F500D83C17 /* CunddMIDIDataOwner.m */; };
+		65A4C58A11D3DA8C00EC75F6 /* CunddUISegmentedControlAppMIDIMapCreatorRecord.h in Headers */ = {isa = PBXBuildFile; fileRef = 65A4C58811D3DA8C00EC75F6 /* CunddUISegmentedControlAppMIDIMapCreatorRecord.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		65A4C58B11D3DA8C00EC75F6 /* CunddUISegmentedControlAppMIDIMapCreatorRecord.m in Sources */ = {isa = PBXBuildFile; fileRef = 65A4C58911D3DA8C00EC75F6 /* CunddUISegmentedControlAppMIDIMapCreatorRecord.m */; };
+		65A4C70A11D3EF1000EC75F6 /* CunddAppMIDIValueTransformer.h in Headers */ = {isa = PBXBuildFile; fileRef = 65A4C70811D3EF1000EC75F6 /* CunddAppMIDIValueTransformer.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		65A4C70B11D3EF1000EC75F6 /* CunddAppMIDIValueTransformer.m in Sources */ = {isa = PBXBuildFile; fileRef = 65A4C70911D3EF1000EC75F6 /* CunddAppMIDIValueTransformer.m */; };
+		65D4F7F711CBDB7D006ED25F /* CunddAppMIDIHandler.h in Headers */ = {isa = PBXBuildFile; fileRef = 65D4F7F511CBDB7D006ED25F /* CunddAppMIDIHandler.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		65D4F7F811CBDB7D006ED25F /* CunddAppMIDIHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 65D4F7F611CBDB7D006ED25F /* CunddAppMIDIHandler.m */; };
+		65D4F80311CBDBD3006ED25F /* CunddCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65D4F80211CBDBD3006ED25F /* CunddCore.framework */; };
+		8DC2EF530486A6940098B216 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C1666FE841158C02AAC07 /* InfoPlist.strings */; };
+		8DC2EF570486A6940098B216 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7B1FEA5585E11CA2CBB /* Cocoa.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		65238EA611D0B52000079FC4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0867D690FE84028FC02AAC07 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 65238E3611D0B1DE00079FC4;
+			remoteInfo = MIDITester;
+		};
+		65238EA811D0B52100079FC4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0867D690FE84028FC02AAC07 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8DC2EF4F0486A6940098B216;
+			remoteInfo = CunddMIDI;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0867D69BFE84028FC02AAC07 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		0867D6A5FE840307C02AAC07 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		089C1667FE841158C02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1058C7B1FEA5585E11CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		32DBCF5E0370ADEE00C91783 /* CunddMIDI_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddMIDI_Prefix.pch; sourceTree = "<group>"; };
+		651850E011CA88820054D6E2 /* CunddMIDI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddMIDI.h; sourceTree = "<group>"; };
+		651850E111CA88820054D6E2 /* CunddMIDI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddMIDI.m; sourceTree = "<group>"; };
+		651850E211CA88820054D6E2 /* CunddMIDIClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddMIDIClient.h; sourceTree = "<group>"; };
+		651850E311CA88820054D6E2 /* CunddMIDIClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddMIDIClient.m; sourceTree = "<group>"; };
+		651850E411CA88820054D6E2 /* CunddMIDIDataOwnerAbstract.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddMIDIDataOwnerAbstract.h; sourceTree = "<group>"; };
+		651850E511CA88820054D6E2 /* CunddMIDIDataOwnerAbstract.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddMIDIDataOwnerAbstract.m; sourceTree = "<group>"; };
+		651850E611CA88820054D6E2 /* CunddMIDIDestination.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddMIDIDestination.h; sourceTree = "<group>"; };
+		651850E711CA88820054D6E2 /* CunddMIDIDestination.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddMIDIDestination.m; sourceTree = "<group>"; };
+		651850E811CA88820054D6E2 /* CunddMIDIDevice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddMIDIDevice.h; sourceTree = "<group>"; };
+		651850E911CA88820054D6E2 /* CunddMIDIDevice.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddMIDIDevice.m; sourceTree = "<group>"; };
+		651850EA11CA88820054D6E2 /* CunddMIDIEndpoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddMIDIEndpoint.h; sourceTree = "<group>"; };
+		651850EB11CA88820054D6E2 /* CunddMIDIEndpoint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddMIDIEndpoint.m; sourceTree = "<group>"; };
+		651850EC11CA88820054D6E2 /* CunddMIDIEntity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddMIDIEntity.h; sourceTree = "<group>"; };
+		651850ED11CA88820054D6E2 /* CunddMIDIEntity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddMIDIEntity.m; sourceTree = "<group>"; };
+		651850EE11CA88820054D6E2 /* CunddMIDIObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddMIDIObject.h; sourceTree = "<group>"; };
+		651850EF11CA88820054D6E2 /* CunddMIDIObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddMIDIObject.m; sourceTree = "<group>"; };
+		651850F011CA88820054D6E2 /* CunddMIDISource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddMIDISource.h; sourceTree = "<group>"; };
+		651850F111CA88820054D6E2 /* CunddMIDISource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddMIDISource.m; sourceTree = "<group>"; };
+		6518514F11CA90B00054D6E2 /* CoreMIDI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMIDI.framework; path = System/Library/Frameworks/CoreMIDI.framework; sourceTree = SDKROOT; };
+		65238E3711D0B1DE00079FC4 /* MIDITester.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MIDITester.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		65238E3911D0B1DE00079FC4 /* MIDITester-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MIDITester-Info.plist"; sourceTree = "<group>"; };
+		65238E4C11D0B23200079FC4 /* MainMenu.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainMenu.xib; sourceTree = "<group>"; };
+		65238E8211D0B37900079FC4 /* MIDITesterAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MIDITesterAppDelegate.h; sourceTree = "<group>"; };
+		65238E8311D0B37900079FC4 /* MIDITesterAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MIDITesterAppDelegate.m; sourceTree = "<group>"; };
+		65238EBA11D0B5B400079FC4 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		656CBE5A11CFBF840007DD38 /* CunddAppMIDIMapCreator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddAppMIDIMapCreator.h; sourceTree = "<group>"; };
+		656CBE5B11CFBF840007DD38 /* CunddAppMIDIMapCreator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddAppMIDIMapCreator.m; sourceTree = "<group>"; };
+		6580077F11D0F60B00D83C17 /* CunddUIButtonAppMIDIMapCreatorRecord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddUIButtonAppMIDIMapCreatorRecord.h; sourceTree = "<group>"; };
+		6580078011D0F60B00D83C17 /* CunddUIButtonAppMIDIMapCreatorRecord.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddUIButtonAppMIDIMapCreatorRecord.m; sourceTree = "<group>"; };
+		658007E411D0FC5500D83C17 /* CunddMIDIData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddMIDIData.h; sourceTree = "<group>"; };
+		658007E511D0FC5500D83C17 /* CunddMIDIData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddMIDIData.m; sourceTree = "<group>"; };
+		6580083411D102F500D83C17 /* CunddMIDIDataOwner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddMIDIDataOwner.h; sourceTree = "<group>"; };
+		6580083511D102F500D83C17 /* CunddMIDIDataOwner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddMIDIDataOwner.m; sourceTree = "<group>"; };
+		65A4BF7C11D34DEF00EC75F6 /* net.cundd.MIDITester.plist */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; name = net.cundd.MIDITester.plist; path = ../../../../../../Library/Preferences/net.cundd.MIDITester.plist; sourceTree = SOURCE_ROOT; };
+		65A4C04711D3644F00EC75F6 /* StartView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StartView.h; sourceTree = "<group>"; };
+		65A4C04811D3644F00EC75F6 /* StartView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StartView.m; sourceTree = "<group>"; };
+		65A4C58811D3DA8C00EC75F6 /* CunddUISegmentedControlAppMIDIMapCreatorRecord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddUISegmentedControlAppMIDIMapCreatorRecord.h; sourceTree = "<group>"; };
+		65A4C58911D3DA8C00EC75F6 /* CunddUISegmentedControlAppMIDIMapCreatorRecord.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddUISegmentedControlAppMIDIMapCreatorRecord.m; sourceTree = "<group>"; };
+		65A4C70811D3EF1000EC75F6 /* CunddAppMIDIValueTransformer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddAppMIDIValueTransformer.h; sourceTree = "<group>"; };
+		65A4C70911D3EF1000EC75F6 /* CunddAppMIDIValueTransformer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddAppMIDIValueTransformer.m; sourceTree = "<group>"; };
+		65D4F7F511CBDB7D006ED25F /* CunddAppMIDIHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddAppMIDIHandler.h; sourceTree = "<group>"; };
+		65D4F7F611CBDB7D006ED25F /* CunddAppMIDIHandler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddAppMIDIHandler.m; sourceTree = "<group>"; };
+		65D4F80211CBDBD3006ED25F /* CunddCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CunddCore.framework; path = /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Release/CunddCore.framework; sourceTree = "<absolute>"; };
+		8DC2EF5A0486A6940098B216 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8DC2EF5B0486A6940098B216 /* CunddMIDI.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CunddMIDI.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D2F7E79907B2D74100F64583 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		65238E3511D0B1DE00079FC4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				65238E6D11D0B29300079FC4 /* CunddMIDI.framework in Frameworks */,
+				65238EAE11D0B55800079FC4 /* CunddCore.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8DC2EF560486A6940098B216 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8DC2EF570486A6940098B216 /* Cocoa.framework in Frameworks */,
+				6518515011CA90B00054D6E2 /* CoreMIDI.framework in Frameworks */,
+				65D4F80311CBDBD3006ED25F /* CunddCore.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		034768DFFF38A50411DB9C8B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				65238E3711D0B1DE00079FC4 /* MIDITester.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0867D691FE84028FC02AAC07 /* CunddMIDI */ = {
+			isa = PBXGroup;
+			children = (
+				65238E3D11D0B20D00079FC4 /* CunddMIDI */,
+				034768DFFF38A50411DB9C8B /* Products */,
+				65238E3E11D0B21700079FC4 /* MIDITester */,
+			);
+			name = CunddMIDI;
+			sourceTree = "<group>";
+		};
+		0867D69AFE84028FC02AAC07 /* External Frameworks and Libraries */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7B0FEA5585E11CA2CBB /* Linked Frameworks */,
+				1058C7B2FEA5585E11CA2CBB /* Other Frameworks */,
+			);
+			name = "External Frameworks and Libraries";
+			sourceTree = "<group>";
+		};
+		089C1665FE841158C02AAC07 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				8DC2EF5A0486A6940098B216 /* Info.plist */,
+				089C1666FE841158C02AAC07 /* InfoPlist.strings */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		08FB77AEFE84172EC02AAC07 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				65A4C70811D3EF1000EC75F6 /* CunddAppMIDIValueTransformer.h */,
+				65A4C70911D3EF1000EC75F6 /* CunddAppMIDIValueTransformer.m */,
+				65D4F7F511CBDB7D006ED25F /* CunddAppMIDIHandler.h */,
+				65D4F7F611CBDB7D006ED25F /* CunddAppMIDIHandler.m */,
+				656CBE5A11CFBF840007DD38 /* CunddAppMIDIMapCreator.h */,
+				656CBE5B11CFBF840007DD38 /* CunddAppMIDIMapCreator.m */,
+				651850E011CA88820054D6E2 /* CunddMIDI.h */,
+				651850E111CA88820054D6E2 /* CunddMIDI.m */,
+				651850E211CA88820054D6E2 /* CunddMIDIClient.h */,
+				651850E311CA88820054D6E2 /* CunddMIDIClient.m */,
+				658007E411D0FC5500D83C17 /* CunddMIDIData.h */,
+				658007E511D0FC5500D83C17 /* CunddMIDIData.m */,
+				6580083411D102F500D83C17 /* CunddMIDIDataOwner.h */,
+				6580083511D102F500D83C17 /* CunddMIDIDataOwner.m */,
+				651850E411CA88820054D6E2 /* CunddMIDIDataOwnerAbstract.h */,
+				651850E511CA88820054D6E2 /* CunddMIDIDataOwnerAbstract.m */,
+				651850E611CA88820054D6E2 /* CunddMIDIDestination.h */,
+				651850E711CA88820054D6E2 /* CunddMIDIDestination.m */,
+				651850E811CA88820054D6E2 /* CunddMIDIDevice.h */,
+				651850E911CA88820054D6E2 /* CunddMIDIDevice.m */,
+				651850EA11CA88820054D6E2 /* CunddMIDIEndpoint.h */,
+				651850EB11CA88820054D6E2 /* CunddMIDIEndpoint.m */,
+				651850EC11CA88820054D6E2 /* CunddMIDIEntity.h */,
+				651850ED11CA88820054D6E2 /* CunddMIDIEntity.m */,
+				651850EE11CA88820054D6E2 /* CunddMIDIObject.h */,
+				651850EF11CA88820054D6E2 /* CunddMIDIObject.m */,
+				651850F011CA88820054D6E2 /* CunddMIDISource.h */,
+				651850F111CA88820054D6E2 /* CunddMIDISource.m */,
+				6580077F11D0F60B00D83C17 /* CunddUIButtonAppMIDIMapCreatorRecord.h */,
+				6580078011D0F60B00D83C17 /* CunddUIButtonAppMIDIMapCreatorRecord.m */,
+				65A4C58811D3DA8C00EC75F6 /* CunddUISegmentedControlAppMIDIMapCreatorRecord.h */,
+				65A4C58911D3DA8C00EC75F6 /* CunddUISegmentedControlAppMIDIMapCreatorRecord.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		1058C7B0FEA5585E11CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7B1FEA5585E11CA2CBB /* Cocoa.framework */,
+				6518514F11CA90B00054D6E2 /* CoreMIDI.framework */,
+				65D4F80211CBDBD3006ED25F /* CunddCore.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7B2FEA5585E11CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0867D6A5FE840307C02AAC07 /* AppKit.framework */,
+				D2F7E79907B2D74100F64583 /* CoreData.framework */,
+				0867D69BFE84028FC02AAC07 /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		32C88DFF0371C24200C91783 /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32DBCF5E0370ADEE00C91783 /* CunddMIDI_Prefix.pch */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		65238E3D11D0B20D00079FC4 /* CunddMIDI */ = {
+			isa = PBXGroup;
+			children = (
+				08FB77AEFE84172EC02AAC07 /* Classes */,
+				32C88DFF0371C24200C91783 /* Other Sources */,
+				089C1665FE841158C02AAC07 /* Resources */,
+				0867D69AFE84028FC02AAC07 /* External Frameworks and Libraries */,
+			);
+			name = CunddMIDI;
+			sourceTree = "<group>";
+		};
+		65238E3E11D0B21700079FC4 /* MIDITester */ = {
+			isa = PBXGroup;
+			children = (
+				65238E8511D0B38300079FC4 /* Classes */,
+				65238E5E11D0B28500079FC4 /* Frameworks */,
+				65238EB111D0B59000079FC4 /* Other Sources */,
+				65238E3F11D0B21E00079FC4 /* Resources */,
+				65A4BF7D11D34DF700EC75F6 /* External */,
+			);
+			name = MIDITester;
+			sourceTree = "<group>";
+		};
+		65238E3F11D0B21E00079FC4 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				65238E3911D0B1DE00079FC4 /* MIDITester-Info.plist */,
+				65238E4C11D0B23200079FC4 /* MainMenu.xib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		65238E5E11D0B28500079FC4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8DC2EF5B0486A6940098B216 /* CunddMIDI.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		65238E8511D0B38300079FC4 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				65A4C04711D3644F00EC75F6 /* StartView.h */,
+				65A4C04811D3644F00EC75F6 /* StartView.m */,
+				65238E8211D0B37900079FC4 /* MIDITesterAppDelegate.h */,
+				65238E8311D0B37900079FC4 /* MIDITesterAppDelegate.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		65238EB111D0B59000079FC4 /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				65238EBA11D0B5B400079FC4 /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		65A4BF7D11D34DF700EC75F6 /* External */ = {
+			isa = PBXGroup;
+			children = (
+				65A4BF7C11D34DEF00EC75F6 /* net.cundd.MIDITester.plist */,
+			);
+			name = External;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		8DC2EF500486A6940098B216 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				651850F211CA88820054D6E2 /* CunddMIDI.h in Headers */,
+				651850F411CA88820054D6E2 /* CunddMIDIClient.h in Headers */,
+				651850F611CA88820054D6E2 /* CunddMIDIDataOwnerAbstract.h in Headers */,
+				651850F811CA88820054D6E2 /* CunddMIDIDestination.h in Headers */,
+				651850FA11CA88820054D6E2 /* CunddMIDIDevice.h in Headers */,
+				651850FC11CA88820054D6E2 /* CunddMIDIEndpoint.h in Headers */,
+				651850FE11CA88820054D6E2 /* CunddMIDIEntity.h in Headers */,
+				6518510011CA88820054D6E2 /* CunddMIDIObject.h in Headers */,
+				6518510211CA88820054D6E2 /* CunddMIDISource.h in Headers */,
+				65D4F7F711CBDB7D006ED25F /* CunddAppMIDIHandler.h in Headers */,
+				656CBE5C11CFBF840007DD38 /* CunddAppMIDIMapCreator.h in Headers */,
+				658007E611D0FC5500D83C17 /* CunddMIDIData.h in Headers */,
+				6580083611D102F500D83C17 /* CunddMIDIDataOwner.h in Headers */,
+				65A4C58A11D3DA8C00EC75F6 /* CunddUISegmentedControlAppMIDIMapCreatorRecord.h in Headers */,
+				65A4C70A11D3EF1000EC75F6 /* CunddAppMIDIValueTransformer.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		65238E3611D0B1DE00079FC4 /* MIDITester */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 65238E3C11D0B1DF00079FC4 /* Build configuration list for PBXNativeTarget "MIDITester" */;
+			buildPhases = (
+				65238E3311D0B1DE00079FC4 /* Resources */,
+				65238E3411D0B1DE00079FC4 /* Sources */,
+				65238E3511D0B1DE00079FC4 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MIDITester;
+			productName = MIDITester;
+			productReference = 65238E3711D0B1DE00079FC4 /* MIDITester.app */;
+			productType = "com.apple.product-type.application";
+		};
+		8DC2EF4F0486A6940098B216 /* CunddMIDI */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1DEB91AD08733DA50010E9CD /* Build configuration list for PBXNativeTarget "CunddMIDI" */;
+			buildPhases = (
+				8DC2EF500486A6940098B216 /* Headers */,
+				8DC2EF520486A6940098B216 /* Resources */,
+				8DC2EF540486A6940098B216 /* Sources */,
+				8DC2EF560486A6940098B216 /* Frameworks */,
+				65D4F88011CBDE8F006ED25F /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CunddMIDI;
+			productInstallPath = "$(HOME)/Library/Frameworks";
+			productName = CunddMIDI;
+			productReference = 8DC2EF5B0486A6940098B216 /* CunddMIDI.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0867D690FE84028FC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1DEB91B108733DA50010E9CD /* Build configuration list for PBXProject "CunddMIDI" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 0867D691FE84028FC02AAC07 /* CunddMIDI */;
+			productRefGroup = 034768DFFF38A50411DB9C8B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8DC2EF4F0486A6940098B216 /* CunddMIDI */,
+				65238E3611D0B1DE00079FC4 /* MIDITester */,
+				65238EA311D0B51B00079FC4 /* BuildAll */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		65238E3311D0B1DE00079FC4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				65238EC011D0B5F500079FC4 /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8DC2EF520486A6940098B216 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8DC2EF530486A6940098B216 /* InfoPlist.strings in Resources */,
+				65238E4D11D0B23200079FC4 /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		65D4F88011CBDE8F006ED25F /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "ls /Users/${USER}/Sites/mac_iPhone_dev/a_training/Dive/framework/${PRODUCT_NAME}/build/Release/${PRODUCT_NAME}.framework/\nrm -R /Users/${USER}/Library/Frameworks/${PRODUCT_NAME}.framework\ncp -Rf /Users/${USER}/Sites/mac_iPhone_dev/a_training/Dive/framework/${PRODUCT_NAME}/build/Release/${PRODUCT_NAME}.framework/ /Users/${USER}/Library/Frameworks/${PRODUCT_NAME}.framework";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		65238E3411D0B1DE00079FC4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				65238E8411D0B37900079FC4 /* MIDITesterAppDelegate.m in Sources */,
+				65238EBB11D0B5B400079FC4 /* main.m in Sources */,
+				6580078111D0F60B00D83C17 /* CunddUIButtonAppMIDIMapCreatorRecord.m in Sources */,
+				65A4C04911D3644F00EC75F6 /* StartView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8DC2EF540486A6940098B216 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				651850F311CA88820054D6E2 /* CunddMIDI.m in Sources */,
+				651850F511CA88820054D6E2 /* CunddMIDIClient.m in Sources */,
+				651850F711CA88820054D6E2 /* CunddMIDIDataOwnerAbstract.m in Sources */,
+				651850F911CA88820054D6E2 /* CunddMIDIDestination.m in Sources */,
+				651850FB11CA88820054D6E2 /* CunddMIDIDevice.m in Sources */,
+				651850FD11CA88820054D6E2 /* CunddMIDIEndpoint.m in Sources */,
+				651850FF11CA88820054D6E2 /* CunddMIDIEntity.m in Sources */,
+				6518510111CA88820054D6E2 /* CunddMIDIObject.m in Sources */,
+				6518510311CA88820054D6E2 /* CunddMIDISource.m in Sources */,
+				65D4F7F811CBDB7D006ED25F /* CunddAppMIDIHandler.m in Sources */,
+				658007E711D0FC5500D83C17 /* CunddMIDIData.m in Sources */,
+				6580082A11D1013200D83C17 /* CunddAppMIDIMapCreator.m in Sources */,
+				65A4C2FA11D37FDB00EC75F6 /* CunddMIDIDataOwner.m in Sources */,
+				65A4C58B11D3DA8C00EC75F6 /* CunddUISegmentedControlAppMIDIMapCreatorRecord.m in Sources */,
+				65A4C70B11D3EF1000EC75F6 /* CunddAppMIDIValueTransformer.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		65238EA711D0B52000079FC4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 65238E3611D0B1DE00079FC4 /* MIDITester */;
+			targetProxy = 65238EA611D0B52000079FC4 /* PBXContainerItemProxy */;
+		};
+		65238EA911D0B52100079FC4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8DC2EF4F0486A6940098B216 /* CunddMIDI */;
+			targetProxy = 65238EA811D0B52100079FC4 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		089C1666FE841158C02AAC07 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				089C1667FE841158C02AAC07 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB91AE08733DA50010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../build/Release\"",
+				);
+				FRAMEWORK_VERSION = A;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = CunddMIDI_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Library/Frameworks";
+				PRODUCT_NAME = CunddMIDI;
+				WRAPPER_EXTENSION = framework;
+			};
+			name = Debug;
+		};
+		1DEB91AF08733DA50010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../build/Release\"",
+				);
+				FRAMEWORK_VERSION = A;
+				GCC_ENABLE_OBJC_GC = supported;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = CunddMIDI_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Library/Frameworks";
+				PRODUCT_NAME = CunddMIDI;
+				WRAPPER_EXTENSION = framework;
+			};
+			name = Release;
+		};
+		1DEB91B208733DA50010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		1DEB91B308733DA50010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+		65238E3A11D0B1DF00079FC4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../build/Release\"",
+				);
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/AppKit.framework/Headers/AppKit.h";
+				INFOPLIST_FILE = "MIDITester-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					AppKit,
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = MIDITester;
+			};
+			name = Debug;
+		};
+		65238E3B11D0B1DF00079FC4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../build/Release\"",
+				);
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_ENABLE_OBJC_GC = unsupported;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "$(SYSTEM_LIBRARY_DIR)/Frameworks/AppKit.framework/Headers/AppKit.h";
+				INFOPLIST_FILE = "MIDITester-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					AppKit,
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = MIDITester;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+		65238EA411D0B51B00079FC4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				PRODUCT_NAME = BuildAll;
+			};
+			name = Debug;
+		};
+		65238EA511D0B51B00079FC4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				PRODUCT_NAME = BuildAll;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB91AD08733DA50010E9CD /* Build configuration list for PBXNativeTarget "CunddMIDI" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB91AE08733DA50010E9CD /* Debug */,
+				1DEB91AF08733DA50010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1DEB91B108733DA50010E9CD /* Build configuration list for PBXProject "CunddMIDI" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB91B208733DA50010E9CD /* Debug */,
+				1DEB91B308733DA50010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		65238E3C11D0B1DF00079FC4 /* Build configuration list for PBXNativeTarget "MIDITester" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				65238E3A11D0B1DF00079FC4 /* Debug */,
+				65238E3B11D0B1DF00079FC4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		65238EAD11D0B53F00079FC4 /* Build configuration list for PBXAggregateTarget "BuildAll" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				65238EA411D0B51B00079FC4 /* Debug */,
+				65238EA511D0B51B00079FC4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0867D690FE84028FC02AAC07 /* Project object */;
+}

@@ -1,0 +1,1243 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 65238E3811D0B1DE00079FC4 /* MIDITester */;
+		activeTarget = 65238EA311D0B51B00079FC4 /* BuildAll */;
+		addToTargets = (
+			8DC2EF4F0486A6940098B216 /* CunddMIDI */,
+		);
+		breakpoints = (
+			6580071511D0F05200D83C17 /* CunddAppMIDIMapCreator.m:57 */,
+			6580071911D0F06F00D83C17 /* CunddAppMIDIMapCreator.m:37 */,
+			658007FF11D0FF8000D83C17 /* CunddMIDIDataOwnerAbstract.m:78 */,
+			65EA6F6011D23BE6002DFDEF /* CunddMIDIData.m:50 */,
+			65A4BEB711D2B6E100EC75F6 /* CunddAppMIDIMapCreator.m:123 */,
+			65A4BEDC11D2B84E00EC75F6 /* CunddAppMIDIMapCreator.m:123 */,
+			65A4C02B11D3631A00EC75F6 /* CunddAppMIDIMapCreator.m:139 */,
+			65A4C07711D3685300EC75F6 /* CunddUIButtonAppMIDIMapCreatorRecord.m:17 */,
+			65A4C20811D378E800EC75F6 /* CunddMIDIClient.m:103 */,
+			65A4C30811D3809300EC75F6 /* CunddMIDIDataOwner.m:23 */,
+			65A4C48C11D3959300EC75F6 /* CunddMIDIClient.m:130 */,
+			65A4C6B211D3E6A300EC75F6 /* CunddAppMIDIMapCreator.m:104 */,
+		);
+		codeSenseManager = 6518510511CA88820054D6E2 /* Code sense */;
+		executables = (
+			65238E3811D0B1DE00079FC4 /* MIDITester */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					565,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXTargetDataSource_PrimaryAttribute;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					525,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308310511;
+			PBXWorkspaceStateSaveDate = 308310511;
+		};
+		perUserProjectItems = {
+			65036C7E125E268A002E7661 /* PBXTextBookmark */ = 65036C7E125E268A002E7661 /* PBXTextBookmark */;
+			65036C7F125E268A002E7661 /* PBXTextBookmark */ = 65036C7F125E268A002E7661 /* PBXTextBookmark */;
+			65036C80125E268A002E7661 /* PBXTextBookmark */ = 65036C80125E268A002E7661 /* PBXTextBookmark */;
+			65036C81125E268A002E7661 /* PBXTextBookmark */ = 65036C81125E268A002E7661 /* PBXTextBookmark */;
+			65036C83125E268A002E7661 /* PBXTextBookmark */ = 65036C83125E268A002E7661 /* PBXTextBookmark */;
+			65036C84125E268A002E7661 /* PBXTextBookmark */ = 65036C84125E268A002E7661 /* PBXTextBookmark */;
+			65036C85125E268A002E7661 /* PBXTextBookmark */ = 65036C85125E268A002E7661 /* PBXTextBookmark */;
+			65036C86125E268A002E7661 /* PBXTextBookmark */ = 65036C86125E268A002E7661 /* PBXTextBookmark */;
+			65238E7211D0B29700079FC4 /* PBXTextBookmark */ = 65238E7211D0B29700079FC4 /* PBXTextBookmark */;
+			65238F2711D0C98600079FC4 /* PBXTextBookmark */ = 65238F2711D0C98600079FC4 /* PBXTextBookmark */;
+			653412D111F4A10E004B468B /* PBXTextBookmark */ = 653412D111F4A10E004B468B /* PBXTextBookmark */;
+			653412D211F4A10E004B468B /* PBXTextBookmark */ = 653412D211F4A10E004B468B /* PBXTextBookmark */;
+			653412DB11F4A10E004B468B /* PBXTextBookmark */ = 653412DB11F4A10E004B468B /* PBXTextBookmark */;
+			653412DC11F4A10E004B468B /* PBXTextBookmark */ = 653412DC11F4A10E004B468B /* PBXTextBookmark */;
+			653412DD11F4A10E004B468B /* PBXTextBookmark */ = 653412DD11F4A10E004B468B /* PBXTextBookmark */;
+			6534152611F61E40004B468B /* PBXTextBookmark */ = 6534152611F61E40004B468B /* PBXTextBookmark */;
+			6534152711F61E40004B468B /* PBXTextBookmark */ = 6534152711F61E40004B468B /* PBXTextBookmark */;
+			65614FBC12510E9800C4FF38 /* PBXTextBookmark */ = 65614FBC12510E9800C4FF38 /* PBXTextBookmark */;
+			65614FBF12510E9800C4FF38 /* PBXTextBookmark */ = 65614FBF12510E9800C4FF38 /* PBXTextBookmark */;
+			65614FC312510E9800C4FF38 /* PBXTextBookmark */ = 65614FC312510E9800C4FF38 /* PBXTextBookmark */;
+			65614FC512510E9800C4FF38 /* PBXTextBookmark */ = 65614FC512510E9800C4FF38 /* PBXTextBookmark */;
+			658007A511D0F8EE00D83C17 /* PBXTextBookmark */ = 658007A511D0F8EE00D83C17 /* PBXTextBookmark */;
+			65950F1A12607318009A6EE4 /* PBXTextBookmark */ = 65950F1A12607318009A6EE4 /* PBXTextBookmark */;
+			65950F1B12607318009A6EE4 /* PBXTextBookmark */ = 65950F1B12607318009A6EE4 /* PBXTextBookmark */;
+			65950F1D12607342009A6EE4 /* PBXTextBookmark */ = 65950F1D12607342009A6EE4 /* PBXTextBookmark */;
+			6596CA7B11D1F0EA00E3BE36 /* PBXTextBookmark */ = 6596CA7B11D1F0EA00E3BE36 /* PBXTextBookmark */;
+			659C2ECF125129D0007FA550 /* PBXTextBookmark */ = 659C2ECF125129D0007FA550 /* PBXTextBookmark */;
+			659C2ED1125129D0007FA550 /* PBXTextBookmark */ = 659C2ED1125129D0007FA550 /* PBXTextBookmark */;
+			65A4BEA411D2B6C900EC75F6 /* PlistBookmark */ = 65A4BEA411D2B6C900EC75F6 /* PlistBookmark */;
+			65A4BEA511D2B6C900EC75F6 /* PlistBookmark */ = 65A4BEA511D2B6C900EC75F6 /* PlistBookmark */;
+			65A4C07D11D3685A00EC75F6 /* PBXTextBookmark */ = 65A4C07D11D3685A00EC75F6 /* PBXTextBookmark */;
+			65A4C0AB11D36A1200EC75F6 /* PBXTextBookmark */ = 65A4C0AB11D36A1200EC75F6 /* PBXTextBookmark */;
+			65A4C1D011D3769900EC75F6 /* PBXTextBookmark */ = 65A4C1D011D3769900EC75F6 /* PBXTextBookmark */;
+			65A4C1D111D3769900EC75F6 /* PBXTextBookmark */ = 65A4C1D111D3769900EC75F6 /* PBXTextBookmark */;
+			65A4C33C11D3831100EC75F6 /* PBXTextBookmark */ = 65A4C33C11D3831100EC75F6 /* PBXTextBookmark */;
+			65A4C3DB11D3887000EC75F6 /* PBXTextBookmark */ = 65A4C3DB11D3887000EC75F6 /* PBXTextBookmark */;
+			65A4C40111D38AB600EC75F6 /* PBXTextBookmark */ = 65A4C40111D38AB600EC75F6 /* PBXTextBookmark */;
+			65A4C41611D38BF500EC75F6 /* PBXTextBookmark */ = 65A4C41611D38BF500EC75F6 /* PBXTextBookmark */;
+			65A4C4D211D3980F00EC75F6 /* PBXTextBookmark */ = 65A4C4D211D3980F00EC75F6 /* PBXTextBookmark */;
+			65A4C71711D3F0E500EC75F6 /* PBXTextBookmark */ = 65A4C71711D3F0E500EC75F6 /* PBXTextBookmark */;
+			65BE20D51211601A007F0097 /* PBXTextBookmark */ = 65BE20D51211601A007F0097 /* PBXTextBookmark */;
+			65D0C21B1254F8900036B53A /* PBXTextBookmark */ = 65D0C21B1254F8900036B53A /* PBXTextBookmark */;
+			65EA6DDF11D208D3002DFDEF /* PBXTextBookmark */ = 65EA6DDF11D208D3002DFDEF /* PBXTextBookmark */;
+			65F04B1C125E22AF0076E890 /* PBXTextBookmark */ = 65F04B1C125E22AF0076E890 /* PBXTextBookmark */;
+			65F4EE29125349D20033EAA9 /* PBXTextBookmark */ = 65F4EE29125349D20033EAA9 /* PBXTextBookmark */;
+			65F4EE2A125349D20033EAA9 /* PBXTextBookmark */ = 65F4EE2A125349D20033EAA9 /* PBXTextBookmark */;
+			65F4EE2B125349D20033EAA9 /* PBXTextBookmark */ = 65F4EE2B125349D20033EAA9 /* PBXTextBookmark */;
+			65F4EE2C125349D20033EAA9 /* PBXTextBookmark */ = 65F4EE2C125349D20033EAA9 /* PBXTextBookmark */;
+			65F4EE2D125349D20033EAA9 /* PBXTextBookmark */ = 65F4EE2D125349D20033EAA9 /* PBXTextBookmark */;
+			65F4EE2E125349D20033EAA9 /* PBXTextBookmark */ = 65F4EE2E125349D20033EAA9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6518510411CA88820054D6E2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	089C1667FE841158C02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {665, 736}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	65036C7E125E268A002E7661 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 651850F111CA88820054D6E2 /* CunddMIDISource.m */;
+		name = "CunddMIDISource.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1269;
+		vrLoc = 0;
+	};
+	65036C7F125E268A002E7661 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 651850E511CA88820054D6E2 /* CunddMIDIDataOwnerAbstract.m */;
+		name = "CunddMIDIDataOwnerAbstract.m: 30";
+		rLen = 43;
+		rLoc = 1245;
+		rType = 0;
+		vrLen = 2114;
+		vrLoc = 3;
+	};
+	65036C80125E268A002E7661 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6580083511D102F500D83C17 /* CunddMIDIDataOwner.m */;
+		name = "CunddMIDIDataOwner.m: 12";
+		rLen = 18;
+		rLoc = 185;
+		rType = 0;
+		vrLen = 1369;
+		vrLoc = 0;
+	};
+	65036C81125E268A002E7661 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 658007E511D0FC5500D83C17 /* CunddMIDIData.m */;
+		name = "CunddMIDIData.m: 29";
+		rLen = 0;
+		rLoc = 674;
+		rType = 0;
+		vrLen = 1450;
+		vrLoc = 620;
+	};
+	65036C83125E268A002E7661 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 651850ED11CA88820054D6E2 /* CunddMIDIEntity.m */;
+		name = "CunddMIDIEntity.m: 45";
+		rLen = 1093;
+		rLoc = 1647;
+		rType = 0;
+		vrLen = 2148;
+		vrLoc = 1056;
+	};
+	65036C84125E268A002E7661 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65238E8311D0B37900079FC4 /* MIDITesterAppDelegate.m */;
+		name = "MIDITesterAppDelegate.m: 108";
+		rLen = 4;
+		rLoc = 3120;
+		rType = 0;
+		vrLen = 1925;
+		vrLoc = 2137;
+	};
+	65036C85125E268A002E7661 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 651850E611CA88820054D6E2 /* CunddMIDIDestination.h */;
+		name = "CunddMIDIDestination.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1932;
+		vrLoc = 0;
+	};
+	65036C86125E268A002E7661 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 651850E711CA88820054D6E2 /* CunddMIDIDestination.m */;
+		name = "CunddMIDIDestination.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1702;
+		vrLoc = 0;
+	};
+	651850E011CA88820054D6E2 /* CunddMIDI.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {745, 690}}";
+			sepNavSelRange = "{75, 1112}";
+			sepNavVisRange = "{0, 1859}";
+		};
+	};
+	651850E111CA88820054D6E2 /* CunddMIDI.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 871}}";
+			sepNavSelRange = "{1245, 699}";
+			sepNavVisRange = "{0, 2141}";
+		};
+	};
+	651850E211CA88820054D6E2 /* CunddMIDIClient.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {781, 1365}}";
+			sepNavSelRange = "{2198, 4}";
+			sepNavVisRange = "{295, 1911}";
+		};
+	};
+	651850E311CA88820054D6E2 /* CunddMIDIClient.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 4368}}";
+			sepNavSelRange = "{8522, 669}";
+			sepNavVisRange = "{7779, 1731}";
+		};
+	};
+	651850E411CA88820054D6E2 /* CunddMIDIDataOwnerAbstract.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 1183}}";
+			sepNavSelRange = "{1753, 0}";
+			sepNavVisRange = "{1197, 1628}";
+		};
+	};
+	651850E511CA88820054D6E2 /* CunddMIDIDataOwnerAbstract.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 2522}}";
+			sepNavSelRange = "{1245, 43}";
+			sepNavVisRange = "{3, 2114}";
+		};
+	};
+	651850E611CA88820054D6E2 /* CunddMIDIDestination.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 862}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1932}";
+		};
+	};
+	651850E711CA88820054D6E2 /* CunddMIDIDestination.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 862}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1702}";
+		};
+	};
+	651850E811CA88820054D6E2 /* CunddMIDIDevice.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 869}}";
+			sepNavSelRange = "{1362, 15}";
+			sepNavVisRange = "{0, 1588}";
+		};
+	};
+	651850E911CA88820054D6E2 /* CunddMIDIDevice.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 869}}";
+			sepNavSelRange = "{1865, 0}";
+			sepNavVisRange = "{0, 1897}";
+		};
+	};
+	651850EA11CA88820054D6E2 /* CunddMIDIEndpoint.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {781, 1131}}";
+			sepNavSelRange = "{1294, 0}";
+			sepNavVisRange = "{800, 1676}";
+		};
+	};
+	651850EB11CA88820054D6E2 /* CunddMIDIEndpoint.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 1872}}";
+			sepNavSelRange = "{3146, 17}";
+			sepNavVisRange = "{2338, 1608}";
+		};
+	};
+	651850EC11CA88820054D6E2 /* CunddMIDIEntity.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 1326}}";
+			sepNavSelRange = "{3089, 12}";
+			sepNavVisRange = "{1293, 1673}";
+		};
+	};
+	651850ED11CA88820054D6E2 /* CunddMIDIEntity.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 2691}}";
+			sepNavSelRange = "{1647, 1093}";
+			sepNavVisRange = "{1056, 2148}";
+		};
+	};
+	651850EE11CA88820054D6E2 /* CunddMIDIObject.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 869}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1488}";
+		};
+	};
+	651850EF11CA88820054D6E2 /* CunddMIDIObject.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 869}}";
+			sepNavSelRange = "{1231, 32}";
+			sepNavVisRange = "{0, 1442}";
+		};
+	};
+	651850F011CA88820054D6E2 /* CunddMIDISource.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 873}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1324}";
+		};
+	};
+	651850F111CA88820054D6E2 /* CunddMIDISource.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 862}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1269}";
+		};
+	};
+	6518510411CA88820054D6E2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6518510511CA88820054D6E2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	65238E3611D0B1DE00079FC4 /* MIDITester */ = {
+		activeExec = 0;
+		executables = (
+			65238E3811D0B1DE00079FC4 /* MIDITester */,
+		);
+	};
+	65238E3811D0B1DE00079FC4 /* MIDITester */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MIDITester;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	65238E7211D0B29700079FC4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C1667FE841158C02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	65238E8211D0B37900079FC4 /* MIDITesterAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {745, 767}}";
+			sepNavSelRange = "{955, 0}";
+			sepNavVisRange = "{230, 1246}";
+		};
+	};
+	65238E8311D0B37900079FC4 /* MIDITesterAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {781, 4966}}";
+			sepNavSelRange = "{609, 4}";
+			sepNavVisRange = "{0, 1582}";
+			sepNavWindowFrame = "{{15, 157}, {688, 1016}}";
+		};
+	};
+	65238EA311D0B51B00079FC4 /* BuildAll */ = {
+		activeExec = 0;
+	};
+	65238EBA11D0B5B400079FC4 /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 869}}";
+			sepNavSelRange = "{0, 240}";
+			sepNavVisRange = "{0, 240}";
+		};
+	};
+	65238F2711D0C98600079FC4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65238F2811D0C98600079FC4 /* runtime.h */;
+		name = "runtime.h: 399";
+		rLen = 0;
+		rLoc = 15861;
+		rType = 0;
+		vrLen = 2558;
+		vrLoc = 18700;
+	};
+	65238F2811D0C98600079FC4 /* runtime.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = runtime.h;
+		path = /usr/include/objc/runtime.h;
+		sourceTree = "<absolute>";
+	};
+	653412D111F4A10E004B468B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6580077F11D0F60B00D83C17 /* CunddUIButtonAppMIDIMapCreatorRecord.h */;
+		name = "CunddUIButtonAppMIDIMapCreatorRecord.h: 15";
+		rLen = 200;
+		rLoc = 359;
+		rType = 0;
+		vrLen = 565;
+		vrLoc = 0;
+	};
+	653412D211F4A10E004B468B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6580078011D0F60B00D83C17 /* CunddUIButtonAppMIDIMapCreatorRecord.m */;
+		name = "CunddUIButtonAppMIDIMapCreatorRecord.m: 17";
+		rLen = 0;
+		rLoc = 388;
+		rType = 0;
+		vrLen = 1364;
+		vrLoc = 0;
+	};
+	653412DB11F4A10E004B468B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65A4C58811D3DA8C00EC75F6 /* CunddUISegmentedControlAppMIDIMapCreatorRecord.h */;
+		name = "CunddUISegmentedControlAppMIDIMapCreatorRecord.h: 11";
+		rLen = 0;
+		rLoc = 297;
+		rType = 0;
+		vrLen = 610;
+		vrLoc = 0;
+	};
+	653412DC11F4A10E004B468B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65A4C58911D3DA8C00EC75F6 /* CunddUISegmentedControlAppMIDIMapCreatorRecord.m */;
+		name = "CunddUISegmentedControlAppMIDIMapCreatorRecord.m: 9";
+		rLen = 46;
+		rLoc = 173;
+		rType = 0;
+		vrLen = 963;
+		vrLoc = 0;
+	};
+	653412DD11F4A10E004B468B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65A4C70911D3EF1000EC75F6 /* CunddAppMIDIValueTransformer.m */;
+		name = "CunddAppMIDIValueTransformer.m: 11";
+		rLen = 0;
+		rLoc = 221;
+		rType = 0;
+		vrLen = 889;
+		vrLoc = 0;
+	};
+	6534152611F61E40004B468B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 656CBE5B11CFBF840007DD38 /* CunddAppMIDIMapCreator.m */;
+		name = "CunddAppMIDIMapCreator.m: 99";
+		rLen = 0;
+		rLoc = 3135;
+		rType = 0;
+		vrLen = 1678;
+		vrLoc = 5625;
+	};
+	6534152711F61E40004B468B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 651850E011CA88820054D6E2 /* CunddMIDI.h */;
+		name = "CunddMIDI.h: 7";
+		rLen = 1112;
+		rLoc = 75;
+		rType = 0;
+		vrLen = 1859;
+		vrLoc = 0;
+	};
+	65614FBC12510E9800C4FF38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6580083411D102F500D83C17 /* CunddMIDIDataOwner.h */;
+		name = "CunddMIDIDataOwner.h: 15";
+		rLen = 0;
+		rLoc = 337;
+		rType = 0;
+		vrLen = 393;
+		vrLoc = 0;
+	};
+	65614FBF12510E9800C4FF38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 651850E411CA88820054D6E2 /* CunddMIDIDataOwnerAbstract.h */;
+		name = "CunddMIDIDataOwnerAbstract.h: 48";
+		rLen = 0;
+		rLoc = 1753;
+		rType = 0;
+		vrLen = 1628;
+		vrLoc = 1197;
+	};
+	65614FC312510E9800C4FF38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65D4F7F611CBDB7D006ED25F /* CunddAppMIDIHandler.m */;
+		name = "CunddAppMIDIHandler.m: 24";
+		rLen = 23;
+		rLoc = 551;
+		rType = 0;
+		vrLen = 1859;
+		vrLoc = 0;
+	};
+	65614FC512510E9800C4FF38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 651850F011CA88820054D6E2 /* CunddMIDISource.h */;
+		name = "CunddMIDISource.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1324;
+		vrLoc = 0;
+	};
+	656CBE5A11CFBF840007DD38 /* CunddAppMIDIMapCreator.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {745, 629}}";
+			sepNavSelRange = "{559, 0}";
+			sepNavVisRange = "{0, 613}";
+		};
+	};
+	656CBE5B11CFBF840007DD38 /* CunddAppMIDIMapCreator.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {745, 2743}}";
+			sepNavSelRange = "{3135, 0}";
+			sepNavVisRange = "{5625, 1678}";
+		};
+	};
+	656CBE6611CFC03D0007DD38 /* CunddAppAbstractMapCreator.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CunddAppAbstractMapCreator.h;
+		path = /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/../../build/Release/CunddCore.framework/Headers/CunddAppAbstractMapCreator.h;
+		sourceTree = "<absolute>";
+	};
+	6580071511D0F05200D83C17 /* CunddAppMIDIMapCreator.m:57 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 656CBE5B11CFBF840007DD38 /* CunddAppMIDIMapCreator.m */;
+		functionName = "-waitForCaller";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 57;
+		location = CunddMIDI;
+		modificationTime = 308310805.239625;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6580071911D0F06F00D83C17 /* CunddAppMIDIMapCreator.m:37 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 656CBE5B11CFBF840007DD38 /* CunddAppMIDIMapCreator.m */;
+		functionName = "-recordControl:withEvent:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 37;
+		location = CunddMIDI;
+		modificationTime = 308165727.050767;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	6580077F11D0F60B00D83C17 /* CunddUIButtonAppMIDIMapCreatorRecord.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {745, 695}}";
+			sepNavSelRange = "{359, 200}";
+			sepNavVisRange = "{0, 565}";
+		};
+	};
+	6580078011D0F60B00D83C17 /* CunddUIButtonAppMIDIMapCreatorRecord.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {745, 767}}";
+			sepNavSelRange = "{388, 0}";
+			sepNavVisRange = "{0, 1364}";
+		};
+	};
+	658007A511D0F8EE00D83C17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 658007A611D0F8EE00D83C17 /* CunddUIButtonAppMapCreatorRecord.h */;
+		name = "CunddUIButtonAppMapCreatorRecord.h: 12";
+		rLen = 57;
+		rLoc = 171;
+		rType = 0;
+		vrLen = 237;
+		vrLoc = 0;
+	};
+	658007A611D0F8EE00D83C17 /* CunddUIButtonAppMapCreatorRecord.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CunddUIButtonAppMapCreatorRecord.h;
+		path = /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Release/CunddCore.framework/Versions/A/Headers/CunddUIButtonAppMapCreatorRecord.h;
+		sourceTree = "<absolute>";
+	};
+	658007E411D0FC5500D83C17 /* CunddMIDIData.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 865}}";
+			sepNavSelRange = "{605, 34}";
+			sepNavVisRange = "{0, 851}";
+		};
+	};
+	658007E511D0FC5500D83C17 /* CunddMIDIData.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 1209}}";
+			sepNavSelRange = "{674, 0}";
+			sepNavVisRange = "{620, 1450}";
+		};
+	};
+	658007FF11D0FF8000D83C17 /* CunddMIDIDataOwnerAbstract.m:78 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 651850E511CA88820054D6E2 /* CunddMIDIDataOwnerAbstract.m */;
+		functionName = "-setPacketData:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 78;
+		location = CunddMIDI;
+		modificationTime = 308310805.239637;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6580083411D102F500D83C17 /* CunddMIDIDataOwner.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 873}}";
+			sepNavSelRange = "{337, 0}";
+			sepNavVisRange = "{0, 393}";
+		};
+	};
+	6580083511D102F500D83C17 /* CunddMIDIDataOwner.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 862}}";
+			sepNavSelRange = "{185, 18}";
+			sepNavVisRange = "{0, 1369}";
+		};
+	};
+	65950F1A12607318009A6EE4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 651850EB11CA88820054D6E2 /* CunddMIDIEndpoint.m */;
+		name = "CunddMIDIEndpoint.m: 99";
+		rLen = 17;
+		rLoc = 3146;
+		rType = 0;
+		vrLen = 1608;
+		vrLoc = 2338;
+	};
+	65950F1B12607318009A6EE4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 651850E311CA88820054D6E2 /* CunddMIDIClient.m */;
+		name = "CunddMIDIClient.m: 257";
+		rLen = 8;
+		rLoc = 7891;
+		rType = 0;
+		vrLen = 2095;
+		vrLoc = 6974;
+	};
+	65950F1D12607342009A6EE4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 651850E311CA88820054D6E2 /* CunddMIDIClient.m */;
+		name = "CunddMIDIClient.m: 277";
+		rLen = 669;
+		rLoc = 8522;
+		rType = 0;
+		vrLen = 1731;
+		vrLoc = 7779;
+	};
+	6596CA7B11D1F0EA00E3BE36 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65D4F7F511CBDB7D006ED25F /* CunddAppMIDIHandler.h */;
+		name = "CunddAppMIDIHandler.h: 16";
+		rLen = 23;
+		rLoc = 353;
+		rType = 0;
+		vrLen = 1076;
+		vrLoc = 0;
+	};
+	6596CA9D11D1F30F00E3BE36 /* CunddAppAbstractHandler.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CunddAppAbstractHandler.h;
+		path = /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/build/Release/CunddCore.framework/Versions/A/Headers/CunddAppAbstractHandler.h;
+		sourceTree = "<absolute>";
+	};
+	659C2ECF125129D0007FA550 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 651850E211CA88820054D6E2 /* CunddMIDIClient.h */;
+		name = "CunddMIDIClient.h: 93";
+		rLen = 115;
+		rLoc = 2735;
+		rType = 0;
+		vrLen = 2206;
+		vrLoc = 0;
+	};
+	659C2ED1125129D0007FA550 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 651850E111CA88820054D6E2 /* CunddMIDI.m */;
+		name = "CunddMIDI.m: 31";
+		rLen = 699;
+		rLoc = 1245;
+		rType = 0;
+		vrLen = 2141;
+		vrLoc = 0;
+	};
+	65A4BEA411D2B6C900EC75F6 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8DC2EF5A0486A6940098B216 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	65A4BEA511D2B6C900EC75F6 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 65238E3911D0B1DE00079FC4 /* MIDITester-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/framework/CunddMIDI/MIDITester-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	65A4BEAC11D2B6C900EC75F6 /* CunddAppAbstractMapCreator.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = CunddAppAbstractMapCreator.m;
+		path = /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppAbstractMapCreator.m;
+		sourceTree = "<absolute>";
+	};
+	65A4BEB711D2B6E100EC75F6 /* CunddAppMIDIMapCreator.m:123 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 656CBE5B11CFBF840007DD38 /* CunddAppMIDIMapCreator.m */;
+		functionName = "-recordCaller:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 123;
+		location = CunddMIDI;
+		modificationTime = 308310805.239648;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	65A4BEDC11D2B84E00EC75F6 /* CunddAppMIDIMapCreator.m:123 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 656CBE5B11CFBF840007DD38 /* CunddAppMIDIMapCreator.m */;
+		functionName = "-recordCaller:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 123;
+		location = CunddMIDI;
+		modificationTime = 308310805.239549;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	65A4BF7C11D34DEF00EC75F6 /* net.cundd.MIDITester.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 157}, {688, 1016}}";
+		};
+	};
+	65A4BFDE11D3522F00EC75F6 /* CunddAppAbstractMapCreator.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CunddAppAbstractMapCreator.h;
+		path = /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddAppAbstractMapCreator.h;
+		sourceTree = "<absolute>";
+	};
+	65A4C02B11D3631A00EC75F6 /* CunddAppMIDIMapCreator.m:139 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 656CBE5B11CFBF840007DD38 /* CunddAppMIDIMapCreator.m */;
+		functionName = "-didOpen";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 139;
+		location = CunddMIDI;
+		modificationTime = 308165727.050814;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65A4C04711D3644F00EC75F6 /* StartView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {745, 652}}";
+			sepNavSelRange = "{224, 0}";
+			sepNavVisRange = "{0, 224}";
+		};
+	};
+	65A4C04811D3644F00EC75F6 /* StartView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {745, 652}}";
+			sepNavSelRange = "{232, 0}";
+			sepNavVisRange = "{0, 240}";
+		};
+	};
+	65A4C07711D3685300EC75F6 /* CunddUIButtonAppMIDIMapCreatorRecord.m:17 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6580078011D0F60B00D83C17 /* CunddUIButtonAppMIDIMapCreatorRecord.m */;
+		functionName = "-mouseDown:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 17;
+		modificationTime = 308310805.239594;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	65A4C07D11D3685A00EC75F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65A4C07E11D3685A00EC75F6 /* MIDIServices.h */;
+		name = "MIDIServices.h: 246";
+		rLen = 32;
+		rLoc = 8753;
+		rType = 0;
+		vrLen = 1496;
+		vrLoc = 8002;
+	};
+	65A4C07E11D3685A00EC75F6 /* MIDIServices.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = MIDIServices.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreMIDI.framework/Versions/A/Headers/MIDIServices.h;
+		sourceTree = "<absolute>";
+	};
+	65A4C0AB11D36A1200EC75F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65A4BFDE11D3522F00EC75F6 /* CunddAppAbstractMapCreator.h */;
+		name = "CunddAppAbstractMapCreator.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1033;
+		vrLoc = 0;
+	};
+	65A4C0AE11D36A1200EC75F6 /* CunddSingleton.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = CunddSingleton.m;
+		path = /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/CunddSingleton.m;
+		sourceTree = "<absolute>";
+	};
+	65A4C19511D374AC00EC75F6 /* MacTypes.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = MacTypes.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/Headers/MacTypes.h;
+		sourceTree = "<absolute>";
+	};
+	65A4C1D011D3769900EC75F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65A4C0AE11D36A1200EC75F6 /* CunddSingleton.m */;
+		name = "CunddSingleton.m: 21";
+		rLen = 0;
+		rLoc = 486;
+		rType = 0;
+		vrLen = 1111;
+		vrLoc = 127;
+	};
+	65A4C1D111D3769900EC75F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65238E8211D0B37900079FC4 /* MIDITesterAppDelegate.h */;
+		name = "MIDITesterAppDelegate.h: 42";
+		rLen = 0;
+		rLoc = 955;
+		rType = 0;
+		vrLen = 1246;
+		vrLoc = 230;
+	};
+	65A4C20811D378E800EC75F6 /* CunddMIDIClient.m:103 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 651850E311CA88820054D6E2 /* CunddMIDIClient.m */;
+		functionName = "readFunction()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 103;
+		location = CunddMIDI;
+		modificationTime = 308165727.0508361;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65A4C30811D3809300EC75F6 /* CunddMIDIDataOwner.m:23 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6580083511D102F500D83C17 /* CunddMIDIDataOwner.m */;
+		functionName = "-setPacketData:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 23;
+		location = CunddMIDI;
+		modificationTime = 308165727.0508469;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65A4C33C11D3831100EC75F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 656CBE5A11CFBF840007DD38 /* CunddAppMIDIMapCreator.h */;
+		name = "CunddAppMIDIMapCreator.h: 27";
+		rLen = 0;
+		rLoc = 559;
+		rType = 0;
+		vrLen = 613;
+		vrLoc = 0;
+	};
+	65A4C3DB11D3887000EC75F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65A4C04811D3644F00EC75F6 /* StartView.m */;
+		name = "StartView.m: 12";
+		rLen = 0;
+		rLoc = 232;
+		rType = 0;
+		vrLen = 240;
+		vrLoc = 0;
+	};
+	65A4C40111D38AB600EC75F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 656CBE6611CFC03D0007DD38 /* CunddAppAbstractMapCreator.h */;
+		name = "CunddAppAbstractMapCreator.h: 166";
+		rLen = 57;
+		rLoc = 3503;
+		rType = 0;
+		vrLen = 1219;
+		vrLoc = 3089;
+	};
+	65A4C41611D38BF500EC75F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65A4BEAC11D2B6C900EC75F6 /* CunddAppAbstractMapCreator.m */;
+		name = "CunddAppAbstractMapCreator.m: 234";
+		rLen = 0;
+		rLoc = 5539;
+		rType = 0;
+		vrLen = 969;
+		vrLoc = 880;
+	};
+	65A4C48C11D3959300EC75F6 /* CunddMIDIClient.m:130 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 651850E311CA88820054D6E2 /* CunddMIDIClient.m */;
+		functionName = "readFunction()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 130;
+		location = CunddMIDI;
+		modificationTime = 308165727.050856;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65A4C4D211D3980F00EC75F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65A4C04711D3644F00EC75F6 /* StartView.h */;
+		name = "StartView.h: 16";
+		rLen = 0;
+		rLoc = 224;
+		rType = 0;
+		vrLen = 224;
+		vrLoc = 0;
+	};
+	65A4C58811D3DA8C00EC75F6 /* CunddUISegmentedControlAppMIDIMapCreatorRecord.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {745, 695}}";
+			sepNavSelRange = "{297, 0}";
+			sepNavVisRange = "{0, 610}";
+		};
+	};
+	65A4C58911D3DA8C00EC75F6 /* CunddUISegmentedControlAppMIDIMapCreatorRecord.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {745, 695}}";
+			sepNavSelRange = "{173, 46}";
+			sepNavVisRange = "{0, 963}";
+		};
+	};
+	65A4C6B211D3E6A300EC75F6 /* CunddAppMIDIMapCreator.m:104 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 656CBE5B11CFBF840007DD38 /* CunddAppMIDIMapCreator.m */;
+		functionName = "-recordCaller:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 104;
+		location = CunddMIDI;
+		modificationTime = 308310805.239608;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	65A4C70811D3EF1000EC75F6 /* CunddAppMIDIValueTransformer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {745, 700}}";
+			sepNavSelRange = "{183, 28}";
+			sepNavVisRange = "{0, 234}";
+		};
+	};
+	65A4C70911D3EF1000EC75F6 /* CunddAppMIDIValueTransformer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {745, 695}}";
+			sepNavSelRange = "{221, 0}";
+			sepNavVisRange = "{0, 889}";
+		};
+	};
+	65A4C71711D3F0E500EC75F6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65A4C70811D3EF1000EC75F6 /* CunddAppMIDIValueTransformer.h */;
+		name = "CunddAppMIDIValueTransformer.h: 12";
+		rLen = 28;
+		rLoc = 183;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	65BE20D51211601A007F0097 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65A4C19511D374AC00EC75F6 /* MacTypes.h */;
+		name = "MacTypes.h: 646";
+		rLen = 46;
+		rLoc = 27105;
+		rType = 0;
+		vrLen = 2183;
+		vrLoc = 26043;
+	};
+	65D0C21B1254F8900036B53A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 651850EC11CA88820054D6E2 /* CunddMIDIEntity.h */;
+		name = "CunddMIDIEntity.h: 100";
+		rLen = 12;
+		rLoc = 3089;
+		rType = 0;
+		vrLen = 1673;
+		vrLoc = 1293;
+	};
+	65D4F7F511CBDB7D006ED25F /* CunddAppMIDIHandler.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {665, 727}}";
+			sepNavSelRange = "{353, 23}";
+			sepNavVisRange = "{0, 1076}";
+		};
+	};
+	65D4F7F611CBDB7D006ED25F /* CunddAppMIDIHandler.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 936}}";
+			sepNavSelRange = "{551, 23}";
+			sepNavVisRange = "{0, 1859}";
+			sepNavWindowFrame = "{{15, 157}, {688, 1016}}";
+		};
+	};
+	65EA6DDF11D208D3002DFDEF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6596CA9D11D1F30F00E3BE36 /* CunddAppAbstractHandler.h */;
+		name = "CunddAppAbstractHandler.h: 25";
+		rLen = 0;
+		rLoc = 483;
+		rType = 0;
+		vrLen = 1207;
+		vrLoc = 0;
+	};
+	65EA6F6011D23BE6002DFDEF /* CunddMIDIData.m:50 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 658007E511D0FC5500D83C17 /* CunddMIDIData.m */;
+		functionName = "-setPacketData:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 50;
+		location = CunddMIDI;
+		modificationTime = 308165727.050786;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65F04B1C125E22AF0076E890 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 658007E411D0FC5500D83C17 /* CunddMIDIData.h */;
+		name = "CunddMIDIData.h: 29";
+		rLen = 34;
+		rLoc = 605;
+		rType = 0;
+		vrLen = 851;
+		vrLoc = 0;
+	};
+	65F4EE29125349D20033EAA9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65238EBA11D0B5B400079FC4 /* main.m */;
+		name = "main.m: 1";
+		rLen = 240;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 240;
+		vrLoc = 0;
+	};
+	65F4EE2A125349D20033EAA9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 651850E911CA88820054D6E2 /* CunddMIDIDevice.m */;
+		name = "CunddMIDIDevice.m: 52";
+		rLen = 0;
+		rLoc = 1865;
+		rType = 0;
+		vrLen = 1897;
+		vrLoc = 0;
+	};
+	65F4EE2B125349D20033EAA9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 651850E811CA88820054D6E2 /* CunddMIDIDevice.h */;
+		name = "CunddMIDIDevice.h: 33";
+		rLen = 15;
+		rLoc = 1362;
+		rType = 0;
+		vrLen = 1588;
+		vrLoc = 0;
+	};
+	65F4EE2C125349D20033EAA9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 651850EF11CA88820054D6E2 /* CunddMIDIObject.m */;
+		name = "CunddMIDIObject.m: 30";
+		rLen = 32;
+		rLoc = 1231;
+		rType = 0;
+		vrLen = 1442;
+		vrLoc = 0;
+	};
+	65F4EE2D125349D20033EAA9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 651850EE11CA88820054D6E2 /* CunddMIDIObject.h */;
+		name = "CunddMIDIObject.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1488;
+		vrLoc = 0;
+	};
+	65F4EE2E125349D20033EAA9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 651850EA11CA88820054D6E2 /* CunddMIDIEndpoint.h */;
+		name = "CunddMIDIEndpoint.h: 34";
+		rLen = 25;
+		rLoc = 1373;
+		rType = 0;
+		vrLen = 2005;
+		vrLoc = 800;
+	};
+	8DC2EF4F0486A6940098B216 /* CunddMIDI */ = {
+		activeExec = 0;
+	};
+}

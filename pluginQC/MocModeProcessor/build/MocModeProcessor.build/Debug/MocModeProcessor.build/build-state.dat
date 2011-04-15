@@ -1,0 +1,160 @@
+TMocModeProcessor
+v7
+r0
+t296152520.091898
+cCheck dependencies
+cProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug/MocModeProcessor.plugin/Contents/Info.plist Info.plist
+cCompileXIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/English.lproj/Settings.xib
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MocModeProcessor_Prefix-hecbwksiyvagqwahedmtudlwidyp/MocModeProcessor_Prefix.pch.gch MocModeProcessor_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MocModeProcessor.build/Debug/MocModeProcessor.build/Objects-normal/x86_64/MocModeProcessorPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/MocModeProcessorPlugIn.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug/MocModeProcessor.plugin/Contents/MacOS/MocModeProcessor normal x86_64
+cTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug/MocModeProcessor.plugin
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BE2D1A200000000000000EE
+t1273156002
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/CGLMacro.h
+c000000004B8E4E9E000000000001FFC8
+t1267617438
+s131016
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c000000004BE298F40000000000000124
+t1273141492
+s292
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004A1249D4000000000000A5F0
+t1242712532
+s42480
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/English.lproj/Settings.xib
+c000000004BF6AB17000000000000157F
+t1274456855
+s5503
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/MocModeProcessorPlugIn.h
+c000000004BF6AEB20000000000000510
+t1274457778
+s1296
+i<Quartz/Quartz.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/MocModeProcessorPlugIn.m
+c000000004BF6AF160000000000001A44
+t1274457878
+s6724
+i<OpenGL/CGLMacro.h>
+i"MocModeProcessorPlugIn.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/MocModeProcessor_Prefix.pch
+c000000004BF6AB170000000000000032
+t1274456855
+s50
+i<Quartz/Quartz.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug/MocModeProcessor.plugin
+t1274459720
+s102
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug/MocModeProcessor.plugin/Contents/Info.plist
+t1274459712
+s872
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug/MocModeProcessor.plugin/Contents/MacOS/MocModeProcessor
+t1274459720
+s15768
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug/MocModeProcessor.plugin/Contents/Resources/English.lproj/Settings.nib
+t1274459714
+s1630
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/MocModeProcessor.build/Debug/MocModeProcessor.build/Objects-normal/x86_64/MocModeProcessor.LinkFileList
+c000000004BF6B64000000000000000B7
+t1274459712
+s183
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/MocModeProcessor.build/Debug/MocModeProcessor.build/Objects-normal/x86_64/MocModeProcessorPlugIn.o
+t1274459719
+s25668
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MocModeProcessor_Prefix-hecbwksiyvagqwahedmtudlwidyp/MocModeProcessor_Prefix.pch.gch
+t1274459719
+s56472976
+
+NInfo.plist
+c000000004BF6AFAF0000000000000373
+t1274458031
+s883
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296152512#296152512#0(0"0(0#1#0"8633327904#0"0#
+
+CCompileC build/MocModeProcessor.build/Debug/MocModeProcessor.build/Objects-normal/x86_64/MocModeProcessorPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/MocModeProcessorPlugIn.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296152519.620474
+e296152519.812654
+r1
+xCompileC
+xbuild/MocModeProcessor.build/Debug/MocModeProcessor.build/Objects-normal/x86_64/MocModeProcessorPlugIn.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/MocModeProcessorPlugIn.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/MocModeProcessorPlugIn.m296152519#296152519#0(0"0(0#0#102"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/MocModeProcessorPlugIn.m8625434048#1543"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/MocModeProcessor.build/Debug/MocModeProcessor.build/MocModeProcessor.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/MocModeProcessor.build/Debug/MocModeProcessor.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/MocModeProcessor.build/Debug/MocModeProcessor.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MocModeProcessor_Prefix-hecbwksiyvagqwahedmtudlwidyp/MocModeProcessor_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/MocModeProcessorPlugIn.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/MocModeProcessor.build/Debug/MocModeProcessor.build/Objects-normal/x86_64/MocModeProcessorPlugIn.o0#
+
+CCompileXIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/English.lproj/Settings.xib
+s296152512.447176
+e296152514.015549
+r1
+xCompileXIB
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/English.lproj/Settings.xib
+lSLF07#2@37"CompileXIB English.lproj/Settings.xib296152512#296152514#0(0"0(0#0#104"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/English.lproj/Settings.xib8625067008#493"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug/MocModeProcessor.plugin/Contents/Resources/English.lproj/Settings.nib /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/English.lproj/Settings.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug/MocModeProcessor.plugin/Contents/MacOS/MocModeProcessor normal x86_64
+s296152519.812736
+e296152520.088573
+r1
+xLd
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug/MocModeProcessor.plugin/Contents/MacOS/MocModeProcessor
+xnormal
+xx86_64
+lSLF07#2@150"Link /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug/MocModeProcessor.plugin/Contents/MacOS/MocModeProcessor296152519#296152520#0(0"0(0#0#0"8631587872#811"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug -filelist /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/MocModeProcessor.build/Debug/MocModeProcessor.build/Objects-normal/x86_64/MocModeProcessor.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug/MocModeProcessor.plugin/Contents/MacOS/MocModeProcessor0#
+
+CProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug/MocModeProcessor.plugin/Contents/Info.plist Info.plist
+s296152512.442872
+e296152512.447098
+r1
+xProcessInfoPlistFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug/MocModeProcessor.plugin/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist296152512#296152512#0(0"0(0#0#88"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/Info.plist8625926720#300"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug/MocModeProcessor.plugin/Contents/Info.plist0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MocModeProcessor_Prefix-hecbwksiyvagqwahedmtudlwidyp/MocModeProcessor_Prefix.pch.gch MocModeProcessor_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296152514.015730
+e296152519.620202
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MocModeProcessor_Prefix-hecbwksiyvagqwahedmtudlwidyp/MocModeProcessor_Prefix.pch.gch
+xMocModeProcessor_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile MocModeProcessor_Prefix.pch296152514#296152519#0(0"0(0#0#105"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/MocModeProcessor_Prefix.pch8628903328#1365"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/MocModeProcessor.build/Debug/MocModeProcessor.build/MocModeProcessor.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/MocModeProcessor.build/Debug/MocModeProcessor.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/MocModeProcessor.build/Debug/MocModeProcessor.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/MocModeProcessor_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MocModeProcessor_Prefix-hecbwksiyvagqwahedmtudlwidyp/MocModeProcessor_Prefix.pch.gch0#
+
+CTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug/MocModeProcessor.plugin
+s296152520.088695
+e296152520.091868
+r1
+xTouch
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug/MocModeProcessor.plugin
+lSLF07#2@119"Touch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug/MocModeProcessor.plugin296152520#296152520#0(0"0(0#0#0"8620702496#221"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor    /usr/bin/touch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/QCPlugins/MocModeProcessor/build/Debug/MocModeProcessor.plugin0#
+

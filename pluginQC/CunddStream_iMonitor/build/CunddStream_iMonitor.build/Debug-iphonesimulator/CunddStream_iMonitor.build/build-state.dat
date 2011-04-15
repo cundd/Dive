@@ -1,0 +1,284 @@
+TCunddStream_iMonitor
+v7
+r0
+t297720032.670490
+cCheck dependencies
+cProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app/Info.plist CunddStream_iMonitor-Info.plist
+cCompileXIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/MainWindow.xib
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStream_iMonitor_Prefix-czmgerecrdvrqsescuwspvthvifn/CunddStream_iMonitor_Prefix.pch.gch CunddStream_iMonitor_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/Objects-normal/i386/main.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/Objects-normal/i386/CunddStream_iMonitorAppDelegate.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStream_iMonitorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/Objects-normal/i386/CunddStreamClient.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/Objects-normal/i386/CunddStreamServicesTableViewDataSource.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app/CunddStream_iMonitor normal i386
+cGenerateDSYMFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app.dSYM /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app/CunddStream_iMonitor
+cTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C0E14AB0000000000000132
+t1275991211
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.h
+c000000004C0E9E3F00000000000005F3
+t1276026431
+s1523
+i<Cocoa/Cocoa.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m
+c000000004C0EA1CE0000000000001220
+t1276027342
+s4640
+i"CunddStreamClient.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.h
+c000000004C0E9D8600000000000003C4
+t1276026246
+s964
+i<Foundation/Foundation.h>
+i"CunddStreamClient.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m
+c000000004C0EA1380000000000000668
+t1276027192
+s1640
+i"CunddStreamServicesTableViewDataSource.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStream_iMonitorAppDelegate.h
+c000000004C0E9BCD0000000000000162
+t1276025805
+s354
+i<UIKit/UIKit.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStream_iMonitorAppDelegate.m
+c000000004C0E9BCD00000000000009E8
+t1276025805
+s2536
+i"CunddStream_iMonitorAppDelegate.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/CunddStream_iMonitor_Prefix.pch
+c000000004C0E9BCD00000000000000D1
+t1276025805
+s209
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/MainWindow.xib
+c000000004C0E9FD90000000000007DD3
+t1276026841
+s32211
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/Objects-normal/i386/CunddStreamClient.o
+t1276026433
+s62132
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/Objects-normal/i386/CunddStreamServicesTableViewDataSource.o
+t1276027193
+s56768
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/Objects-normal/i386/CunddStream_iMonitor.LinkFileList
+c000000004C0E9E090000000000000342
+t1276026377
+s834
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/Objects-normal/i386/CunddStream_iMonitorAppDelegate.o
+t1276026379
+s46828
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/Objects-normal/i386/main.o
+t1276026379
+s6388
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app
+t1276027193
+s204
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app.dSYM
+t1276027193
+s102
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app/CunddStream_iMonitor
+t1276027193
+s42788
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app/Info.plist
+t1276026377
+s649
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app/MainWindow.nib
+t1276026846
+s2840
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app/PkgInfo
+t1276026377
+s8
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/main.m
+c000000004C0E9BCD000000000000016A
+t1276025805
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStream_iMonitor_Prefix-czmgerecrdvrqsescuwspvthvifn/CunddStream_iMonitor_Prefix.pch.gch
+t1276026378
+s15232016
+
+NCunddStream_iMonitor-Info.plist
+c000000004C0E9BCD000000000000038D
+t1276025805
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies297720032#297720032#0(0"0(0#1#0"8633603936#0"0#
+
+CCompileC build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/Objects-normal/i386/CunddStreamClient.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s297719233.001852
+e297719233.109515
+r1
+xCompileC
+xbuild/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/Objects-normal/i386/CunddStreamClient.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m: In function '-[CunddStreamClient startStream:]':
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m:61: warning: 'UITableView' may not respond to '-selectedRow'
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m:61: warning: (Messages without a matching method signature
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m:61: warning: will be assumed to return 'id' and accept
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m:61: warning: '...' as arguments.)
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m:61: warning: comparison between pointer and integer
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m:62: warning: 'UITableView' may not respond to '-selectedRow'
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m:62: warning: passing argument 1 of 'objectAtIndex:' makes integer from pointer without a cast
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m:63: warning: 'UITableView' may not respond to '-selectedRow'
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m:63: warning: passing argument 1 of 'objectAtIndex:' makes integer from pointer without a cast
+lSLF07#2@116"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m297719233#297719233#0(1711"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m: In function '-[CunddStreamClient startStream:]':/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m:61: warning: 'UITableView' may not respond to '-selectedRow'/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m:61: warning: (Messages without a matching method signature/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m:61: warning: will be assumed to return 'id' and accept/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m:61: warning: '...' as arguments.)/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m:61: warning: comparison between pointer and integer/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m:62: warning: 'UITableView' may not respond to '-selectedRow'/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m:62: warning: passing argument 1 of 'objectAtIndex:' makes integer from pointer without a cast/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m:63: warning: 'UITableView' may not respond to '-selectedRow'/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m:63: warning: passing argument 1 of 'objectAtIndex:' makes integer from pointer without a cast7(22@47"'UITableView' may not respond to '-selectedRow'297719233#159#170#0(6@108"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m297180194#61#0#61#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)297719233#329#168#0(6@108"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m297180194#61#0#61#0#0"0(22@38"Comparison between pointer and integer297719233#804#161#0(6@108"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m297180194#61#0#61#0#0"0(22@47"'UITableView' may not respond to '-selectedRow'297719233#965#170#0(6@108"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m297180194#62#0#62#0#26"'*' may not respond to '*'0(22@80"Passing argument 1 of 'objectAtIndex:' makes integer from pointer without a cast297719233#1135#203#0(6@108"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m297180194#62#0#62#0#67"passing argument * of '*' makes integer from pointer without a cast0(22@47"'UITableView' may not respond to '-selectedRow'297719233#1338#170#0(6@108"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m297180194#63#0#63#0#26"'*' may not respond to '*'0(22@80"Passing argument 1 of 'objectAtIndex:' makes integer from pointer without a cast297719233#1508#203#0(6@108"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m297180194#63#0#63#0#67"passing argument * of '*' makes integer from pointer without a cast0(0#0#108"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m8619992640#2657"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/CunddStream_iMonitor-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/CunddStream_iMonitor-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/CunddStream_iMonitor-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/CunddStream_iMonitor-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/DerivedSources/i386 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStream_iMonitor_Prefix-czmgerecrdvrqsescuwspvthvifn/CunddStream_iMonitor_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamClient.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/Objects-normal/i386/CunddStreamClient.o0#
+
+CCompileC build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/Objects-normal/i386/CunddStreamServicesTableViewDataSource.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s297719993.454933
+e297719993.529538
+r1
+xCompileC
+xbuild/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/Objects-normal/i386/CunddStreamServicesTableViewDataSource.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m: In function '-[CunddStreamServicesTableViewDataSource tableView:cellForRowAtIndexPath:]':
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m:46: warning: unused variable 'row'
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m: At top level:
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m:53: warning: incomplete implementation of class 'CunddStreamServicesTableViewDataSource'
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m:53: warning: method definition for '-tableView:numberOfRowsInSection:' not found
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m:53: warning: class 'CunddStreamServicesTableViewDataSource' does not fully implement the 'UITableViewDataSource' protocol
+lSLF07#2@137"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m297719993#297719993#0(1213"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m: In function '-[CunddStreamServicesTableViewDataSource tableView:cellForRowAtIndexPath:]':/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m:46: warning: unused variable 'row'/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m: At top level:/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m:53: warning: incomplete implementation of class 'CunddStreamServicesTableViewDataSource'/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m:53: warning: method definition for '-tableView:numberOfRowsInSection:' not found/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m:53: warning: class 'CunddStreamServicesTableViewDataSource' does not fully implement the 'UITableViewDataSource' protocol5(22@21"Unused variable 'row'297719993#221#165#0(6@129"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m297719992#46#0#46#0#19"unused variable '*'0(23@13"At top level:297719993#386#145#0(6@129"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m297719992#0#0#0#0#0"0(22@75"Incomplete implementation of class 'CunddStreamServicesTableViewDataSource'297719993#531#219#0(6@129"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m297719992#53#0#53#0#38"incomplete implementation of class '*'0(22@67"Method definition for '-tableView:numberOfRowsInSection:' not found297719993#750#211#0(6@129"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m297719992#53#0#53#0#35"method definition for '*' not found0(22@108"Class 'CunddStreamServicesTableViewDataSource' does not fully implement the 'UITableViewDataSource' protocol297719993#961#252#0(6@129"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m297719992#53#0#53#0#51"class '*' does not fully implement the '*' protocol0(0#0#129"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m8634124128#2699"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/CunddStream_iMonitor-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/CunddStream_iMonitor-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/CunddStream_iMonitor-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/CunddStream_iMonitor-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/DerivedSources/i386 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStream_iMonitor_Prefix-czmgerecrdvrqsescuwspvthvifn/CunddStream_iMonitor_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStreamServicesTableViewDataSource.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/Objects-normal/i386/CunddStreamServicesTableViewDataSource.o0#
+
+CCompileC build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/Objects-normal/i386/CunddStream_iMonitorAppDelegate.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStream_iMonitorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s297719179.107011
+e297719179.219299
+r1
+xCompileC
+xbuild/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/Objects-normal/i386/CunddStream_iMonitorAppDelegate.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStream_iMonitorAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@130"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStream_iMonitorAppDelegate.m297719179#297719179#0(0"0(0#0#122"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStream_iMonitorAppDelegate.m8620197568#2685"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/CunddStream_iMonitor-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/CunddStream_iMonitor-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/CunddStream_iMonitor-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/CunddStream_iMonitor-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/DerivedSources/i386 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStream_iMonitor_Prefix-czmgerecrdvrqsescuwspvthvifn/CunddStream_iMonitor_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/Classes/CunddStream_iMonitorAppDelegate.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/Objects-normal/i386/CunddStream_iMonitorAppDelegate.o0#
+
+CCompileC build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/Objects-normal/i386/main.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s297719179.105676
+e297719179.164307
+r1
+xCompileC
+xbuild/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/Objects-normal/i386/main.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/main.m297719179#297719179#0(0"0(0#0#87"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/main.m8620485088#2623"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/CunddStream_iMonitor-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/CunddStream_iMonitor-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/CunddStream_iMonitor-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/CunddStream_iMonitor-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/DerivedSources/i386 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStream_iMonitor_Prefix-czmgerecrdvrqsescuwspvthvifn/CunddStream_iMonitor_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/main.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/MainWindow.xib
+s297719645.863940
+e297719646.275959
+r1
+xCompileXIB
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib297719645#297719646#0(0"0(0#0#95"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/MainWindow.xib7956011615612204032#709"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app/MainWindow.nib /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app.dSYM /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app/CunddStream_iMonitor
+s297719993.552290
+e297719993.568571
+r1
+xGenerateDSYMFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app.dSYM
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app/CunddStream_iMonitor
+lSLF07#2@148"GenerateDSYMFile build/Debug-iphonesimulator/CunddStream_iMonitor.app.dSYM build/Debug-iphonesimulator/CunddStream_iMonitor.app/CunddStream_iMonitor297719993#297719993#0(0"0(0#0#154"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app/CunddStream_iMonitor8639680544#548"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app/CunddStream_iMonitor -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app.dSYM0#
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app/CunddStream_iMonitor normal i386
+s297719993.529623
+e297719993.552207
+r1
+xLd
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app/CunddStream_iMonitor
+xnormal
+xi386
+lSLF07#2@159"Link /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app/CunddStream_iMonitor297719993#297719993#0(0"0(0#0#0"8640787840#1175"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator -filelist /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/Objects-normal/i386/CunddStream_iMonitor.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app/CunddStream_iMonitor0#
+
+CProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app/Info.plist CunddStream_iMonitor-Info.plist
+s297719177.904320
+e297719177.914395
+r1
+xProcessInfoPlistFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app/Info.plist
+xCunddStream_iMonitor-Info.plist
+lSLF07#2@39"Process CunddStream_iMonitor-Info.plist297719177#297719177#0(0"0(0#0#112"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/CunddStream_iMonitor-Info.plist27303506540101748#644"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CunddStream_iMonitor-Info.plist -genpkginfo /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app/Info.plist0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStream_iMonitor_Prefix-czmgerecrdvrqsescuwspvthvifn/CunddStream_iMonitor_Prefix.pch.gch CunddStream_iMonitor_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s297719178.299770
+e297719179.105540
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStream_iMonitor_Prefix-czmgerecrdvrqsescuwspvthvifn/CunddStream_iMonitor_Prefix.pch.gch
+xCunddStream_iMonitor_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile CunddStream_iMonitor_Prefix.pch297719178#297719179#0(0"0(0#0#112"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/CunddStream_iMonitor_Prefix.pch8619385280#2460"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/CunddStream_iMonitor-generated-files.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/CunddStream_iMonitor-own-target-headers.hmap -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/CunddStream_iMonitor-all-target-headers.hmap -iquote /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/CunddStream_iMonitor-project-headers.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/DerivedSources/i386 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/CunddStream_iMonitor.build/Debug-iphonesimulator/CunddStream_iMonitor.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/CunddStream_iMonitor_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStream_iMonitor_Prefix-czmgerecrdvrqsescuwspvthvifn/CunddStream_iMonitor_Prefix.pch.gch0#
+
+CTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app
+s297719993.568651
+e297719993.570715
+r1
+xTouch
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app
+lSLF07#2@139"Touch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app297719993#297719993#0(0"0(0#0#0"8639278848#375"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStream_iMonitor/build/Debug-iphonesimulator/CunddStream_iMonitor.app0#
+

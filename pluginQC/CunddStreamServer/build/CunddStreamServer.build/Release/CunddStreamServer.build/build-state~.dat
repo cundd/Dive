@@ -1,0 +1,286 @@
+TCunddStreamServer
+v7
+r0
+t296727771.164764
+cCheck dependencies
+cProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release/CunddStreamServer.plugin/Contents/Info.plist Info.plist
+cCompileXIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/English.lproj/Settings.xib
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamServer_Prefix-eqqjhlnlwscrngemblpbdyefhcpf/CunddStreamServer_Prefix.pch.gch CunddStreamServer_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamServer_Prefix-hdpwqxeinunrpofmmfhwclwrtkoa/CunddStreamServer_Prefix.pch.gch CunddStreamServer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamServer_Prefix-ezpjbjiswasmqefpszokhccefhrh/CunddStreamServer_Prefix.pch.gch CunddStreamServer_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/x86_64/CunddStreamServerPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/i386/CunddStreamServerPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/ppc/CunddStreamServerPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m normal ppc objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BE2D1A200000000000000EE
+t1273156002
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/CGLMacro.h
+c000000004B8E4E9E000000000001FFC8
+t1267617438
+s131016
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c000000004BE298F40000000000000124
+t1273141492
+s292
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/netinet/in.h
+c000000004B90BBA5000000000000539D
+t1267776421
+s21405
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/socket.h
+c000000004B90BBAA00000000000059BC
+t1267776426
+s22972
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004AC59C82000000000000563E
+t1254464642
+s22078
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004A1249D4000000000000A5F0
+t1242712532
+s42480
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.h
+c000000004BFF7D5000000000000002F3
+t1275034960
+s755
+i<Quartz/Quartz.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m
+c000000004BFF7D520000000000001AA1
+t1275034962
+s6817
+i<OpenGL/CGLMacro.h>
+i<sys/socket.h>
+i<netinet/in.h>
+i<unistd.h>
+i"CunddStreamServerPlugIn.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServer_Prefix.pch
+c000000004BFF74500000000000000032
+t1275032656
+s50
+i<Quartz/Quartz.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/English.lproj/Settings.xib
+c000000004BFF7450000000000000157F
+t1275032656
+s5503
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/i386/CunddStreamServer
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/i386/CunddStreamServer.LinkFileList
+c000000004BFF7D5200000000000000BA
+t1275034962
+s186
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/i386/CunddStreamServerPlugIn.o
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/ppc/CunddStreamServer
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/ppc/CunddStreamServer.LinkFileList
+c000000004BFF7D5200000000000000B9
+t1275034962
+s185
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/ppc/CunddStreamServerPlugIn.o
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/x86_64/CunddStreamServer
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/x86_64/CunddStreamServer.LinkFileList
+c000000004BFF7D5200000000000000BC
+t1275034962
+s188
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/x86_64/CunddStreamServerPlugIn.o
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release/CunddStreamServer.plugin
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release/CunddStreamServer.plugin.dSYM
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release/CunddStreamServer.plugin/Contents/Info.plist
+t1275034962
+s889
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release/CunddStreamServer.plugin/Contents/MacOS/CunddStreamServer
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release/CunddStreamServer.plugin/Contents/Resources/English.lproj/Settings.nib
+t1275034962
+s1630
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamServer_Prefix-eqqjhlnlwscrngemblpbdyefhcpf/CunddStreamServer_Prefix.pch.gch
+t1275034967
+s55141776
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamServer_Prefix-ezpjbjiswasmqefpszokhccefhrh/CunddStreamServer_Prefix.pch.gch
+t1275034970
+s54990032
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamServer_Prefix-hdpwqxeinunrpofmmfhwclwrtkoa/CunddStreamServer_Prefix.pch.gch
+t1275034967
+s57767344
+
+NInfo.plist
+c000000004BFF7450000000000000038A
+t1275032656
+s906
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies296727762#296727762#0(0"0(0#1#0"8648745088#0"0#
+
+CCompileC build/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/i386/CunddStreamServerPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296727770.743815
+e296727770.990303
+r0
+xCompileC
+xbuild/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/i386/CunddStreamServerPlugIn.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m: In function '-[CunddStreamServerPlugIn(Execution) startExecution:]':
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m:179: error: 'numberOfDownloads' undeclared (first use in this function)
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m:179: error: (Each undeclared identifier is reported only once
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m:179: error: for each function it appears in.)
+lSLF07#2@111"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m296727770#296727770#0(666"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m: In function '-[CunddStreamServerPlugIn(Execution) startExecution:]':/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m:179: error: 'numberOfDownloads' undeclared (first use in this function)/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m:179: error: (Each undeclared identifier is reported only once/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m:179: error: for each function it appears in.)1(4@59"'numberOfDownloads' undeclared (first use in this function)296727770#174#176#0(6@103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m296727762#179#0#179#0#43"'*' undeclared (first use in this function)0(0#0#103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m8646137952#1543"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/CunddStreamServer.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/DerivedSources/i386 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamServer_Prefix-hdpwqxeinunrpofmmfhwclwrtkoa/CunddStreamServer_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/i386/CunddStreamServerPlugIn.o1#
+
+CCompileC build/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/ppc/CunddStreamServerPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s296727770.956533
+e296727771.164686
+r0
+xCompileC
+xbuild/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/ppc/CunddStreamServerPlugIn.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m: In function '-[CunddStreamServerPlugIn(Execution) startExecution:]':
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m:179: error: 'numberOfDownloads' undeclared (first use in this function)
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m:179: error: (Each undeclared identifier is reported only once
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m:179: error: for each function it appears in.)
+lSLF07#2@111"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m296727770#296727771#0(666"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m: In function '-[CunddStreamServerPlugIn(Execution) startExecution:]':/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m:179: error: 'numberOfDownloads' undeclared (first use in this function)/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m:179: error: (Each undeclared identifier is reported only once/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m:179: error: for each function it appears in.)1(4@59"'numberOfDownloads' undeclared (first use in this function)296727771#174#176#0(6@103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m296727762#179#0#179#0#43"'*' undeclared (first use in this function)0(0#0#103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m3415266086917990400#1550"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/CunddStreamServer.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/DerivedSources/ppc -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamServer_Prefix-ezpjbjiswasmqefpszokhccefhrh/CunddStreamServer_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/ppc/CunddStreamServerPlugIn.o1#
+
+CCompileC build/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/x86_64/CunddStreamServerPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296727770.742924
+e296727770.956435
+r0
+xCompileC
+xbuild/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/x86_64/CunddStreamServerPlugIn.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m: In function '-[CunddStreamServerPlugIn(Execution) startExecution:]':
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m:179: error: 'numberOfDownloads' undeclared (first use in this function)
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m:179: error: (Each undeclared identifier is reported only once
+o/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m:179: error: for each function it appears in.)
+lSLF07#2@111"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m296727770#296727770#0(666"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m: In function '-[CunddStreamServerPlugIn(Execution) startExecution:]':/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m:179: error: 'numberOfDownloads' undeclared (first use in this function)/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m:179: error: (Each undeclared identifier is reported only once/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m:179: error: for each function it appears in.)1(4@59"'numberOfDownloads' undeclared (first use in this function)296727770#174#176#0(6@103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m296727762#179#0#179#0#43"'*' undeclared (first use in this function)0(0#0#103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m8645752096#1549"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/CunddStreamServer.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamServer_Prefix-eqqjhlnlwscrngemblpbdyefhcpf/CunddStreamServer_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServerPlugIn.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/x86_64/CunddStreamServerPlugIn.o1#
+
+CCompileXIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/English.lproj/Settings.xib
+s296727762.696660
+e296727762.841941
+r1
+xCompileXIB
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/English.lproj/Settings.xib
+lSLF07#2@37"CompileXIB English.lproj/Settings.xib296727762#296727762#0(0"0(0#0#104"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/English.lproj/Settings.xib8648237152#496"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release/CunddStreamServer.plugin/Contents/Resources/English.lproj/Settings.nib /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/English.lproj/Settings.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCreateUniversalBinary /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release/CunddStreamServer.plugin/Contents/MacOS/CunddStreamServer normal "x86_64 i386 ppc"
+r0
+
+CGenerateDSYMFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release/CunddStreamServer.plugin.dSYM /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release/CunddStreamServer.plugin/Contents/MacOS/CunddStreamServer
+r0
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/i386/CunddStreamServer normal i386
+r0
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/ppc/CunddStreamServer normal ppc
+r0
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/Objects-normal/x86_64/CunddStreamServer normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release/CunddStreamServer.plugin/Contents/Info.plist Info.plist
+s296727762.691589
+e296727762.696593
+r1
+xProcessInfoPlistFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release/CunddStreamServer.plugin/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist296727762#296727762#0(0"0(0#0#88"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/Info.plist8648732768#303"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release/CunddStreamServer.plugin/Contents/Info.plist0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamServer_Prefix-eqqjhlnlwscrngemblpbdyefhcpf/CunddStreamServer_Prefix.pch.gch CunddStreamServer_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296727762.842149
+e296727767.292204
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamServer_Prefix-eqqjhlnlwscrngemblpbdyefhcpf/CunddStreamServer_Prefix.pch.gch
+xCunddStreamServer_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile CunddStreamServer_Prefix.pch296727762#296727767#0(0"0(0#0#106"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServer_Prefix.pch8649997504#1366"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/CunddStreamServer.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServer_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamServer_Prefix-eqqjhlnlwscrngemblpbdyefhcpf/CunddStreamServer_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamServer_Prefix-ezpjbjiswasmqefpszokhccefhrh/CunddStreamServer_Prefix.pch.gch CunddStreamServer_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s296727767.292513
+e296727770.742792
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamServer_Prefix-ezpjbjiswasmqefpszokhccefhrh/CunddStreamServer_Prefix.pch.gch
+xCunddStreamServer_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile CunddStreamServer_Prefix.pch296727767#296727770#0(0"0(0#0#106"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServer_Prefix.pch8644115200#1370"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/CunddStreamServer.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/DerivedSources/ppc -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServer_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamServer_Prefix-ezpjbjiswasmqefpszokhccefhrh/CunddStreamServer_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamServer_Prefix-hdpwqxeinunrpofmmfhwclwrtkoa/CunddStreamServer_Prefix.pch.gch CunddStreamServer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s296727762.843028
+e296727768.046542
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamServer_Prefix-hdpwqxeinunrpofmmfhwclwrtkoa/CunddStreamServer_Prefix.pch.gch
+xCunddStreamServer_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile CunddStreamServer_Prefix.pch296727762#296727768#0(0"0(0#0#106"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServer_Prefix.pch8648568928#1362"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/CunddStreamServer.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/DerivedSources/i386 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/CunddStreamServer.build/Release/CunddStreamServer.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/CunddStreamServer_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CunddStreamServer_Prefix-hdpwqxeinunrpofmmfhwclwrtkoa/CunddStreamServer_Prefix.pch.gch0#
+
+CTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/CunddStreamServer/build/Release/CunddStreamServer.plugin
+r0
+
