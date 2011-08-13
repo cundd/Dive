@@ -51,6 +51,8 @@
 	</dict>
 	<key>Debug</key>
 	<dict>
+		<key>CunddAppMIDIHandler</key>
+		<false/>
 		<key>NSKVONotifying_CunddDiceQCPatchController</key>
 		<false/>
 		<key>CunddDiceQCView</key>
@@ -82,11 +84,11 @@
 		<key>CunddDiveEffect</key>
 		<false/>
 		<key>NSKVONotifying_CunddDiveVideoChainQCPatchController</key>
-		<true/>
+		<false/>
 		<key>NSKVONotifying_CunddDiveEffectArgument</key>
 		<false/>
 		<key>CunddDiveVideoChainSettings</key>
-		<true/>
+		<false/>
 		<key>CunddITunes</key>
 		<dict>
 			<key>Tracklist</key>
@@ -103,6 +105,24 @@
 	<dict>
 		<key>CunddApp</key>
 		<dict>
+			<key>CunddAppMIDIHandler</key>
+			<dict>
+				<key>map</key>
+				<dict>
+					<key>Launchpad.B0 68 7F</key>
+					<string>CunddDiveVideoChain1ShouldLoadTrack</string>
+					<key>Launchpad.B0 69 7F</key>
+					<string>CunddDiveVideoChain2ShouldLoadTrack</string>
+					<key>Launchpad.B0 6A 7F</key>
+					<string>CunddDiveVideoChain3ShouldLoadTrack</string>
+					<key>Launchpad.B0 6B 7F</key>
+					<string>CunddDiveVideoChain4ShouldLoadTrack</string>
+					<key>Port 1.B2 42 0</key>
+					<string>CunddDiveVideoChain1ShouldLoadTrack</string>
+					<key>Port 1.B2 4D 0</key>
+					<string>CunddDiveVideoChain2ShouldLoadTrack</string>
+				</dict>
+			</dict>
 			<key>CunddAppKeyHandler</key>
 			<dict>
 				<key>DefaultKeyToNotificationMap</key>
@@ -333,57 +353,6 @@
 				</dict>
 				<dict>
 					<key>Id</key>
-					<integer>9</integer>
-					<key>Name</key>
-					<string>Eightfold Reflected</string>
-					<key>Category</key>
-					<string>3</string>
-					<key>arguments</key>
-					<array>
-						<dict>
-							<key>Name</key>
-							<string>Center (X)</string>
-							<key>Type</key>
-							<string>Number</string>
-							<key>min</key>
-							<string>0</string>
-							<key>max</key>
-							<string>800</string>
-						</dict>
-						<dict>
-							<key>Name</key>
-							<string>Center (Y)</string>
-							<key>Type</key>
-							<string>Number</string>
-							<key>min</key>
-							<string>0</string>
-							<key>max</key>
-							<string>800</string>
-						</dict>
-						<dict>
-							<key>Name</key>
-							<string>Angle</string>
-							<key>Type</key>
-							<string>Number</string>
-							<key>min</key>
-							<string>0</string>
-							<key>max</key>
-							<string>360</string>
-						</dict>
-						<dict>
-							<key>Name</key>
-							<string>Width</string>
-							<key>Type</key>
-							<string>Number</string>
-							<key>min</key>
-							<string>0</string>
-							<key>max</key>
-							<string>800</string>
-						</dict>
-					</array>
-				</dict>
-				<dict>
-					<key>Id</key>
 					<integer>10</integer>
 					<key>Name</key>
 					<string>Fish Eye</string>
@@ -420,57 +389,6 @@
 							<string>0</string>
 							<key>max</key>
 							<string>1</string>
-						</dict>
-					</array>
-				</dict>
-				<dict>
-					<key>Id</key>
-					<integer>12</integer>
-					<key>Name</key>
-					<string>Fourfold Rotated Tile</string>
-					<key>Category</key>
-					<string>3</string>
-					<key>arguments</key>
-					<array>
-						<dict>
-							<key>Name</key>
-							<string>Center (X)</string>
-							<key>Type</key>
-							<string>Number</string>
-							<key>min</key>
-							<string>0</string>
-							<key>max</key>
-							<string>800</string>
-						</dict>
-						<dict>
-							<key>Name</key>
-							<string>Center (Y)</string>
-							<key>Type</key>
-							<string>Number</string>
-							<key>min</key>
-							<string>0</string>
-							<key>max</key>
-							<string>800</string>
-						</dict>
-						<dict>
-							<key>Name</key>
-							<string>Angle</string>
-							<key>Type</key>
-							<string>Number</string>
-							<key>min</key>
-							<string>0</string>
-							<key>max</key>
-							<string>360</string>
-						</dict>
-						<dict>
-							<key>Name</key>
-							<string>Width</string>
-							<key>Type</key>
-							<string>Number</string>
-							<key>min</key>
-							<string>0</string>
-							<key>max</key>
-							<string>800</string>
 						</dict>
 					</array>
 				</dict>
@@ -738,39 +656,6 @@
 				</dict>
 				<dict>
 					<key>Id</key>
-					<integer>20</integer>
-					<key>Name</key>
-					<string>Speed</string>
-					<key>Category</key>
-					<string>1</string>
-					<key>Singleton</key>
-					<true/>
-					<key>arguments</key>
-					<array>
-						<dict>
-							<key>Name</key>
-							<string>Speed</string>
-							<key>Type</key>
-							<string>Number</string>
-							<key>min</key>
-							<string>0</string>
-							<key>max</key>
-							<string>3</string>
-						</dict>
-						<dict>
-							<key>Name</key>
-							<string>Reverse</string>
-							<key>Type</key>
-							<string>Boolean</string>
-							<key>min</key>
-							<string>0</string>
-							<key>max</key>
-							<string>1</string>
-						</dict>
-					</array>
-				</dict>
-				<dict>
-					<key>Id</key>
 					<integer>21</integer>
 					<key>Name</key>
 					<string>Transform</string>
@@ -822,55 +707,6 @@
 						</dict>
 					</array>
 				</dict>
-				<dict>
-					<key>Id</key>
-					<integer>22</integer>
-					<key>Name</key>
-					<string>Key Out</string>
-					<key>Category</key>
-					<string>1</string>
-					<key>Singleton</key>
-					<false/>
-					<key>arguments</key>
-					<array>
-						<dict>
-							<key>Name</key>
-							<string>StartColor</string>
-							<key>Type</key>
-							<string>Color</string>
-						</dict>
-						<dict>
-							<key>Name</key>
-							<string>Hue Width</string>
-							<key>Type</key>
-							<string>Number</string>
-							<key>min</key>
-							<string>0</string>
-							<key>max</key>
-							<string>1</string>
-						</dict>
-						<dict>
-							<key>Name</key>
-							<string>Saturation Width</string>
-							<key>Type</key>
-							<string>Number</string>
-							<key>min</key>
-							<string>0</string>
-							<key>max</key>
-							<string>1</string>
-						</dict>
-						<dict>
-							<key>Name</key>
-							<string>Luminosity Width</string>
-							<key>Type</key>
-							<string>Number</string>
-							<key>min</key>
-							<string>0</string>
-							<key>max</key>
-							<string>1</string>
-						</dict>
-					</array>
-				</dict>
 			</array>
 			<key>CunddDiveVideoChainQCPatchController</key>
 			<dict>
@@ -910,7 +746,7 @@
 				<key>screen</key>
 				<integer>1</integer>
 				<key>mode</key>
-				<integer>4</integer>
+				<integer>2</integer>
 				<key>width</key>
 				<integer>2</integer>
 				<key>height</key>

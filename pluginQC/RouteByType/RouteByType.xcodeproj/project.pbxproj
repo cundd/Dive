@@ -1,0 +1,290 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		653B8BF91362BDC0004EBB41 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 653B8BF81362BDC0004EBB41 /* Cocoa.framework */; };
+		653B8BFB1362BDC0004EBB41 /* Quartz.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 653B8BFA1362BDC0004EBB41 /* Quartz.framework */; };
+		653B8C071362BDC0004EBB41 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 653B8C051362BDC0004EBB41 /* InfoPlist.strings */; };
+		653B8C0B1362BDC0004EBB41 /* RouteByTypePlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 653B8C0A1362BDC0004EBB41 /* RouteByTypePlugin.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		653B8BF51362BDC0004EBB41 /* RouteByType.plugin */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RouteByType.plugin; sourceTree = BUILT_PRODUCTS_DIR; };
+		653B8BF81362BDC0004EBB41 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		653B8BFA1362BDC0004EBB41 /* Quartz.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Quartz.framework; path = System/Library/Frameworks/Quartz.framework; sourceTree = SDKROOT; };
+		653B8BFD1362BDC0004EBB41 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		653B8BFE1362BDC0004EBB41 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		653B8BFF1362BDC0004EBB41 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		653B8C041362BDC0004EBB41 /* RouteByType-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "RouteByType-Info.plist"; sourceTree = "<group>"; };
+		653B8C061362BDC0004EBB41 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		653B8C081362BDC0004EBB41 /* RouteByType-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "RouteByType-Prefix.pch"; sourceTree = "<group>"; };
+		653B8C091362BDC0004EBB41 /* RouteByTypePlugin.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RouteByTypePlugin.h; sourceTree = "<group>"; };
+		653B8C0A1362BDC0004EBB41 /* RouteByTypePlugin.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RouteByTypePlugin.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		653B8BF11362BDC0004EBB41 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				653B8BF91362BDC0004EBB41 /* Cocoa.framework in Frameworks */,
+				653B8BFB1362BDC0004EBB41 /* Quartz.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		653B8BE91362BDC0004EBB41 = {
+			isa = PBXGroup;
+			children = (
+				653B8C021362BDC0004EBB41 /* RouteByType */,
+				653B8BF71362BDC0004EBB41 /* Frameworks */,
+				653B8BF61362BDC0004EBB41 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		653B8BF61362BDC0004EBB41 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				653B8BF51362BDC0004EBB41 /* RouteByType.plugin */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		653B8BF71362BDC0004EBB41 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				653B8BF81362BDC0004EBB41 /* Cocoa.framework */,
+				653B8BFA1362BDC0004EBB41 /* Quartz.framework */,
+				653B8BFC1362BDC0004EBB41 /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		653B8BFC1362BDC0004EBB41 /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				653B8BFD1362BDC0004EBB41 /* AppKit.framework */,
+				653B8BFE1362BDC0004EBB41 /* CoreData.framework */,
+				653B8BFF1362BDC0004EBB41 /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		653B8C021362BDC0004EBB41 /* RouteByType */ = {
+			isa = PBXGroup;
+			children = (
+				653B8C091362BDC0004EBB41 /* RouteByTypePlugin.h */,
+				653B8C0A1362BDC0004EBB41 /* RouteByTypePlugin.m */,
+				653B8C031362BDC0004EBB41 /* Supporting Files */,
+			);
+			path = RouteByType;
+			sourceTree = "<group>";
+		};
+		653B8C031362BDC0004EBB41 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				653B8C041362BDC0004EBB41 /* RouteByType-Info.plist */,
+				653B8C051362BDC0004EBB41 /* InfoPlist.strings */,
+				653B8C081362BDC0004EBB41 /* RouteByType-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		653B8BF41362BDC0004EBB41 /* RouteByType */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 653B8C0E1362BDC0004EBB41 /* Build configuration list for PBXNativeTarget "RouteByType" */;
+			buildPhases = (
+				653B8BF01362BDC0004EBB41 /* Sources */,
+				653B8BF11362BDC0004EBB41 /* Frameworks */,
+				653B8BF21362BDC0004EBB41 /* Resources */,
+				653B8BF31362BDC0004EBB41 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = RouteByType;
+			productName = RouteByType;
+			productReference = 653B8BF51362BDC0004EBB41 /* RouteByType.plugin */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		653B8BEB1362BDC0004EBB41 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = cundd;
+			};
+			buildConfigurationList = 653B8BEE1362BDC0004EBB41 /* Build configuration list for PBXProject "RouteByType" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 653B8BE91362BDC0004EBB41;
+			productRefGroup = 653B8BF61362BDC0004EBB41 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				653B8BF41362BDC0004EBB41 /* RouteByType */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		653B8BF21362BDC0004EBB41 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				653B8C071362BDC0004EBB41 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		653B8BF31362BDC0004EBB41 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# This shell script simply copies the built plug-in to \"~/Library/Graphics/Quartz Composer Plug-Ins\" and overrides any previous version at that location\n\nmkdir -p \"$USER_LIBRARY_DIR/Graphics/Quartz Composer Plug-Ins\"\nrm -rf \"$USER_LIBRARY_DIR/Graphics/Quartz Composer Plug-Ins/RouteByType.plugin\"\ncp -rf \"$BUILT_PRODUCTS_DIR/RouteByType.plugin\" \"$USER_LIBRARY_DIR/Graphics/Quartz Composer Plug-Ins/\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		653B8BF01362BDC0004EBB41 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				653B8C0B1362BDC0004EBB41 /* RouteByTypePlugin.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		653B8C051362BDC0004EBB41 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				653B8C061362BDC0004EBB41 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		653B8C0C1362BDC0004EBB41 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		653B8C0D1362BDC0004EBB41 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		653B8C0F1362BDC0004EBB41 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: Daniel Corn";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_ENABLE_OBJC_GC = supported;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "RouteByType/RouteByType-Prefix.pch";
+				GCC_VERSION = "";
+				INFOPLIST_FILE = "RouteByType/RouteByType-Info.plist";
+				INSTALL_PATH = "$(HOME)/Library/Graphics/Quartz Composer Plug-Ins";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = plugin;
+			};
+			name = Debug;
+		};
+		653B8C101362BDC0004EBB41 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: Daniel Corn";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_ENABLE_OBJC_GC = supported;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "RouteByType/RouteByType-Prefix.pch";
+				GCC_VERSION = "";
+				INFOPLIST_FILE = "RouteByType/RouteByType-Info.plist";
+				INSTALL_PATH = "$(HOME)/Library/Graphics/Quartz Composer Plug-Ins";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = plugin;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		653B8BEE1362BDC0004EBB41 /* Build configuration list for PBXProject "RouteByType" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				653B8C0C1362BDC0004EBB41 /* Debug */,
+				653B8C0D1362BDC0004EBB41 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		653B8C0E1362BDC0004EBB41 /* Build configuration list for PBXNativeTarget "RouteByType" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				653B8C0F1362BDC0004EBB41 /* Debug */,
+				653B8C101362BDC0004EBB41 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 653B8BEB1362BDC0004EBB41 /* Project object */;
+}

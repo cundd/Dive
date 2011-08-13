@@ -35,6 +35,13 @@
 */
 +(CunddITunesTrack *)emptyTrackWithMovieLocation:(NSString *)theLocation;
 
+/*!
+ @method     
+ @abstract   Returns a track which stands for a live video capture device.
+ @discussion Returns a track which stands for a live video capture device.
+ */
++(CunddITunesTrack *)liveVideoTrack;
+
 
 @property(retain) NSDictionary *trackinfo;
 //@property(retain,readonly) NSDictionary *trackinfo;

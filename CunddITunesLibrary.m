@@ -53,6 +53,10 @@
         [self.tracks addObject : [CunddITunesTrack trackWithDictionary : track]];
         [self.trackDictionary setObject : [CunddITunesTrack trackWithDictionary : track] forKey : [NSString stringWithFormat : @"%@", [track objectForKey : @"Track ID"]]];
     }
+	
+	CunddITunesTrack * liveVideoTrack = [CunddITunesTrack liveVideoTrack];
+	[self.tracks addObject:liveVideoTrack];
+	[self.trackDictionary setObject:liveVideoTrack forKey:[liveVideoTrack valueForKey:@"Track ID"]];
     return;
 }
 

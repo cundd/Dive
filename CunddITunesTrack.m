@@ -127,5 +127,25 @@
 	return newEmptyTrack;
 }
 
++(CunddITunesTrack *)liveVideoTrack{
+	static CunddITunesTrack * theLiveVideoTrack;
+	
+	if(!theLiveVideoTrack){
+		NSDictionary * trackinfo = [NSDictionary dictionaryWithObjectsAndKeys:
+									@"Cundd live video",@"Name",
+									NSUserName(),@"Artist",
+									[NSNumber numberWithInt:0],@"Total Time",
+									@"",@"BPM",
+//									[NSNumber numberWithInt:[[NSDate date] year]],@"Year",
+									@"2011",@"Year",
+									@"cunddlivevideo:/",@"Location",
+									@"",@"Kind",
+									@"9999999",@"Track ID",
+									nil];
+		theLiveVideoTrack = [self trackWithDictionary:trackinfo];
+	}
+	return theLiveVideoTrack;
+}
+
 @synthesize trackinfo;
 @end

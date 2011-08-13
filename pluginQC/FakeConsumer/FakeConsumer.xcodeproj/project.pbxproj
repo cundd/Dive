@@ -1,0 +1,285 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		65835834136739210080F96F /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65835833136739210080F96F /* Cocoa.framework */; };
+		65835836136739210080F96F /* Quartz.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65835835136739210080F96F /* Quartz.framework */; };
+		65835842136739210080F96F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 65835840136739210080F96F /* InfoPlist.strings */; };
+		65835846136739210080F96F /* FakeConsumerPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 65835845136739210080F96F /* FakeConsumerPlugin.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		65835830136739210080F96F /* FakeConsumer.plugin */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FakeConsumer.plugin; sourceTree = BUILT_PRODUCTS_DIR; };
+		65835833136739210080F96F /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		65835835136739210080F96F /* Quartz.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Quartz.framework; path = System/Library/Frameworks/Quartz.framework; sourceTree = SDKROOT; };
+		65835838136739210080F96F /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		65835839136739210080F96F /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		6583583A136739210080F96F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		6583583F136739210080F96F /* FakeConsumer-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FakeConsumer-Info.plist"; sourceTree = "<group>"; };
+		65835841136739210080F96F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		65835843136739210080F96F /* FakeConsumer-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FakeConsumer-Prefix.pch"; sourceTree = "<group>"; };
+		65835844136739210080F96F /* FakeConsumerPlugin.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FakeConsumerPlugin.h; sourceTree = "<group>"; };
+		65835845136739210080F96F /* FakeConsumerPlugin.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FakeConsumerPlugin.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6583582C136739210080F96F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				65835834136739210080F96F /* Cocoa.framework in Frameworks */,
+				65835836136739210080F96F /* Quartz.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		65835824136739210080F96F = {
+			isa = PBXGroup;
+			children = (
+				6583583D136739210080F96F /* FakeConsumer */,
+				65835832136739210080F96F /* Frameworks */,
+				65835831136739210080F96F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		65835831136739210080F96F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				65835830136739210080F96F /* FakeConsumer.plugin */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		65835832136739210080F96F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				65835833136739210080F96F /* Cocoa.framework */,
+				65835835136739210080F96F /* Quartz.framework */,
+				65835837136739210080F96F /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		65835837136739210080F96F /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				65835838136739210080F96F /* AppKit.framework */,
+				65835839136739210080F96F /* CoreData.framework */,
+				6583583A136739210080F96F /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		6583583D136739210080F96F /* FakeConsumer */ = {
+			isa = PBXGroup;
+			children = (
+				65835844136739210080F96F /* FakeConsumerPlugin.h */,
+				65835845136739210080F96F /* FakeConsumerPlugin.m */,
+				6583583E136739210080F96F /* Supporting Files */,
+			);
+			path = FakeConsumer;
+			sourceTree = "<group>";
+		};
+		6583583E136739210080F96F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				6583583F136739210080F96F /* FakeConsumer-Info.plist */,
+				65835840136739210080F96F /* InfoPlist.strings */,
+				65835843136739210080F96F /* FakeConsumer-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6583582F136739210080F96F /* FakeConsumer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 65835849136739210080F96F /* Build configuration list for PBXNativeTarget "FakeConsumer" */;
+			buildPhases = (
+				6583582B136739210080F96F /* Sources */,
+				6583582C136739210080F96F /* Frameworks */,
+				6583582D136739210080F96F /* Resources */,
+				6583582E136739210080F96F /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FakeConsumer;
+			productName = FakeConsumer;
+			productReference = 65835830136739210080F96F /* FakeConsumer.plugin */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		65835826136739210080F96F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = cundd;
+			};
+			buildConfigurationList = 65835829136739210080F96F /* Build configuration list for PBXProject "FakeConsumer" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 65835824136739210080F96F;
+			productRefGroup = 65835831136739210080F96F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6583582F136739210080F96F /* FakeConsumer */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6583582D136739210080F96F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				65835842136739210080F96F /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		6583582E136739210080F96F /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# This shell script simply copies the built plug-in to \"~/Library/Graphics/Quartz Composer Plug-Ins\" and overrides any previous version at that location\n\nmkdir -p \"$USER_LIBRARY_DIR/Graphics/Quartz Composer Plug-Ins\"\nrm -rf \"$USER_LIBRARY_DIR/Graphics/Quartz Composer Plug-Ins/FakeConsumer.plugin\"\ncp -rf \"$BUILT_PRODUCTS_DIR/FakeConsumer.plugin\" \"$USER_LIBRARY_DIR/Graphics/Quartz Composer Plug-Ins/\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6583582B136739210080F96F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				65835846136739210080F96F /* FakeConsumerPlugin.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		65835840136739210080F96F /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				65835841136739210080F96F /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		65835847136739210080F96F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		65835848136739210080F96F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		6583584A136739210080F96F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_ENABLE_OBJC_GC = supported;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "FakeConsumer/FakeConsumer-Prefix.pch";
+				INFOPLIST_FILE = "FakeConsumer/FakeConsumer-Info.plist";
+				INSTALL_PATH = "$(HOME)/Library/Graphics/Quartz Composer Plug-Ins";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = plugin;
+			};
+			name = Debug;
+		};
+		6583584B136739210080F96F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_ENABLE_OBJC_GC = supported;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "FakeConsumer/FakeConsumer-Prefix.pch";
+				INFOPLIST_FILE = "FakeConsumer/FakeConsumer-Info.plist";
+				INSTALL_PATH = "$(HOME)/Library/Graphics/Quartz Composer Plug-Ins";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = plugin;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		65835829136739210080F96F /* Build configuration list for PBXProject "FakeConsumer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				65835847136739210080F96F /* Debug */,
+				65835848136739210080F96F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		65835849136739210080F96F /* Build configuration list for PBXNativeTarget "FakeConsumer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6583584A136739210080F96F /* Debug */,
+				6583584B136739210080F96F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 65835826136739210080F96F /* Project object */;
+}

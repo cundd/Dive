@@ -1,0 +1,269 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 23E90CA60A83C53500A6A40A /* Quartz Composer */;
+		activeTarget = 233E2C640A83C768005A62DF /* Build & Copy */;
+		addToTargets = (
+			233E2C640A83C768005A62DF /* Build & Copy */,
+			8D5B49AC048680CD000E48DA /* Structurer */,
+		);
+		breakpoints = (
+			65F39CE711AD4C9800E4E4E0 /* StructurerPlugIn.m:19 */,
+			65F39DA811AD615A00E4E4E0 /* StructurerPlugIn.m:168 */,
+		);
+		codeSenseManager = 23E90CA50A83C4F400A6A40A /* Code sense */;
+		executables = (
+			23E90CA60A83C53500A6A40A /* Quartz Composer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					400,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					578,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 297003524;
+			PBXWorkspaceStateSaveDate = 297003524;
+		};
+		perUserProjectItems = {
+			65E4176911B3EB8200B7875B /* PBXTextBookmark */ = 65E4176911B3EB8200B7875B /* PBXTextBookmark */;
+			65E417A811B40B0000B7875B /* PBXTextBookmark */ = 65E417A811B40B0000B7875B /* PBXTextBookmark */;
+			65E417A911B40B0000B7875B /* PBXBookmark */ = 65E417A911B40B0000B7875B /* PBXBookmark */;
+			65E417AA11B40B0000B7875B /* PlistBookmark */ = 65E417AA11B40B0000B7875B /* PlistBookmark */;
+			65F39D9711AD5F9600E4E4E0 /* PBXTextBookmark */ = 65F39D9711AD5F9600E4E4E0 /* PBXTextBookmark */;
+			65F39D9911AD5F9600E4E4E0 /* PBXTextBookmark */ = 65F39D9911AD5F9600E4E4E0 /* PBXTextBookmark */;
+			65F39D9A11AD5F9600E4E4E0 /* PBXTextBookmark */ = 65F39D9A11AD5F9600E4E4E0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 23E90CA40A83C4F400A6A40A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	16BA95400A7EB2EB001E4983 /* StructurerPlugIn.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {756, 715}}";
+			sepNavSelRange = "{1793, 0}";
+			sepNavVisRange = "{84, 1842}";
+			sepNavVisRect = "{{0, 0}, {839, 550}}";
+		};
+	};
+	16BA95410A7EB2EB001E4983 /* StructurerPlugIn.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {756, 3068}}";
+			sepNavSelRange = "{5310, 0}";
+			sepNavVisRange = "{0, 1759}";
+		};
+	};
+	233E2C640A83C768005A62DF /* Build & Copy */ = {
+		activeExec = 0;
+	};
+	23E90CA40A83C4F400A6A40A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+		scmType = "";
+	};
+	23E90CA50A83C4F400A6A40A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	23E90CA60A83C53500A6A40A /* Quartz Composer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		launchableReference = 23E90CA70A83C53500A6A40A /* Quartz Composer.app */;
+		libgmallocEnabled = 0;
+		name = "Quartz Composer";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	23E90CA70A83C53500A6A40A /* Quartz Composer.app */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = wrapper.application;
+		name = "Quartz Composer.app";
+		path = "/Developer/Applications/Quartz Composer.app";
+		sourceTree = "<absolute>";
+	};
+	65E4176911B3EB8200B7875B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16BA95400A7EB2EB001E4983 /* StructurerPlugIn.h */;
+		name = "StructurerPlugIn.h: 40";
+		rLen = 0;
+		rLoc = 1793;
+		rType = 0;
+		vrLen = 1842;
+		vrLoc = 84;
+	};
+	65E417A811B40B0000B7875B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 16BA95410A7EB2EB001E4983 /* StructurerPlugIn.m */;
+		name = "StructurerPlugIn.m: 140";
+		rLen = 0;
+		rLoc = 5310;
+		rType = 0;
+		vrLen = 1827;
+		vrLoc = 0;
+	};
+	65E417A911B40B0000B7875B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
+	};
+	65E417AA11B40B0000B7875B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	65F39CE711AD4C9800E4E4E0 /* StructurerPlugIn.m:19 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 16BA95410A7EB2EB001E4983 /* StructurerPlugIn.m */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 19;
+		location = Structurer;
+		modificationTime = 296576178.66843;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	65F39D8511AD58FA00E4E4E0 /* CunddInputTypeChoserController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {653, 627}}";
+			sepNavSelRange = "{149, 0}";
+			sepNavVisRange = "{0, 242}";
+		};
+	};
+	65F39D8611AD58FA00E4E4E0 /* CunddInputTypeChoserController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {653, 627}}";
+			sepNavSelRange = "{248, 0}";
+			sepNavVisRange = "{0, 1506}";
+		};
+	};
+	65F39D9711AD5F9600E4E4E0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65F39D9811AD5F9600E4E4E0 /* QCPlugIn.h */;
+		name = "QCPlugIn.h: 55";
+		rLen = 40;
+		rLoc = 4261;
+		rType = 0;
+		vrLen = 2060;
+		vrLoc = 3103;
+	};
+	65F39D9811AD5F9600E4E4E0 /* QCPlugIn.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = QCPlugIn.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuartzComposer.framework/Versions/A/Headers/QCPlugIn.h;
+		sourceTree = "<absolute>";
+	};
+	65F39D9911AD5F9600E4E4E0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65F39D8611AD58FA00E4E4E0 /* CunddInputTypeChoserController.m */;
+		name = "CunddInputTypeChoserController.m: 13";
+		rLen = 0;
+		rLoc = 248;
+		rType = 0;
+		vrLen = 1506;
+		vrLoc = 0;
+	};
+	65F39D9A11AD5F9600E4E4E0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 65F39D8511AD58FA00E4E4E0 /* CunddInputTypeChoserController.h */;
+		name = "CunddInputTypeChoserController.h: 9";
+		rLen = 0;
+		rLoc = 149;
+		rType = 0;
+		vrLen = 242;
+		vrLoc = 0;
+	};
+	65F39DA811AD615A00E4E4E0 /* StructurerPlugIn.m:168 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 16BA95410A7EB2EB001E4983 /* StructurerPlugIn.m */;
+		functionName = "-reloadPorts";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 168;
+		location = Structurer;
+		modificationTime = 296678593.337586;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	8D5B49AC048680CD000E48DA /* Structurer */ = {
+		activeExec = 0;
+	};
+}

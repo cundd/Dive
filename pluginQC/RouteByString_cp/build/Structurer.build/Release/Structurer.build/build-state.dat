@@ -1,0 +1,405 @@
+TStructurer
+v7
+r0
+t297011952.341988
+cCheck dependencies
+cProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin/Contents/Info.plist Info.plist
+cCompileXIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/English.lproj/Settings.xib
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Structurer_Prefix-hhfoiagzvtwdamatxgszieylwkci/Structurer_Prefix.pch.gch Structurer_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Structurer_Prefix-cqeqmekyyniaxbdzgortzpjnqkbw/Structurer_Prefix.pch.gch Structurer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Structurer_Prefix-bgecxyrcgbgokkgborjwomqjxydr/Structurer_Prefix.pch.gch Structurer_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Structurer.build/Release/Structurer.build/Objects-normal/x86_64/StructurerPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/StructurerPlugIn.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Structurer.build/Release/Structurer.build/Objects-normal/x86_64/CunddInputTypeChoserController.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddInputTypeChoserController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/x86_64/Structurer normal x86_64
+cCompileC build/Structurer.build/Release/Structurer.build/Objects-normal/i386/StructurerPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/StructurerPlugIn.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Structurer.build/Release/Structurer.build/Objects-normal/i386/CunddInputTypeChoserController.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddInputTypeChoserController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/i386/Structurer normal i386
+cCompileC build/Structurer.build/Release/Structurer.build/Objects-normal/ppc/StructurerPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/StructurerPlugIn.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Structurer.build/Release/Structurer.build/Objects-normal/ppc/CunddInputTypeChoserController.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddInputTypeChoserController.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/ppc/Structurer normal ppc
+cCreateUniversalBinary /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin/Contents/MacOS/Structurer normal "x86_64 i386 ppc"
+cGenerateDSYMFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin.dSYM /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin/Contents/MacOS/Structurer
+cTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BE2D1A200000000000000EE
+t1273156002
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/CGLMacro.h
+c000000004B8E4E9E000000000001FFC8
+t1267617438
+s131016
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h
+c000000004BE298F40000000000000124
+t1273141492
+s292
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004A1249D4000000000000A5F0
+t1242712532
+s42480
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddChoserController.h
+c000000004BFD21BA000000000000018F
+t1274880442
+s399
+i<Cocoa/Cocoa.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddChoserController.m
+c000000004BFD224F0000000000000518
+t1274880591
+s1304
+i"CunddChoserController.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddInputTypeChoserController.h
+c000000004BFD27AB00000000000000F2
+t1274881963
+s242
+i<Cocoa/Cocoa.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddInputTypeChoserController.m
+c000000004BFD27A100000000000005E2
+t1274881953
+s1506
+i"CunddInputTypeChoserController.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/English.lproj/Settings.xib
+c000000004C03B353000000000002E6AA
+t1275310931
+s190122
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/StructurerPlugIn.h
+c000000004C03B3700000000000000786
+t1275310960
+s1926
+i<Quartz/Quartz.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/StructurerPlugIn.m
+c000000004C03C4970000000000001F92
+t1275315351
+s8082
+i<OpenGL/CGLMacro.h>
+i"StructurerPlugIn.h"
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/Structurer_Prefix.pch
+c000000004BFD07A30000000000000032
+t1274873763
+s50
+i<Quartz/Quartz.h>
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin
+t1275319152
+s102
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin.dSYM
+t1275315353
+s102
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin/Contents/Info.plist
+t1275319152
+s848
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin/Contents/MacOS/Structurer
+t1275315353
+s105536
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin/Contents/Resources/English.lproj/Settings.nib
+t1275311084
+s34910
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/i386/CunddChoserController.o
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/i386/CunddInputTypeChoserController.o
+t1274883323
+s12636
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/i386/Structurer
+t1275315352
+s29656
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/i386/Structurer.LinkFileList
+c000000004BFD2CEF000000000000014A
+t1274883311
+s330
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/i386/StructurerPlugIn.o
+t1275315352
+s42144
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/ppc/CunddChoserController.o
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/ppc/CunddInputTypeChoserController.o
+t1274883323
+s12348
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/ppc/Structurer
+t1275315353
+s31808
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/ppc/Structurer.LinkFileList
+c000000004BFD2CEF0000000000000148
+t1274883311
+s328
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/ppc/StructurerPlugIn.o
+t1275315353
+s41900
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/x86_64/CunddChoserController.o
+t2
+s0
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/x86_64/CunddInputTypeChoserController.o
+t1274883322
+s14672
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/x86_64/Structurer
+t1275315352
+s33976
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/x86_64/Structurer.LinkFileList
+c000000004BFD2CEF000000000000014E
+t1274883311
+s334
+
+N/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/x86_64/StructurerPlugIn.o
+t1275315352
+s63740
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Structurer_Prefix-bgecxyrcgbgokkgborjwomqjxydr/Structurer_Prefix.pch.gch
+t1274883322
+s54990032
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Structurer_Prefix-cqeqmekyyniaxbdzgortzpjnqkbw/Structurer_Prefix.pch.gch
+t1274883319
+s57767344
+
+N/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Structurer_Prefix-hhfoiagzvtwdamatxgszieylwkci/Structurer_Prefix.pch.gch
+t1274883319
+s55141776
+
+NInfo.plist
+c000000004C03D36F000000000000036D
+t1275319151
+s877
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies297011952#297011952#0(0"0(0#1#0"8654409792#0"0#
+
+CCompileC build/Structurer.build/Release/Structurer.build/Objects-normal/i386/CunddChoserController.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddChoserController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Structurer.build/Release/Structurer.build/Objects-normal/i386/CunddInputTypeChoserController.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddInputTypeChoserController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s296576123.173914
+e296576123.363156
+r1
+xCompileC
+xbuild/Structurer.build/Release/Structurer.build/Objects-normal/i386/CunddInputTypeChoserController.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddInputTypeChoserController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddInputTypeChoserController.m296576123#296576123#0(0"0(0#0#103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddInputTypeChoserController.m8658180768#1424"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Structurer.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/DerivedSources/i386 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Structurer_Prefix-cqeqmekyyniaxbdzgortzpjnqkbw/Structurer_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddInputTypeChoserController.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/i386/CunddInputTypeChoserController.o0#
+
+CCompileC build/Structurer.build/Release/Structurer.build/Objects-normal/i386/StructurerPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/StructurerPlugIn.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s297008152.281786
+e297008152.668814
+r1
+xCompileC
+xbuild/Structurer.build/Release/Structurer.build/Objects-normal/i386/StructurerPlugIn.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/StructurerPlugIn.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/StructurerPlugIn.m297008152#297008152#0(0"0(0#0#89"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/StructurerPlugIn.m8654605984#1396"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Structurer.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/DerivedSources/i386 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Structurer_Prefix-cqeqmekyyniaxbdzgortzpjnqkbw/Structurer_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/StructurerPlugIn.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/i386/StructurerPlugIn.o0#
+
+CCompileC build/Structurer.build/Release/Structurer.build/Objects-normal/ppc/CunddChoserController.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddChoserController.m normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Structurer.build/Release/Structurer.build/Objects-normal/ppc/CunddInputTypeChoserController.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddInputTypeChoserController.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s296576123.405148
+e296576123.556879
+r1
+xCompileC
+xbuild/Structurer.build/Release/Structurer.build/Objects-normal/ppc/CunddInputTypeChoserController.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddInputTypeChoserController.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddInputTypeChoserController.m296576123#296576123#0(0"0(0#0#103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddInputTypeChoserController.m8775039840#1431"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Structurer.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/DerivedSources/ppc -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Structurer_Prefix-bgecxyrcgbgokkgborjwomqjxydr/Structurer_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddInputTypeChoserController.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/ppc/CunddInputTypeChoserController.o0#
+
+CCompileC build/Structurer.build/Release/Structurer.build/Objects-normal/ppc/StructurerPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/StructurerPlugIn.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s297008152.717953
+e297008153.056052
+r1
+xCompileC
+xbuild/Structurer.build/Release/Structurer.build/Objects-normal/ppc/StructurerPlugIn.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/StructurerPlugIn.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/StructurerPlugIn.m297008152#297008153#0(0"0(0#0#89"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/StructurerPlugIn.m8652523360#1403"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Structurer.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/DerivedSources/ppc -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Structurer_Prefix-bgecxyrcgbgokkgborjwomqjxydr/Structurer_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/StructurerPlugIn.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/ppc/StructurerPlugIn.o0#
+
+CCompileC build/Structurer.build/Release/Structurer.build/Objects-normal/x86_64/CunddChoserController.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddChoserController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Structurer.build/Release/Structurer.build/Objects-normal/x86_64/CunddInputTypeChoserController.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddInputTypeChoserController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296576122.586362
+e296576122.833190
+r1
+xCompileC
+xbuild/Structurer.build/Release/Structurer.build/Objects-normal/x86_64/CunddInputTypeChoserController.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddInputTypeChoserController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddInputTypeChoserController.m296576122#296576122#0(0"0(0#0#103"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddInputTypeChoserController.m8782121408#1430"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Structurer.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Structurer_Prefix-hhfoiagzvtwdamatxgszieylwkci/Structurer_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/CunddInputTypeChoserController.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/x86_64/CunddInputTypeChoserController.o0#
+
+CCompileC build/Structurer.build/Release/Structurer.build/Objects-normal/x86_64/StructurerPlugIn.o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/StructurerPlugIn.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s297008152.066458
+e297008152.685463
+r1
+xCompileC
+xbuild/Structurer.build/Release/Structurer.build/Objects-normal/x86_64/StructurerPlugIn.o
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/StructurerPlugIn.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/StructurerPlugIn.m297008152#297008152#0(0"0(0#0#89"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/StructurerPlugIn.m8654657888#1402"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Structurer.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/DerivedSources -include /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Structurer_Prefix-hhfoiagzvtwdamatxgszieylwkci/Structurer_Prefix.pch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/StructurerPlugIn.m -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/x86_64/StructurerPlugIn.o0#
+
+CCompileXIB /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/English.lproj/Settings.xib
+s297003883.956615
+e297003884.327446
+r1
+xCompileXIB
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/English.lproj/Settings.xib
+lSLF07#2@37"CompileXIB English.lproj/Settings.xib297003883#297003884#0(0"0(0#0#97"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/English.lproj/Settings.xib8651348960#468"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin/Contents/Resources/English.lproj/Settings.nib /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/English.lproj/Settings.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCreateUniversalBinary /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin/Contents/MacOS/Structurer normal "x86_64 i386 ppc"
+s297008153.083191
+e297008153.085966
+r1
+xCreateUniversalBinary
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin/Contents/MacOS/Structurer
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@104"CreateUniversalBinary build/Release/Structurer.plugin/Contents/MacOS/Structurer normal "x86_64 i386 ppc"297008153#297008153#0(0"0(0#0#86"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/x86_64 i386 ppc8653718912#692"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer    /usr/bin/lipo -create /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/x86_64/Structurer /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/i386/Structurer /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/ppc/Structurer -output /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin/Contents/MacOS/Structurer0#
+
+CGenerateDSYMFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin.dSYM /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin/Contents/MacOS/Structurer
+s297008153.086028
+e297008153.103421
+r1
+xGenerateDSYMFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin.dSYM
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin/Contents/MacOS/Structurer
+lSLF07#2@111"GenerateDSYMFile build/Release/Structurer.plugin.dSYM build/Release/Structurer.plugin/Contents/MacOS/Structurer297008153#297008153#0(0"0(0#0#128"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin/Contents/MacOS/Structurer8653023456#350"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer    /Developer/usr/bin/dsymutil /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin/Contents/MacOS/Structurer -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin.dSYM0#
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/i386/Structurer normal i386
+s297008152.668987
+e297008152.717856
+r1
+xLd
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/i386/Structurer
+xnormal
+xi386
+lSLF07#2@154"Link /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/i386/Structurer297008152#297008152#0(0"0(0#0#0"8653357824#771"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release -filelist /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/i386/Structurer.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/i386/Structurer0#
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/ppc/Structurer normal ppc
+s297008153.056133
+e297008153.083098
+r1
+xLd
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/ppc/Structurer
+xnormal
+xppc
+lSLF07#2@153"Link /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/ppc/Structurer297008153#297008153#0(0"0(0#0#0"8654499104#768"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release -filelist /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/ppc/Structurer.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/ppc/Structurer0#
+
+CLd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/x86_64/Structurer normal x86_64
+s297008152.685545
+e297008152.725952
+r1
+xLd
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/x86_64/Structurer
+xnormal
+xx86_64
+lSLF07#2@156"Link /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/x86_64/Structurer297008152#297008152#0(0"0(0#0#0"8652986272#777"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -bundle -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release -filelist /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/x86_64/Structurer.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Quartz -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Objects-normal/x86_64/Structurer0#
+
+CProcessInfoPlistFile /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin/Contents/Info.plist Info.plist
+s297011952.334388
+e297011952.337107
+r1
+xProcessInfoPlistFile
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist297011952#297011952#0(0"0(0#0#81"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/Info.plist8652029472#282"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer    builtin-infoPlistUtility Info.plist -expandbuildsettings -platform macosx -o /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin/Contents/Info.plist0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Structurer_Prefix-bgecxyrcgbgokkgborjwomqjxydr/Structurer_Prefix.pch.gch Structurer_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s296576119.317577
+e296576122.585142
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Structurer_Prefix-bgecxyrcgbgokkgborjwomqjxydr/Structurer_Prefix.pch.gch
+xStructurer_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Structurer_Prefix.pch296576119#296576122#0(0"0(0#0#92"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/Structurer_Prefix.pch8602692800#1251"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Structurer.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/DerivedSources/ppc -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/Structurer_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Structurer_Prefix-bgecxyrcgbgokkgborjwomqjxydr/Structurer_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Structurer_Prefix-cqeqmekyyniaxbdzgortzpjnqkbw/Structurer_Prefix.pch.gch Structurer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s296576114.035117
+e296576119.609142
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Structurer_Prefix-cqeqmekyyniaxbdzgortzpjnqkbw/Structurer_Prefix.pch.gch
+xStructurer_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Structurer_Prefix.pch296576114#296576119#0(0"0(0#0#92"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/Structurer_Prefix.pch8727433504#1243"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Structurer.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/DerivedSources/i386 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/Structurer_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Structurer_Prefix-cqeqmekyyniaxbdzgortzpjnqkbw/Structurer_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Structurer_Prefix-hhfoiagzvtwdamatxgszieylwkci/Structurer_Prefix.pch.gch Structurer_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s296576114.034335
+e296576119.317336
+r1
+xProcessPCH
+x/var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Structurer_Prefix-hhfoiagzvtwdamatxgszieylwkci/Structurer_Prefix.pch.gch
+xStructurer_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Structurer_Prefix.pch296576114#296576119#0(0"0(0#0#92"/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/Structurer_Prefix.pch8727924992#1247"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fobjc-gc -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/Structurer.hmap -F/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/include -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/DerivedSources/x86_64 -I/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Structurer.build/Release/Structurer.build/DerivedSources -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/Structurer_Prefix.pch -o /var/folders/e0/e06HTDN7HJ0je1VKPk1X0E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Structurer_Prefix-hhfoiagzvtwdamatxgszieylwkci/Structurer_Prefix.pch.gch0#
+
+CTouch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin
+s297011952.338120
+e297011952.341952
+r1
+xTouch
+x/Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin
+lSLF07#2@108"Touch /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin297011952#297011952#0(0"0(0#0#0"8654304256#203"    cd /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer    /usr/bin/touch -c /Users/daniel/Sites/mac_iPhone_dev/a_training/Dive/pluginQC/Structurer/build/Release/Structurer.plugin0#
+
