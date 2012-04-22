@@ -2,20 +2,31 @@
 <archive type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="7.10">
 	<data>
 		<int key="IBDocument.SystemTarget">1060</int>
-		<string key="IBDocument.SystemVersion">11B26</string>
-		<string key="IBDocument.InterfaceBuilderVersion">907</string>
-		<string key="IBDocument.AppKitVersion">1138</string>
-		<string key="IBDocument.HIToolboxVersion">566.00</string>
+		<string key="IBDocument.SystemVersion">10F569</string>
+		<string key="IBDocument.InterfaceBuilderVersion">788</string>
+		<string key="IBDocument.AppKitVersion">1038.29</string>
+		<string key="IBDocument.HIToolboxVersion">461.00</string>
 		<object class="NSMutableDictionary" key="IBDocument.PluginVersions">
-			<string key="NS.key.0">com.apple.InterfaceBuilder.CocoaPlugin</string>
-			<string key="NS.object.0">907</string>
+			<bool key="EncodedWithXMLCoder">YES</bool>
+			<object class="NSArray" key="dict.sortedKeys">
+				<bool key="EncodedWithXMLCoder">YES</bool>
+				<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
+				<string>com.brandonwalkin.BWToolkit</string>
+			</object>
+			<object class="NSMutableArray" key="dict.values">
+				<bool key="EncodedWithXMLCoder">YES</bool>
+				<string>788</string>
+				<string>1.2.5</string>
+			</object>
 		</object>
 		<object class="NSMutableArray" key="IBDocument.EditedObjectIDs">
 			<bool key="EncodedWithXMLCoder">YES</bool>
+			<integer value="1357"/>
 		</object>
 		<object class="NSArray" key="IBDocument.PluginDependencies">
 			<bool key="EncodedWithXMLCoder">YES</bool>
 			<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
+			<string>com.brandonwalkin.BWToolkit</string>
 		</object>
 		<object class="NSMutableDictionary" key="IBDocument.Metadata">
 			<bool key="EncodedWithXMLCoder">YES</bool>
@@ -38,7 +49,7 @@
 				<string key="NSClassName">NSApplication</string>
 			</object>
 			<object class="NSCustomView" id="1005">
-				<nil key="NSNextResponder"/>
+				<reference key="NSNextResponder"/>
 				<int key="NSvFlags">274</int>
 				<object class="NSMutableArray" key="NSSubviews">
 					<bool key="EncodedWithXMLCoder">YES</bool>
@@ -67,7 +78,7 @@
 									<object class="NSFont" key="NSSupport" id="638580200">
 										<string key="NSName">LucidaGrande</string>
 										<double key="NSSize">10</double>
-										<int key="NSfFlags">2832</int>
+										<int key="NSfFlags">2843</int>
 									</object>
 									<reference key="NSControlView" ref="877112477"/>
 									<int key="NSButtonFlags">-2032402177</int>
@@ -95,7 +106,7 @@
 									<object class="NSFont" key="NSSupport" id="917256139">
 										<string key="NSName">LucidaGrande</string>
 										<double key="NSSize">13</double>
-										<int key="NSfFlags">1040</int>
+										<int key="NSfFlags">1044</int>
 									</object>
 									<reference key="NSControlView" ref="680021559"/>
 									<object class="NSColor" key="NSBackgroundColor" id="735555432">
@@ -580,12 +591,34 @@
 										<int key="NSViewLayerContentsRedrawPolicy">2</int>
 										<string key="NSClassName">NSView</string>
 									</object>
-									<object class="NSCustomView" id="745221886">
+									<object class="BWGradientBox" id="745221886">
 										<reference key="NSNextResponder" ref="1037027365"/>
 										<int key="NSvFlags">268</int>
 										<string key="NSFrame">{{0, 137}, {198, 130}}</string>
 										<reference key="NSSuperview" ref="1037027365"/>
-										<string key="NSClassName">BWGradientBox</string>
+										<object class="NSColor" key="BWGBFillStartingColor">
+											<int key="NSColorSpace">1</int>
+											<bytes key="NSRGB">MC4yNTYwOTc4MjM0IDAuMjU2MTI5MTQ1NiAwLjI1NjA3Njc4MjkAA</bytes>
+										</object>
+										<object class="NSColor" key="BWGBFillEndingColor">
+											<int key="NSColorSpace">1</int>
+											<bytes key="NSRGB">MC4xMjMwODA5OTg3IDAuMTIzMDk2MDQ4OCAwLjEyMzA3MDg4MDgAA</bytes>
+										</object>
+										<object class="NSColor" key="BWGBFillColor">
+											<int key="NSColorSpace">1</int>
+											<bytes key="NSRGB">MC42MTk2MDA4NjE0IDAuNjYxMTkyMDA1MSAwLjcxOTM4Nzc1NTEAA</bytes>
+										</object>
+										<object class="NSColor" key="BWGBTopBorderColor">
+											<int key="NSColorSpace">2</int>
+											<bytes key="NSRGB">MC4xNjQ3MDU4ODc0IDAuMTY0NzA1ODg3NCAwLjE2NDcwNTg4NzQAA</bytes>
+										</object>
+										<reference key="BWGBBottomBorderColor" ref="242196671"/>
+										<bool key="BWGBHasTopBorder">YES</bool>
+										<bool key="BWGBHasBottomBorder">YES</bool>
+										<bool key="BWGBHasGradient">YES</bool>
+										<bool key="BWGBHasFillColor">NO</bool>
+										<float key="BWGBTopInsetAlpha">0.62676054239273071</float>
+										<float key="BWGBBottomInsetAlpha">0.13380281627178192</float>
 									</object>
 								</object>
 								<string key="NSFrame">{{23, 116}, {388, 267}}</string>
@@ -608,6 +641,7 @@
 					</object>
 				</object>
 				<string key="NSFrameSize">{388, 667}</string>
+				<reference key="NSSuperview"/>
 				<int key="NSViewLayerContentsRedrawPolicy">2</int>
 				<bool key="NSViewCanDrawConcurrently">YES</bool>
 				<string key="NSClassName">CunddDiveVideoChainDraggingDestinationView</string>
@@ -1638,6 +1672,7 @@
 					<string>1040.IBPluginDependency</string>
 					<string>1041.IBPluginDependency</string>
 					<string>1042.IBPluginDependency</string>
+					<string>1043.IBPluginDependency</string>
 					<string>1047.IBPluginDependency</string>
 					<string>1111.IBPluginDependency</string>
 					<string>1112.IBPluginDependency</string>
@@ -1677,7 +1712,6 @@
 					<string>1195.CustomClassName</string>
 					<string>1195.IBPluginDependency</string>
 					<string>1196.IBPluginDependency</string>
-					<string>1219.IBAttributePlaceholdersKey</string>
 					<string>1219.IBPluginDependency</string>
 					<string>1241.CustomClassName</string>
 					<string>1241.IBPluginDependency</string>
@@ -1694,7 +1728,6 @@
 					<string>1350.CustomClassName</string>
 					<string>1350.IBPluginDependency</string>
 					<string>1351.IBPluginDependency</string>
-					<string>1357.IBPluginDependency</string>
 					<string>1370.IBPluginDependency</string>
 					<string>607.CustomClassName</string>
 					<string>607.IBPluginDependency</string>
@@ -1732,10 +1765,11 @@
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
+					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<real value="0.0"/>
 					<object class="NSColor">
 						<int key="NSColorSpace">1</int>
-						<bytes key="NSRGB">MC41NDE4OTc3NzM3IDAuMTM4NzM2NTMxMSAwLjE1Njg4NjYyMjMAA</bytes>
+						<bytes key="NSRGB">MC41NDIwMzY3NzE4IDAuMTM4ODQyMDQ2MyAwLjE1Njk4OTI3NjQAA</bytes>
 						<object class="NSColorSpace" key="NSCustomColorSpace">
 							<object class="NSMutableData" key="NSICC">
 								<bytes key="NS.bytes">AAACMEFEQkUCEAAAbW50clJHQiBYWVogB9AACAALABMAMwA7YWNzcEFQUEwAAAAAbm9uZQAAAAAAAAAA
@@ -1772,47 +1806,7 @@ WFlaIAAAAAAAACYxAAAQLwAAvpw</bytes>
 					<string>CunddDiveVCUnload</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
-					<object class="NSMutableDictionary">
-						<string key="NS.key.0">IBUserDefinedRuntimeAttributesPlaceholderName</string>
-						<object class="IBUserDefinedRuntimeAttributesPlaceholder" key="NS.object.0">
-							<string key="name">IBUserDefinedRuntimeAttributesPlaceholderName</string>
-							<reference key="object" ref="745221886"/>
-							<object class="NSArray" key="userDefinedRuntimeAttributes">
-								<bool key="EncodedWithXMLCoder">YES</bool>
-								<object class="IBUserDefinedRuntimeAttribute">
-									<string key="typeIdentifier">com.apple.InterfaceBuilder.userDefinedRuntimeAttributeType.number</string>
-									<string key="keyPath">hasGradient</string>
-									<boolean value="YES" key="value"/>
-								</object>
-								<object class="IBUserDefinedRuntimeAttribute">
-									<string key="typeIdentifier">com.apple.InterfaceBuilder.userDefinedRuntimeAttributeType.number</string>
-									<string key="keyPath">topInsetAlpha</string>
-									<real value="0.62676054239273071" key="value"/>
-								</object>
-								<object class="IBUserDefinedRuntimeAttribute">
-									<string key="typeIdentifier">com.apple.InterfaceBuilder.userDefinedRuntimeAttributeType.number</string>
-									<string key="keyPath">hasTopBorder</string>
-									<boolean value="YES" key="value"/>
-								</object>
-								<object class="IBUserDefinedRuntimeAttribute">
-									<string key="typeIdentifier">com.apple.InterfaceBuilder.userDefinedRuntimeAttributeType.number</string>
-									<string key="keyPath">hasFillColor</string>
-									<boolean value="NO" key="value"/>
-								</object>
-								<object class="IBUserDefinedRuntimeAttribute">
-									<string key="typeIdentifier">com.apple.InterfaceBuilder.userDefinedRuntimeAttributeType.number</string>
-									<string key="keyPath">bottomInsetAlpha</string>
-									<real value="0.13380281627178192" key="value"/>
-								</object>
-								<object class="IBUserDefinedRuntimeAttribute">
-									<string key="typeIdentifier">com.apple.InterfaceBuilder.userDefinedRuntimeAttributeType.number</string>
-									<string key="keyPath">hasBottomBorder</string>
-									<boolean value="YES" key="value"/>
-								</object>
-							</object>
-						</object>
-					</object>
-					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
+					<string>com.brandonwalkin.BWToolkit</string>
 					<string>CunddDiveChoserEdgeModeController</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<string>CunddDiveChoserScreenController</string>
@@ -1826,7 +1820,6 @@ WFlaIAAAAAAAACYxAAAQLwAAvpw</bytes>
 					<integer value="2"/>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<string>CunddDiveVCPlaybackToggle</string>
-					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>

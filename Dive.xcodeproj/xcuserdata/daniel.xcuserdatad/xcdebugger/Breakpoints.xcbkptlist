@@ -13,7 +13,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "30"
-         endingLineNumber = "30">
+         endingLineNumber = "30"
+         landmarkName = "-init"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "No"
@@ -49,7 +51,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "72"
-         endingLineNumber = "72">
+         endingLineNumber = "72"
+         landmarkName = "@implementation CunddDiveVideoChainSettings"
+         landmarkType = "3">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "No"
@@ -109,7 +113,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "69"
-         endingLineNumber = "69">
+         endingLineNumber = "69"
+         landmarkName = "-performDragOperation:"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "No"
@@ -121,7 +127,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "31"
-         endingLineNumber = "31">
+         endingLineNumber = "31"
+         landmarkName = "-draggingEntered:"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "No"
@@ -133,7 +141,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "57"
-         endingLineNumber = "57">
+         endingLineNumber = "57"
+         landmarkName = "-performDragOperation:"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "Yes"
@@ -181,7 +191,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "56"
-         endingLineNumber = "56">
+         endingLineNumber = "56"
+         landmarkName = "-initWithEffectViewContainer:"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "No"
@@ -253,7 +265,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "20"
-         endingLineNumber = "20">
+         endingLineNumber = "20"
+         landmarkName = "-init"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "No"
@@ -265,7 +279,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "83"
-         endingLineNumber = "83">
+         endingLineNumber = "83"
+         landmarkName = "-getUserDefaultsKey"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "No"
@@ -313,7 +329,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "248"
-         endingLineNumber = "248">
+         endingLineNumber = "248"
+         landmarkName = "-preparedMovieLocation:"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "Yes"
@@ -349,7 +367,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "226"
-         endingLineNumber = "226">
+         endingLineNumber = "226"
+         landmarkName = "-setPropertiesFromTrack:"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "Yes"
@@ -373,14 +393,16 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "18"
-         endingLineNumber = "18">
+         endingLineNumber = "18"
+         landmarkName = "-content"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "Yes"
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          isPathRelative = "0"
-         filePath = "/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h"
+         filePath = "../../../../../../../../Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Headers/Quartz.h"
          timestampString = "303818365.543094"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
