@@ -707,6 +707,53 @@
 						</dict>
 					</array>
 				</dict>
+				<dict>
+					<key>Id</key>
+					<integer>20</integer>
+					<key>Name</key>
+					<string>Chroma Keyer</string>
+					<key>Category</key>
+					<string>2</string>
+					<key>arguments</key>
+					<array>
+						<dict>
+							<key>Name</key>
+							<string>Hue</string>
+							<key>Type</key>
+							<string>Color</string>
+						</dict>
+						<dict>
+							<key>Name</key>
+							<string>Hue width</string>
+							<key>Type</key>
+							<string>Number</string>
+							<key>min</key>
+							<integer>0</integer>
+							<key>max</key>
+							<integer>100</integer>
+						</dict>
+						<dict>
+							<key>Name</key>
+							<string>Saturation from</string>
+							<key>Type</key>
+							<string>Number</string>
+							<key>min</key>
+							<integer>0</integer>
+							<key>max</key>
+							<integer>100</integer>
+						</dict>
+						<dict>
+							<key>Name</key>
+							<string>Saturation from Width</string>
+							<key>Type</key>
+							<string>Number</string>
+							<key>min</key>
+							<integer>0</integer>
+							<key>max</key>
+							<integer>100</integer>
+						</dict>
+					</array>
+				</dict>
 			</array>
 			<key>CunddDiveVideoChainQCPatchController</key>
 			<dict>

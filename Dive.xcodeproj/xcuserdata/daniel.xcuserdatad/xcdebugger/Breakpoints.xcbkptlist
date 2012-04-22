@@ -317,7 +317,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "210"
-         endingLineNumber = "210">
+         endingLineNumber = "210"
+         landmarkName = "-surfaceDidResize:"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "No"
@@ -343,7 +345,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "247"
-         endingLineNumber = "247">
+         endingLineNumber = "247"
+         landmarkName = "-stop:"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "No"
