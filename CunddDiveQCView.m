@@ -87,12 +87,12 @@
 
 
 -(BOOL) startTimer{
-	BOOL useGCD = NO;
+	BOOL useGCD = YES;
 	
 	NSTimeInterval timeInterval = (NSTimeInterval) 1.0 / [[CunddConfig valueForKeyPath:@"Defaults.CunddDive.CunddDiveMaster.Framerate"] intValue];
 	
 	if(useGCD){
-#if MAC_OS_X_VERSION_10_6
+#if MAC_OS_X_VERSION_10_6 || MAC_OS_X_VERSION_10_7
 		uint64_t timeInterval_gcd;
 		timeInterval_gcd = timeInterval * NSEC_PER_SEC;
 		
@@ -173,14 +173,14 @@
     mouseLocation.x /= self.bounds.size.width;
     mouseLocation.y /= self.bounds.size.height;
     arguments = [NSMutableDictionary dictionaryWithObject:[NSValue 
-														   valueWithPoint:mouseLocation]
-												   forKey:QCRendererMouseLocationKey];
+                                                           valueWithPoint:mouseLocation]
+                                                   forKey:QCRendererMouseLocationKey];
     if(event){
 		[arguments setObject:event forKey:QCRendererEventKey];
 	}
 	
 	
-	if(![self.qcRenderer renderAtTime:time arguments:arguments]){
+	if(![qcRenderer renderAtTime:time arguments:arguments]){
 		[self debug:[NSString stringWithFormat:@"Rendering failed at time %.3fs",time]];
 	}
 	[self.context flushBuffer];
