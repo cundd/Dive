@@ -308,7 +308,7 @@ void readFunction(const MIDIPacketList *pktlist,void *readProcRefCon,void *srcCo
 	[destinationPoint release];
 	[super dealloc];
 }
- /* */
+ // */
 
 @synthesize midiClient,inputPort,outputPort,sourcePoint,devices,destinationPoint;
 @end

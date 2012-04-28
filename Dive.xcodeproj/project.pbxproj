@@ -81,8 +81,6 @@
 		6539B5A611A197F500AEA362 /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6539B5A511A197F500AEA362 /* OpenGL.framework */; };
 		6539B68711A1B3CB00AEA362 /* CunddDiveVideoChainQCView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6539B68611A1B3CB00AEA362 /* CunddDiveVideoChainQCView.m */; };
 		6539B83911A1C4B400AEA362 /* CunddDiveMasterQCView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6539B83811A1C4B400AEA362 /* CunddDiveMasterQCView.m */; };
-		6543F0C811E1BF2A003154CB /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 6543F0C711E1BF2A003154CB /* LICENSE.txt */; };
-		6543F0C911E1BF2A003154CB /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 6543F0C711E1BF2A003154CB /* LICENSE.txt */; };
 		654A117D1180EDDC00E0CCC6 /* CunddDiveVideoChainDraggingDestinationView.m in Sources */ = {isa = PBXBuildFile; fileRef = 654A117C1180EDDC00E0CCC6 /* CunddDiveVideoChainDraggingDestinationView.m */; };
 		654ACE2311B7AC1B00DAABCC /* CunddDiveEffectColorValueTransformer.m in Sources */ = {isa = PBXBuildFile; fileRef = 654ACE2211B7AC1B00DAABCC /* CunddDiveEffectColorValueTransformer.m */; };
 		654ACE4811B7B48E00DAABCC /* City_Lights.xib in Resources */ = {isa = PBXBuildFile; fileRef = 654ACE4711B7B48E00DAABCC /* City_Lights.xib */; };
@@ -193,6 +191,12 @@
 		65D4F85411CBDD81006ED25F /* CunddMIDI.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = 65D4F61311CBBCD5006ED25F /* CunddMIDI.framework */; };
 		65D4F94D11CBE756006ED25F /* CunddCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65D4F71111CBD838006ED25F /* CunddCore.framework */; };
 		65D9BCA811A7FCAC00323538 /* Transform.xib in Resources */ = {isa = PBXBuildFile; fileRef = 65D9BCA711A7FCAC00323538 /* Transform.xib */; };
+		65E05C67154C14A800A35C1F /* COPYING in Resources */ = {isa = PBXBuildFile; fileRef = 65E05C65154C14A800A35C1F /* COPYING */; };
+		65E05C68154C14A800A35C1F /* COPYING in Resources */ = {isa = PBXBuildFile; fileRef = 65E05C65154C14A800A35C1F /* COPYING */; };
+		65E05C69154C14A800A35C1F /* COPYING in Resources */ = {isa = PBXBuildFile; fileRef = 65E05C65154C14A800A35C1F /* COPYING */; };
+		65E05C6A154C14A800A35C1F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 65E05C66154C14A800A35C1F /* README.md */; };
+		65E05C6B154C14A800A35C1F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 65E05C66154C14A800A35C1F /* README.md */; };
+		65E05C6C154C14A800A35C1F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 65E05C66154C14A800A35C1F /* README.md */; };
 		65E23CEA11A6C3F40043A627 /* CunddDiveMocMode.m in Sources */ = {isa = PBXBuildFile; fileRef = 65E23CE911A6C3F40043A627 /* CunddDiveMocMode.m */; };
 		65E417FD11B4123F00B7875B /* CunddFullscreenController.m in Sources */ = {isa = PBXBuildFile; fileRef = 65E417FC11B4123F00B7875B /* CunddFullscreenController.m */; };
 		65E4183A11B416EA00B7875B /* Dice_AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 65E4183911B416EA00B7875B /* Dice_AppDelegate.m */; };
@@ -359,7 +363,6 @@
 		6539B68611A1B3CB00AEA362 /* CunddDiveVideoChainQCView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddDiveVideoChainQCView.m; sourceTree = "<group>"; };
 		6539B83711A1C4B400AEA362 /* CunddDiveMasterQCView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddDiveMasterQCView.h; sourceTree = "<group>"; };
 		6539B83811A1C4B400AEA362 /* CunddDiveMasterQCView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddDiveMasterQCView.m; sourceTree = "<group>"; };
-		6543F0C711E1BF2A003154CB /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		654A117B1180EDDC00E0CCC6 /* CunddDiveVideoChainDraggingDestinationView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddDiveVideoChainDraggingDestinationView.h; sourceTree = "<group>"; };
 		654A117C1180EDDC00E0CCC6 /* CunddDiveVideoChainDraggingDestinationView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddDiveVideoChainDraggingDestinationView.m; sourceTree = "<group>"; };
 		654A121C1180F55400E0CCC6 /* net.cundd.Dive.plist */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; name = net.cundd.Dive.plist; path = ../../../../Library/Preferences/net.cundd.Dive.plist; sourceTree = SOURCE_ROOT; };
@@ -497,6 +500,8 @@
 		65D4F76C11CBDA73006ED25F /* CunddViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddViewController.h; sourceTree = "<group>"; };
 		65D4F76D11CBDA73006ED25F /* CunddViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddViewController.m; sourceTree = "<group>"; };
 		65D9BCA711A7FCAC00323538 /* Transform.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Transform.xib; sourceTree = "<group>"; };
+		65E05C65154C14A800A35C1F /* COPYING */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = COPYING; sourceTree = "<group>"; };
+		65E05C66154C14A800A35C1F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		65E23CE811A6C3F40043A627 /* CunddDiveMocMode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddDiveMocMode.h; sourceTree = "<group>"; };
 		65E23CE911A6C3F40043A627 /* CunddDiveMocMode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CunddDiveMocMode.m; sourceTree = "<group>"; };
 		65E23D0411A6C8B30043A627 /* CunddDiveScreen.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CunddDiveScreen.h; sourceTree = "<group>"; };
@@ -664,6 +669,8 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				65E05C65154C14A800A35C1F /* COPYING */,
+				65E05C66154C14A800A35C1F /* README.md */,
 				6523B73C1180471B00AA0404 /* VideoChain.xib */,
 				6570089D11F19FEE0092A69C /* ScreenIndicator.xib */,
 				6523B73A1180471B00AA0404 /* config.plist */,
@@ -673,7 +680,6 @@
 				65E4191E11B5516200B7875B /* dive_icon.icns */,
 				65C6F8051195920900B1EB39 /* EffectViews */,
 				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
-				6543F0C711E1BF2A003154CB /* LICENSE.txt */,
 				2F7446970DB6B7EA00F9684A /* MainMenu.xib */,
 				65D094A911997751006377AE /* MainOutputPreview.xib */,
 				65C6EFBF1191B24000B1EB39 /* menuItems */,
@@ -1212,6 +1218,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65E05C69154C14A800A35C1F /* COPYING in Resources */,
+				65E05C6C154C14A800A35C1F /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1228,7 +1236,6 @@
 				654ACE4811B7B48E00DAABCC /* City_Lights.xib in Resources */,
 				654ACF0A11B7C4B800DAABCC /* BYPASS.xib in Resources */,
 				65AE920C11C3E9B60038B11C /* Key_Out.xib in Resources */,
-				6543F0C811E1BF2A003154CB /* LICENSE.txt in Resources */,
 				6576C76E11EF56BF00382FCE /* Color_Invert.xib in Resources */,
 				6576C77411EF571B00382FCE /* Color_Posterize.xib in Resources */,
 				6576C78311EF58C200382FCE /* Edge_Work.xib in Resources */,
@@ -1244,6 +1251,8 @@
 				6570089111F19FCA0092A69C /* dive_screenIndicator_s_on.png in Resources */,
 				6570089211F19FCA0092A69C /* dive_screenIndicator_v_off.png in Resources */,
 				6570089311F19FCA0092A69C /* dive_screenIndicator_v_on.png in Resources */,
+				65E05C68154C14A800A35C1F /* COPYING in Resources */,
+				65E05C6B154C14A800A35C1F /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1276,7 +1285,6 @@
 				654ACE4911B7B48E00DAABCC /* City_Lights.xib in Resources */,
 				654ACF0B11B7C4B800DAABCC /* BYPASS.xib in Resources */,
 				65AE920D11C3E9B60038B11C /* Key_Out.xib in Resources */,
-				6543F0C911E1BF2A003154CB /* LICENSE.txt in Resources */,
 				6576C74511EF561600382FCE /* EffectDummy_TitleOnly.xib in Resources */,
 				6576C76711EF565C00382FCE /* EffectDummy_Four.xib in Resources */,
 				6576C76F11EF56BF00382FCE /* Color_Invert.xib in Resources */,
@@ -1299,6 +1307,8 @@
 				6570089911F19FCA0092A69C /* dive_screenIndicator_v_off.png in Resources */,
 				6570089A11F19FCA0092A69C /* dive_screenIndicator_v_on.png in Resources */,
 				6570089E11F19FEE0092A69C /* ScreenIndicator.xib in Resources */,
+				65E05C67154C14A800A35C1F /* COPYING in Resources */,
+				65E05C6A154C14A800A35C1F /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1467,7 +1477,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application";
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1493,7 +1502,6 @@
 		26FC0A860875C7B200E6366F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application";
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",

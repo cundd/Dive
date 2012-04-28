@@ -27,7 +27,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "36"
-         endingLineNumber = "36">
+         endingLineNumber = "36"
+         landmarkName = "-init"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "No"
@@ -77,7 +79,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "41"
-         endingLineNumber = "41">
+         endingLineNumber = "41"
+         landmarkName = "-initWithLibraryObject:"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "No"
@@ -89,7 +93,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "75"
-         endingLineNumber = "75">
+         endingLineNumber = "75"
+         landmarkName = "@implementation CunddDiveEffectInfo"
+         landmarkType = "3">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "No"
@@ -101,7 +107,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "75"
-         endingLineNumber = "75">
+         endingLineNumber = "75"
+         landmarkName = "@implementation CunddDiveEffectInfo"
+         landmarkType = "3">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "No"
@@ -128,7 +136,7 @@
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "31"
          endingLineNumber = "31"
-         landmarkName = "-draggingEntered:"
+         landmarkName = "-awakeFromNib"
          landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
@@ -229,7 +237,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "114"
-         endingLineNumber = "114">
+         endingLineNumber = "114"
+         landmarkName = "-setup"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "No"
@@ -241,7 +251,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "64"
-         endingLineNumber = "64">
+         endingLineNumber = "64"
+         landmarkName = "-setup"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "No"

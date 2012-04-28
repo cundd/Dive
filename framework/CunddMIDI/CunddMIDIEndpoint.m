@@ -94,7 +94,7 @@
 		NSLog(@"%X %i",length,length);
 		NSLog(@"startDataPointer=%X",*startDataPointer);
 		NSLog(@"data[i]=%X",data[i]);
-		/* */
+		// */
 		
 		nextPacket = MIDIPacketListAdd(&packetList, sizeof(packetList), nextPacket, 0, length, startDataPointer);
 		startDataPointer++;
@@ -103,7 +103,7 @@
 			NSLog(@"MIDIPacketListAdd failed");
 		}
 	}
-	/* */
+	// */
 
 	printf("\n");
 	
@@ -112,7 +112,7 @@
 	NSLog(@"%X %i",length,length);
 	NSLog(@"data[i]%X data%X",data[i],*data);
 	NSLog(@"data[1]%X data%X",data[1],*data);
-/* */
+// */
 	
 	
 	

@@ -159,7 +159,7 @@
 	[unescapedString writeToFile:path atomically:NO encoding:NSUTF8StringEncoding error:nil];
 	
 	returnDict = [NSDictionary dictionaryWithContentsOfFile:path];
-	/* */
+	// */
 	
 	returnDict = [NSDictionary dictionaryWithDictionary:tempDict];
 	

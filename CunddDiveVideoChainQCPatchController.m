@@ -3,7 +3,24 @@
 //  Dive
 //
 //  Created by Daniel Corn on 23.04.10.
-//  Copyright 2010 cundd. All rights reserved.
+//
+//    Copyright © 2010-2012 Corn Daniel
+//
+//    This file is part of Dive.
+//
+//    Dive is free software: you can redistribute it and/or modify
+//    it under the terms of the GNU General Public License as published by
+//    the Free Software Foundation, either version 3 of the License, or
+//    (at your option) any later version.
+//
+//    Foobar is distributed in the hope that it will be useful,
+//    but WITHOUT ANY WARRANTY; without even the implied warranty of
+//    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//    GNU General Public License for more details.
+//
+//    You should have received a copy of the GNU General Public License
+//    along with Foobar.  If not, see <http://www.gnu.org/licenses/>.
+//
 //
 
 #import "CunddDiveVideoChainQCPatchController.h"
@@ -61,7 +78,7 @@
 	NSLog(@"self.view = %@",self.view);
 	//[self.targetView retain];
 	[self.targetView addSubview:self.view];
-	 /* */
+	 // */
 	
 	[self debug:@"qcComposition inputKeys %@" o:[self.view inputKeys]];
 //	[self debug:@"qcComposition outputKeys %@" o:[self.qcComposition outputKeys]];
@@ -71,7 +88,7 @@
 /*	if(![self.qcPatchController patch]){
 		[self.qcPatchController setView:self.view];
 	}
-	/* */
+	// */
 	
 	
 	// Add observers
@@ -112,7 +129,7 @@
 	// Add observer to the output-port
 	[self.qcComposition addObserver:self forKeyPath:@"output" options:NSKeyValueObservingOptionNew context:nil];
 	[self.view addObserver:self forKeyPath:@"output" options:NSKeyValueObservingOptionNew context:nil];
-	/* */
+	// */
 	
 	// Add observer for the effect-settings
 	// NSString * effectChainPropertyAliasIdentifier = [CunddConfig valueForKeyPath:@"Constants.CunddDive.kEffectSettingsPropertyAliasIdentifier"];
@@ -129,7 +146,7 @@
 		[self addObserver:self forKeyPath:[NSString stringWithFormat:@"patch.psl2.arg%i.argValue",i] options:NSKeyValueObservingOptionNew context:effectChainPropertyAliasIdentifier];
 		[self addObserver:self forKeyPath:[NSString stringWithFormat:@"patch.psl3.arg%i.argValue",i] options:NSKeyValueObservingOptionNew context:effectChainPropertyAliasIdentifier];
 //		patch.psl1.arg2.argValue
-		 /* */
+		 // */
 
 	}
 	
@@ -238,7 +255,7 @@
 	[super setValue:value forKeyPath:keyPath];
 //	[self.patch setValue:value forKey:keyPath];
 }
- /* */
+ // */
 
 
 #pragma mark Getters

@@ -3,7 +3,24 @@
 //  Dive
 //
 //  Created by Daniel Corn on 22.04.10.
-//  Copyright 2010 cundd. All rights reserved.
+//
+//    Copyright © 2010-2012 Corn Daniel
+//
+//    This file is part of Dive.
+//
+//    Dive is free software: you can redistribute it and/or modify
+//    it under the terms of the GNU General Public License as published by
+//    the Free Software Foundation, either version 3 of the License, or
+//    (at your option) any later version.
+//
+//    Foobar is distributed in the hope that it will be useful,
+//    but WITHOUT ANY WARRANTY; without even the implied warranty of
+//    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//    GNU General Public License for more details.
+//
+//    You should have received a copy of the GNU General Public License
+//    along with Foobar.  If not, see <http://www.gnu.org/licenses/>.
+//
 //
 
 #import "CunddDiveVideoChainSettings.h"
@@ -133,7 +150,7 @@ static int indexCounter;
 		}
 		return FALSE;
 	};
-	/* */
+	// */
 	
 	NSUInteger oneItemDidPassTest = [[self cundd_getPropertyList] indexOfObjectPassingTest:
 									 isEqualBlock
@@ -190,7 +207,7 @@ static int indexCounter;
 	return [propertyValues valueForKey:key];
 }
 
-/* */
+// */
 
 #pragma mark Setters
 -(void) loadTrack:(CunddITunesTrack *)aTrack{
@@ -251,7 +268,7 @@ static int indexCounter;
 
 
 
-/* */
+// */
 -(void) setValue:(id)value forUndefinedKey:(NSString *)key{
 	NSString * badPrefix = @"patch.";
 	if([key hasPrefix:badPrefix]){
@@ -275,7 +292,7 @@ static int indexCounter;
 	[super setValue:value forKey:key];
 	//[self updateUserDefaults];
 }
- /* */
+ // */
 
 
 

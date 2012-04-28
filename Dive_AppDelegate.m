@@ -23,7 +23,7 @@
 	/*
 	[NSEvent addLocalMonitorForEventsMatchingMask:(NSKeyDownMask) handler:^(NSEvent *incomingEvent) {
 		return [CunddAppEventHandler handleEvent:incomingEvent];
-	}]; /* */
+	}]; // */
 }
 
 /**
@@ -169,7 +169,7 @@
 	} else {
 		return NSTerminateCancel;
 	}
-	/* */
+	// */
 	
     if (!managedObjectContext) return NSTerminateNow;
 

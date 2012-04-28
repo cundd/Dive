@@ -137,7 +137,7 @@
 		
 		[self debug:@"Old stream finished"];
 	}
-	/* */
+	// */
 	
 	
 	if(!_streamRunning && self.serverService){

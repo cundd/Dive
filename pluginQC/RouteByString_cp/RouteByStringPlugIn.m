@@ -30,7 +30,7 @@ inputInt1,inputInt2,inputInt3,inputInt4,inputInt5,inputInt6,inputInt7,inputInt8,
 inputBool1,inputBool2,inputBool3,inputBool4,inputBool5,inputBool6,inputBool7,inputBool8,
 inputStruct1,inputStruct2,inputStruct3,inputStruct4,inputStruct5,inputStruct6,inputStruct7,inputStruct8,
 outputOutput;
-/* */
+// */
 
 + (NSDictionary*) attributes
 {

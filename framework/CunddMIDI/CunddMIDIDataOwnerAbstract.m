@@ -103,7 +103,7 @@
 	[commandV getValue:&sentCommand];
 	[sentKeyV getValue:&sentKey];
 	[velocityV getValue:&sentVelocity];
-	/* */
+	// */
 	
 	
 //	NSLog(@"ES IST %X %X %X",*sentCommand,*sentKey,*sentVelocity);
